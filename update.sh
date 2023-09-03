@@ -17,7 +17,7 @@ if [ $EXIT_CODE -eq 2 ]; then
     # Exit code 2 means that there were no significant changes
     echo "This means that there were no significant changes"
     exit 0
-elif [ $EXIT_CODE -eq 0 ]; then
+#elif [ $EXIT_CODE -eq 0 ]; then
     # Exit code 0 means that we can commit everything & push
 
     #echo "This means that we now have changes we should push"
