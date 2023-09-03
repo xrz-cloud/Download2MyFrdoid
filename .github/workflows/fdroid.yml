@@ -45,7 +45,7 @@ jobs:
           GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
 
       - name: Push dir to Git
-        uses: iziwl/git-push-action@v1.0.4
+        uses: liziwl/git-push-action@v1.0.4
         with:
     # Username of token holder
           git_token_holder: xrz-cloud
