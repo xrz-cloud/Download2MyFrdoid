@@ -20,14 +20,14 @@ if [ $EXIT_CODE -eq 2 ]; then
 elif [ $EXIT_CODE -eq 0 ]; then
     # Exit code 0 means that we can commit everything & push
 
-    echo "This means that we now have changes we should push"
+    #echo "This means that we now have changes we should push"
 
-    git config --global user.name 'github-actions'
-    git config --global user.email '62951481+github-actions[bot]@users.noreply.github.com'
+    #git config --global user.name 'github-actions'
+    #git config --global user.email '62951481+github-actions[bot]@users.noreply.github.com'
 
-    git add .
-    git commit -m"Automated update"
-    git push
+    #git add .
+    #git commit -m"Automated update"
+    #git push
 else 
     echo "This is an unexpected error"
 
