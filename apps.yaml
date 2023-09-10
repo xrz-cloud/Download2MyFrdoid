@@ -8,3 +8,72 @@ tachiyomiJ2K:
   # you can use any name here, but you should look at the existing categories first
   categories: 
     - Reading
+
+KernelSu:
+  git: https://github.com/tiann/KernelSU
+  name: "KernelSu"
+  description: |
+    A Kernel based root solution for Android
+  categories:
+    - System
+
+BiliRoaming:
+  git: https://github.com/yujincheng08/BiliRoaming
+  name: "哔哩漫游 BiliRoaming"
+  description: |
+    哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+  categories:
+    - Internet
+
+DolbyBeta:
+  git: https://github.com/nining377/dolby_beta
+  name: "杜比大喇叭β版 DolbyBeta"
+  description: |
+    杜比大喇叭β是一款网易云音乐的音源代理模块，初衷只是我对网易云音乐的热爱，希望让更多的人使用网易云。
+    模块工作原理为音源替换而非破解，所以单曲付费与无版权歌曲有几率匹配错误，真心支持歌手请付费！
+  categories:
+    - Internet
+
+HideMyApplist:
+  git: https://github.com/Dr-TSNG/Hide-My-Applist
+  name: "隐藏应用列表 Hide-My-Applist"
+  description: |
+    An Xposed module to intercept applist detections
+  categories:
+    - System
+
+FuckCoolapkR:
+  git: https://github.com/Xposed-Modules-Repo/org.hello.coolapk
+  name: "FuckCoolapkR"
+  description: |
+    Remove Ads and offer some functions in coolapk.
+    Best present for 316 and 423.
+  categories:
+    - Internet
+
+TSBattery:
+  git: https://github.com/fankes/TSBattery
+  name: "TSBattery"
+  description: |
+    A new way to save your battery avoid cancer apps hacker it.
+    TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块。
+  categories:
+    - System
+
+Thanox:
+  git: https://github.com/Tornaco/Thanox
+  name: "Thanox"
+  description: |
+    Thanox是一个Android系统管理工具，在系统隐私和系统优化方便提供了便利的功能。包含应用的权限管理，后台启动管理，后台运行管理，以及强大的情景模式和独特新奇的移花接木功能。
+  categories:
+    - System
+
+legado:
+  git: https://github.com/gedoor/legado
+  name: "Legado 阅读"
+  description: |
+    Legado / 开源阅读
+    gedoor.github.io / legado.top
+    Legado is a free and open source novel reader for Android.
+  categories:
+    - Reading
