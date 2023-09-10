@@ -1,0 +1,7 @@
+Fix crash on Android 14
+Prevent a detection from system service
+Update translations
+#
+修复 Android 14 上闪退
+避免一个系统服务的检测
+更新翻译

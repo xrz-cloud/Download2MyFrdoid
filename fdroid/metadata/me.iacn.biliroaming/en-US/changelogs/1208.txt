@@ -1,0 +1,8 @@
+Xpatch/LSPatch 版下载地址：https://wwe.lanzoux.com/b015ll4sb 2333
+备份下载地址：https://wwe.lanzoux.com/b0159j7uh 2333
+
+### 更新日志
+- 兼容 7.31+
+- 修复 play 版兼容
+- 调整设置顺序，更加符合逻辑
+- 添加捐赠渠道，喜欢漫游的可以在设置中点击捐赠喵

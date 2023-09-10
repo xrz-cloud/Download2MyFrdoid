@@ -1,0 +1,9 @@
+### What's changed
+
+1. 重要更新：适配LSPosed 1.9.1新API，支持自动请求勾选scope
+2. 修复android11以上防止卸载功能失效问题
+
+---------
+
+1. Update to support LSPosed v1.9.1, with modern API, thanox can auto request Xposed scope now.
+2. Fix Prevent uninstall/clear data issue

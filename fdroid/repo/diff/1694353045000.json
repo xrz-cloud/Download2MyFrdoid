@@ -1,0 +1,149 @@
+{
+  "repo": {
+    "timestamp": 1694353076000
+  },
+  "packages": {
+    "com.fankes.tsbattery": {
+      "metadata": {
+        "categories": [
+          "System"
+        ],
+        "license": "AGPL-3.0",
+        "sourceCode": "https://github.com/fankes/TSBattery",
+        "authorName": "fankes",
+        "summary": {
+          "en-US": "A new way to save your battery avoid cancer apps hacker it."
+        },
+        "description": {
+          "en-US": "A new way to save your battery avoid cancer apps hacker it.\nTSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块。\n"
+        }
+      }
+    },
+    "com.raincat.dolby_beta": {
+      "metadata": {
+        "categories": [
+          "Internet"
+        ],
+        "license": "MIT",
+        "sourceCode": "https://github.com/nining377/dolby_beta",
+        "authorName": "nining377",
+        "name": {
+          "en-US": "杜比大喇叭β版 DolbyBeta"
+        },
+        "summary": {
+          "en-US": "b'\\xe6\\x9d\\x9c\\xe6\\xaf\\x94\\xe5\\xa4\\xa7\\xe5\\x96\\x87\\xe5\\x8f\\xad\\xe7\\x9a\\x84\\xce\\xb2\\xe7\\x89\\x88\\xe8\\xbf\\x8e\\xe6\\x9d\\xa5\\xe4\\xba\\x86\\xe9\\x87\\x8d\\xe5\\xa4\\xa7\\xe7\\x9a\\x84\\xe9\\x9d\\xa9\\xe6\\x96\\xb0\\xef\\xbc\\x8c\\xe5\\x90\\x88\\xe5\\xb9\\xb6\\xe4\\xba\\x86UnblockMusic Pro\\xe7\\x9a...'"
+        },
+        "description": {
+          "en-US": "杜比大喇叭β是一款网易云音乐的音源代理模块，初衷只是我对网易云音乐的热爱，希望让更多的人使用网易云。\n模块工作原理为音源替换而非破解，所以单曲付费与无版权歌曲有几率匹配错误，真心支持歌手请付费！\n"
+        }
+      }
+    },
+    "com.tsng.hidemyapplist": {
+      "metadata": {
+        "categories": [
+          "System"
+        ],
+        "license": "AGPL-3.0",
+        "sourceCode": "https://github.com/Dr-TSNG/Hide-My-Applist",
+        "authorName": "Dr-TSNG",
+        "name": {
+          "en-US": "隐藏应用列表 Hide-My-Applist"
+        },
+        "summary": {
+          "en-US": "An Xposed module to intercept applist detections"
+        },
+        "description": {
+          "en-US": "An Xposed module to intercept applist detections\n"
+        }
+      }
+    },
+    "github.tornaco.android.thanos": {
+      "metadata": {
+        "categories": [
+          "System"
+        ],
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Tornaco/Thanox",
+        "authorName": "Tornaco",
+        "summary": {
+          "en-US": "I am thanos! 😈 👌"
+        },
+        "description": {
+          "en-US": "Thanox是一个Android系统管理工具，在系统隐私和系统优化方便提供了便利的功能。包含应用的权限管理，后台启动管理，后台运行管理，以及强大的情景模式和独特新奇的移花接木功能。\n"
+        }
+      }
+    },
+    "io.legado.app.release": {
+      "metadata": {
+        "categories": [
+          "Reading"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/gedoor/legado",
+        "authorName": "gedoor",
+        "name": {
+          "en-US": "Legado 阅读"
+        },
+        "summary": {
+          "en-US": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0..."
+        },
+        "description": {
+          "en-US": "Legado / 开源阅读\ngedoor.github.io / legado.top\nLegado is a free and open source novel reader for Android.\n"
+        }
+      }
+    },
+    "me.iacn.biliroaming": {
+      "metadata": {
+        "categories": [
+          "Internet"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/yujincheng08/BiliRoaming",
+        "authorName": "yujincheng08",
+        "name": {
+          "en-US": "哔哩漫游 BiliRoaming"
+        },
+        "summary": {
+          "en-US": "b'\\xe5\\x93\\x94\\xe5\\x93\\xa9\\xe6\\xbc\\xab\\xe6\\xb8\\xb8\\xef\\xbc\\x8c\\xe8\\xa7\\xa3\\xe9\\x99\\xa4B\\xe7\\xab\\x99\\xe5\\xae\\xa2\\xe6\\x88\\xb7\\xe7\\xab\\xaf\\xe7\\x95\\xaa\\xe5\\x89\\xa7\\xe5\\x8c\\xba\\xe5\\x9f\\x9f\\xe9\\x99\\x90\\xe5\\x88\\xb6\\xe7\\x9a\\x84Xposed\\xe6\\xa8\\xa1\\xe5\\x9d\\x97\\xef\\xbc\\x8c\\xe5\\xb9\\xb6\\xe4\\xb8\\x94\\xe6...'"
+        },
+        "description": {
+          "en-US": "哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.\n"
+        }
+      }
+    },
+    "me.weishu.kernelsu": {
+      "metadata": {
+        "categories": [
+          "System"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/tiann/KernelSU",
+        "authorName": "tiann",
+        "name": {
+          "en-US": "KernelSu"
+        },
+        "summary": {
+          "en-US": "A Kernel based root solution for Android"
+        },
+        "description": {
+          "en-US": "A Kernel based root solution for Android\n"
+        }
+      }
+    },
+    "org.hello.coolapk": {
+      "metadata": {
+        "categories": [
+          "Internet"
+        ],
+        "sourceCode": "https://github.com/Xposed-Modules-Repo/org.hello.coolapk",
+        "authorName": "Xposed-Modules-Repo",
+        "summary": {
+          "en-US": "FuckCoolapk R"
+        },
+        "description": {
+          "en-US": "Remove Ads and offer some functions in coolapk.\nBest present for 316 and 423.\n"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+AuthorName: Xposed-Modules-Repo
+Categories:
+    - Internet
+CurrentVersion: Release-1.16.2
+CurrentVersionCode: 1162
+Description: |
+    Remove Ads and offer some functions in coolapk.
+    Best present for 316 and 423.
+IssueTracker: ""
+Name: FuckCoolapkR
+SourceCode: https://github.com/Xposed-Modules-Repo/org.hello.coolapk
+Summary: FuckCoolapk R
+WebSite: ""

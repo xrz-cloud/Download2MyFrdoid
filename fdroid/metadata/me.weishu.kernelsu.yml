@@ -1,0 +1,13 @@
+AuthorName: tiann
+Categories:
+    - System
+CurrentVersion: v0.6.7
+CurrentVersionCode: 11210
+Description: |
+    A Kernel based root solution for Android
+IssueTracker: ""
+License: GPL-3.0
+Name: KernelSu
+SourceCode: https://github.com/tiann/KernelSU
+Summary: A Kernel based root solution for Android
+WebSite: ""

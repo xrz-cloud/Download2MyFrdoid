@@ -1,0 +1,15 @@
+AuthorName: yujincheng08
+Categories:
+    - Internet
+CurrentVersion: 1.6.12
+CurrentVersionCode: 1208
+Description: |
+    哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
+IssueTracker: ""
+License: GPL-3.0
+Name: 哔哩漫游 BiliRoaming
+SourceCode: https://github.com/yujincheng08/BiliRoaming
+Summary: !!binary |
+    5ZOU5ZOp5ryr5ri477yM6Kej6ZmkQuermeWuouaIt+err+eVquWJp+WMuuWfn+mZkOWItu
+    eahFhwb3NlZOaooeWdl++8jOW5tuS4lOYuLi4=
+WebSite: ""

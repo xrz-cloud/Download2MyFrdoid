@@ -1,0 +1,5 @@
+- [Kernel]: Fix kernel version strings.
+- [Kernel]: Fix build for 4.9 kernels.
+- [Module]: Add `post-mount` stage for module and common scripts.
+- [Module]: Fix module failed to install in some cases.
+- [Manager]: Fix the bug that some modules cause the module list to be empty.

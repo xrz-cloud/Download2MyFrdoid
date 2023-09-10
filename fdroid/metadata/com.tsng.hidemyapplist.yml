@@ -1,0 +1,13 @@
+AuthorName: Dr-TSNG
+Categories:
+    - System
+CurrentVersion: "3.2"
+CurrentVersionCode: 410
+Description: |
+    An Xposed module to intercept applist detections
+IssueTracker: ""
+License: AGPL-3.0
+Name: 隐藏应用列表 Hide-My-Applist
+SourceCode: https://github.com/Dr-TSNG/Hide-My-Applist
+Summary: An Xposed module to intercept applist detections
+WebSite: ""
