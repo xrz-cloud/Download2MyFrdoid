@@ -42,24 +42,4 @@ jobs:
       - name: Run update script
         run: bash update.sh 2>&1
         env:
-          GH_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
-
-      - name: Push dir to Git
-        uses: liziwl/git-push-action@v1.0.4
-        with:
-    # Username of token holder
-          git_token_holder: xrz-cloud
-    # Token for the destination repo. Can be passed in using $\{{ secrets.GIT_TOKEN }}
-          git_token: ${{ secrets.GH_ACCESS_TOKEN }}
-    # Repository URL after "https://", like "github.com/USER_NAME/REPO_NAME.git"
-          repository_url: github.com/xrz-cloud/Download2MyFrdoid.git
-    # Directory to push
-          push_dir: ./
-    # User to commit
-          commit_user: github-actions
-    # Email of the user to commit
-          commit_email: 62951481+github-actions[bot]@users.noreply.github.com
-    # Destination branch to push changes
-          branch: main
-    # Commit messgae
-          commit_message: 'Automated update'
+          GH_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
