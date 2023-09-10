@@ -1,1 +1,398 @@
-{"repo": {"timestamp": 1654932141000, "version": 20001, "name": "Efreak Repo", "icon": "icon.png", "address": "https://raw.githubusercontent.com/efreak/auto-daily-fdroid/main/fdroid/repo", "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are official binaries built by the original application developers and released on the official github pages.\nIncluded apps are FastHub (not listed in fdroid), FastHub-Re (also not listed, a more up-to-date fork of FastHub-Libre) and Hacki (updates are too fast for fdroid). More might be added eventually."}, "requests": {"install": [], "uninstall": []}, "apps": [], "packages": {}}
+{
+  "repo": {
+    "timestamp": 1694348070000,
+    "version": 20002,
+    "name": "My First F-Droid Repo Demo",
+    "icon": "icon.png",
+    "address": "https://raw.githubusercontent.com/xrz-cloud/Download2MyFrdoid/main/fdroid/repo",
+    "description": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [
+    {
+      "authorName": "Jays2Kings",
+      "categories": [
+        "Reading"
+      ],
+      "suggestedVersionName": "1.6.6",
+      "suggestedVersionCode": "104",
+      "description": "TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi\n",
+      "license": "Apache-2.0",
+      "name": "tachiyomiJ2K",
+      "sourceCode": "https://github.com/Jays2Kings/tachiyomiJ2K",
+      "summary": "Free and open source manga reader for Android",
+      "added": 1694348053000,
+      "packageName": "eu.kanade.tachiyomi.j2k",
+      "lastUpdated": 1694348059000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "## Changes\n* App now shows an installing notification when the app is auto updating (won't see this until next update, or if you update from this to [beta](https://github.com/Jays2Kings/tachiyomiJ2K/releases/tag/v1.7.0-b02))\n  * App updated notification is now larger and shows an open button\n* When updating tags, changing to another text field or pressing done on the edit manga dialog will also save the tags\n  * Also when batch adding tags (ie. \"tag 1, tag 2\") the tags will be split up when adde"
+        }
+      }
+    }
+  ],
+  "packages": {
+    "eu.kanade.tachiyomi.j2k": [
+      {
+        "added": 1694348059000,
+        "apkName": "tachiyomiJ2K_v1.6.6.apk",
+        "hash": "449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "eu.kanade.tachiyomi.j2k",
+        "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
+        "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
+        "size": 27102543,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_SPECIFIC_LOCALES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 104,
+        "versionName": "1.6.6"
+      },
+      {
+        "added": 1694348056000,
+        "apkName": "tachiyomiJ2K_v1.6.5.apk",
+        "hash": "9c3c922f5882e9c4d2b9f5c19569bce3a563c38234426a73cf78c3ae797134a9",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "eu.kanade.tachiyomi.j2k",
+        "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
+        "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
+        "size": 27086159,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_SPECIFIC_LOCALES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 103,
+        "versionName": "1.6.5"
+      },
+      {
+        "added": 1694348053000,
+        "apkName": "tachiyomiJ2K_v1.6.4.apk",
+        "hash": "b3f8263c78207bc1886bab2aeb94df0d02483b98e9c3fd4606990864776fe1ad",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "eu.kanade.tachiyomi.j2k",
+        "sig": "ee6e9de8e7354d0e52acd44f225bb5bb",
+        "signer": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8",
+        "size": 27036848,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.POST_NOTIFICATIONS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_SPECIFIC_LOCALES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 102,
+        "versionName": "1.6.4"
+      }
+    ]
+  }
+}

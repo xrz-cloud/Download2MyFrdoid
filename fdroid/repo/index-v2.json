@@ -1,0 +1,348 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "My First F-Droid Repo Demo"
+    },
+    "description": {
+      "en-US": "This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "e457fd29463bfd6d04a06ba605262824ad4f0c89c1c997241a4f846b8b2da738",
+        "size": 969
+      }
+    },
+    "address": "https://raw.githubusercontent.com/xrz-cloud/Download2MyFrdoid/main/fdroid/repo",
+    "timestamp": 1694348070000
+  },
+  "packages": {
+    "eu.kanade.tachiyomi.j2k": {
+      "metadata": {
+        "added": 1694348053000,
+        "categories": [
+          "Reading"
+        ],
+        "lastUpdated": 1694348059000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Jays2Kings/tachiyomiJ2K",
+        "authorName": "Jays2Kings",
+        "name": {
+          "en-US": "tachiyomiJ2K"
+        },
+        "summary": {
+          "en-US": "Free and open source manga reader for Android"
+        },
+        "description": {
+          "en-US": "TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi\n"
+        },
+        "preferredSigner": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+      },
+      "versions": {
+        "449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405": {
+          "added": 1694348059000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.6.6.apk",
+            "sha256": "449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405",
+            "size": 27102543
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.6.6",
+            "versionCode": 104,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        },
+        "9c3c922f5882e9c4d2b9f5c19569bce3a563c38234426a73cf78c3ae797134a9": {
+          "added": 1694348056000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.6.5.apk",
+            "sha256": "9c3c922f5882e9c4d2b9f5c19569bce3a563c38234426a73cf78c3ae797134a9",
+            "size": 27086159
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.6.5",
+            "versionCode": 103,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        },
+        "b3f8263c78207bc1886bab2aeb94df0d02483b98e9c3fd4606990864776fe1ad": {
+          "added": 1694348053000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.6.4.apk",
+            "sha256": "b3f8263c78207bc1886bab2aeb94df0d02483b98e9c3fd4606990864776fe1ad",
+            "size": 27036848
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.6.4",
+            "versionCode": 102,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

@@ -25,8 +25,7 @@ This repository hosts an [F-Droid](https://f-droid.org/) repo for my apps. This 
 <!-- This table is auto-generated. Do not edit -->
 | Icon | Name | Description | Version |
 | --- | --- | --- | --- |
-| <a href="https://github.com/xarantolus/notality"><img height="36px"></a> | [**Notality**](https://github.com/xarantolus/notality) | A very simple note taking app for Android. | 1.7.0 (8) |
-| <a href="https://github.com/xarantolus/rockit"><img height="36px"></a> | [**Rock It!**](https://github.com/xarantolus/rockit) | Rock It! is an app that helps you stay informed on all things space | 0.8.0 (12) |
+| <a href="https://github.com/Jays2Kings/tachiyomiJ2K"><img src="fdroid/repo/icons/" alt="tachiyomiJ2K icon" width="36px" height="36px"></a> | [**tachiyomiJ2K**](https://github.com/Jays2Kings/tachiyomiJ2K) | Free and open source manga reader for Android | 1.6.6 (104) |
 <!-- end apps table -->
 
 ### How to use

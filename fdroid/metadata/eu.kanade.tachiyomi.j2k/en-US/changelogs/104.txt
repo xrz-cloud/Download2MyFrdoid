@@ -1,0 +1,25 @@
+## Changes
+* App now shows an installing notification when the app is auto updating (won't see this until next update, or if you update from this to [beta](https://github.com/Jays2Kings/tachiyomiJ2K/releases/tag/v1.7.0-b02))
+  * App updated notification is now larger and shows an open button
+* When updating tags, changing to another text field or pressing done on the edit manga dialog will also save the tags
+  * Also when batch adding tags (ie. "tag 1, tag 2") the tags will be split up when added
+* When hiding chapter titles, all places will now hide the title, including while reading and in notifications
+* Translations have been updated (To help translate, you can [contribute more to Tachiyomi or TachiJ2K here](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget))
+
+## Fixes
+* Fixed crash when performing a global search
+* Fixed another crash when changing screens sometimes
+
+**Full Changelog**: https://github.com/Jays2Kings/tachiyomiJ2K/compare/v1.6.5...v1.6.6
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | dec30f4642c28b4913a3ab321663c0e85d8d5d52613f0de4d85440bc9d9ffc8b
+| arm64-v8a | 449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405
+| armeabi-v7a | 3ee043919c49ec3697e42adb4f45e614bc89bd37bd7fa966d5621425f574ab9d
+| x86 | a84d6e6c1fb31bb87e3306cf5d527ad5799959651801a8eb6fdc54c9084b2919 |
+| x86_64 | 88d7da3bc060d4a19ad261de884a8b6ca3cf4db359fae6b77e99711fa882ea19 |
