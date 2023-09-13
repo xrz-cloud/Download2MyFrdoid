@@ -1,0 +1,33 @@
+- 新增 decode-base64 方法
+- 新增 在 mipush 模块下，支持借用非推送服务创建的通知渠道发出通知
+- 新增 在主界面中显示推送服务连接状态
+- 新增 默认连接到中国服务器，非中国大陆环境下应该也可以正常使用
+- 新增 支持设置推送服务器地址，可设置为外国服务器，走外国推送渠道
+- 新增 设置界面中显示当前连接的服务器地址
+- 新增 设置页新增「尝试强制注册所有应用」按钮
+- 优化 MIUI 重启掉推送问题，version code 改为 1003003000
+- 优化 应用列表不再显示已注册状态
+- 优化 调试模式下，通知及命令消息在列表中显示相关的类型，打印详细 log
+- 优化 root 下强制注册逻辑
+- 优化 移除是否接收消息的权限设置
+- 优化 不再生成日志备份文件
+- 优化 应用列表、记录列表加载速度
+- 优化 对外服务从 PushServiceMain 改为 XMPushService，与官方一致
+- 优化 移除影响通知展示的三个配置项，改用配置文件实现功能
+- 修复 清理日志文件后需要重启应用才能写日志的问题
+- 修复 部分系统无法加载配置的问题
+- 修复 旧消息的 PushAction 在模拟执行配置时不能解密的问题
+- 修复 注册结果非成功时应用被标记为已注册的问题
+- 修复 MIUI 下使用小爱导致系统崩溃的问题，需要将推送服务安装为系统应用
+
+
+提示：推荐将推送服务安装为系统应用，拥有系统应用身份能让所有应用检测到推送服务
+提示：MIUI 下，使用核心破解（安装时始终使用已装 app 的签名）安装即可，安装完后推送服务带有系统应用身份
+提示：（针对 ColorOS，）version code 修改后，若触发注册失败，自行将 version code 修改至 105 使用
+提示：连接状态非 connected 的用户，检查这两个域名是否被屏蔽 `resolver.msg.xiaomi.net` `cn.app.chat.xiaomi.net`
+
+相关链接：
+食用指南：[Guide]( https://bzmshang.top/MiPush-Framework_User-Guide )
+推送服务下载地址：[MiPushFramework]( https://github.com/NihilityT/MiPushFramework/releases )
+MIPush 模块下载地址：[MiPush]( https://github.com/NihilityT/MiPush/releases )，使用该模块可「以应用身份」进行推送
+配置文件下载地址：[MiPushConfigurations]( https://github.com/NihilityT/MiPushConfigurations )

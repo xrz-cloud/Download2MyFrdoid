@@ -1,0 +1,55 @@
+{
+  "repo": {
+    "timestamp": 1694619067000
+  },
+  "packages": {
+    "com.nihility.mipush": {
+      "metadata": {
+        "categories": [
+          "System"
+        ],
+        "sourceCode": "https://github.com/NihilityT/MiPush",
+        "authorName": "NihilityT",
+        "name": {
+          "en-US": "MiPushFramework的分应用模块"
+        },
+        "summary": {
+          "en-US": "让 MiPushFramework 支持分应用"
+        },
+        "description": {
+          "en-US": "本模块需要配合MiPushFramework使用\nMiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推送服务的开源项目\n默认情况下，其发送的通知是以“推送服务”的身份发送。\n该模块借助 LSPosed 为 MiPushFramework 提供通知以目标应用发送的能力， 同时支持将应用运行环境伪装成小米设备，以此来实现无后台系统级别的推送通道。\n"
+        }
+      }
+    },
+    "com.xiaomi.xmsf": {
+      "metadata": {
+        "categories": [
+          "System"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/NihilityT/MiPushFramework",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/com.xiaomi.xmsf/en-US/phoneScreenshots/1.png",
+                "sha256": "ab676af400605754a367da4587872d5ea84f923275084b350f74a98ddf87d149",
+                "size": 79118
+              }
+            ]
+          }
+        },
+        "authorName": "NihilityT",
+        "name": {
+          "en-US": "MiPushFramework 小米系统级推送框架"
+        },
+        "summary": {
+          "en-US": "Let supported push service run system-ly on every Android devices"
+        },
+        "description": {
+          "en-US": "让任何不用MIUI的用户都能用上小米的系统推送，这样既能保证推送，又保证了无需后台。\n"
+        }
+      }
+    }
+  }
+}

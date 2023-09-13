@@ -1,0 +1,4 @@
+- 优化 伪装 region property
+- 优化 日志输出前缀从 [HMSPush] 改为 [MiPush]
+- 优化 支付宝适配
+- 修复 删除通知渠道失败的问题

@@ -1,0 +1,13 @@
+AuthorName: NihilityT
+Categories:
+    - System
+CurrentVersion: 0.3.10
+CurrentVersionCode: 1003003000
+Description: |
+    让任何不用MIUI的用户都能用上小米的系统推送，这样既能保证推送，又保证了无需后台。
+IssueTracker: ""
+License: GPL-3.0
+Name: MiPushFramework 小米系统级推送框架
+SourceCode: https://github.com/NihilityT/MiPushFramework
+Summary: Let supported push service run system-ly on every Android devices
+WebSite: ""
