@@ -1,0 +1,14 @@
+AuthorName: MatsuriDayo
+Categories:
+    - Internet
+CurrentVersion: 1.2.4
+CurrentVersionCode: 140
+Description: |
+    sing-box / universal proxy toolchain for Android.
+    一款使用 sing-box 的 Android 通用代理软件。
+IssueTracker: ""
+License: NOASSERTION
+Name: NekoBoxForAndroid
+SourceCode: https://github.com/MatsuriDayo/NekoBoxForAndroid
+Summary: NekoBox for Android / sing-box / universal proxy toolchain for Android
+WebSite: ""

@@ -1,0 +1,11 @@
+## Hysteria2 支持
+
+* 使用sing-box的实现，暂时没有的功能：端口跳跃、QUIC 参数
+* 速度填0就是使用BBR，非0则使用Brutal
+* 支持 hy2:// 链接格式
+
+## 其他
+
+* 核心版本 1.5.0-b8
+* 移除 Tuic v4 v5 plugin 支持，仅保留 sing-box 实现的 TUIC v5
+* Add geo assets provider for Iran enhancement @Chocolate4U
