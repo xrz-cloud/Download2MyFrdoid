@@ -98,3 +98,12 @@ MiPushXposed:
     该模块借助 LSPosed 为 MiPushFramework 提供通知以目标应用发送的能力， 同时支持将应用运行环境伪装成小米设备，以此来实现无后台系统级别的推送通道。
   categories:
     - System
+
+NekoBoxForAndroid:
+  git: https://github.com/MatsuriDayo/NekoBoxForAndroid
+  name: "NekoBoxForAndroid"
+  description: |
+    sing-box / universal proxy toolchain for Android.
+    一款使用 sing-box 的 Android 通用代理软件。
+  categories:
+    - Internet
