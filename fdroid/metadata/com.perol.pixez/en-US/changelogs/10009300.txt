@@ -1,0 +1,2 @@
+- 不再将官方推荐的[photo picker](https://developer.android.com/training/data-storage/shared/photopicker?hl=zh-cn)作为默认的搜图选择器，修复旧的非标准Android系统的兼容性问题
+- 仍然支持直接从系统相册分享图片到pixez进行搜图

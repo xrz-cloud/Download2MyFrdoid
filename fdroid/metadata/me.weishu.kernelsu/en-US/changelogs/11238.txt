@@ -1,0 +1,6 @@
+- [Module] Fixed an issue that caused all modules to disappear after the installation of some modules failed.
+- [Manager] Fixed the problem of incorrect module file name when updating modules.
+- [Manager] It is now possible to display the changelog before module updates.
+- [Manager] The changelog can also be displayed when the manager is updated.
+- [Kernel] Fixed the issue where applications granted su permissions would execute certain commands abnormally.
+- [Kernel] Add some newly GKI kernel branches.

@@ -1,0 +1,21 @@
+{
+  "repo": {
+    "timestamp": 1694919351000
+  },
+  "packages": {
+    "com.perol.pixez": {
+      "versions": {
+        "915426a11a028a98f0733e37e26446d411ea68e8fbe5d1032bfb04e9fb97cc40": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "me.weishu.kernelsu": {
+      "versions": {
+        "b40e9ffd7d9144e60b1ba8b04f26fd88c1ec7ecc33bfb9261adfad6ed772fb18": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
