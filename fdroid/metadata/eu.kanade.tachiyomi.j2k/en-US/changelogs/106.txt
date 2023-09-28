@@ -1,0 +1,37 @@
+This is a bug fix version for 1.7.0 where certain sources were not loading correctly.
+
+The following are the updates from version 1.7.0
+
+## Additions
+* When adding to library, the default option will ask once to pick a category(ies), if any, afterwards any new additions will automatically be added to those categories
+* Library filters can now be opened full screen to change multiple filters at once
+* Option to show reading content in a device's cutout area in landscape
+* Option to exclude categories from being removed from downloads after reading (@Chik3r)
+
+## Changes
+* TachiyomiJ2K now targets SDK 34 (Android 14), with it comes general Android performance improvements and security updates, along with some small improvements for Android 14 devices.
+  * Reworked how the app's background services (such as library updates and downloading) work. In some cases disabling battery optimization may be needed. (@ivaniskandar)
+  * On Android 13+, the app will no longer prompt for notifications on first app start, but instead when a manga is added or certain actions are performed
+  * For those on Android 14+, this version and any version after this fixes auto updating the app showing an install prompt
+* When searching an author/artist duo from the details page, a prompt will show to search for either, instead of a combined search
+* Translations have been updated (To help translate, you can [contribute more to Tachiyomi or TachiJ2K here](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget))
+
+## Fixes
+* Fixed browse filters in some extensions not applying 
+* Fixed searching on certain sources
+* Other minor bug and crash fixes
+
+**Full Changelog**: https://github.com/Jays2Kings/tachiyomiJ2K/compare/v1.6.6...v1.7.1
+**Bug-Fix Changelog**: https://github.com/Jays2Kings/tachiyomiJ2K/compare/v1.7.0...v1.7.1
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | f291331e46b6ff2077081d107f34e6194a1d860a573c40119688d20156a8645a
+| arm64-v8a | 95e7e2a065495bef4d5fe4517363cd6c82b3058e783bf460f6cbcbc37802df31
+| armeabi-v7a | dbd384a612b540748730231c2f9038e021c4f1156e82c09d31f584c131610d52
+| x86 | 7db4a36b7dc3a7686d13ac8b3b73b63616a23851bcc6b7fc64730cdaf7fb2367 |
+| x86_64 | 345361996f363097582090547e4d0e4548c3960e404813e466b9b8a084160d91 |
