@@ -1,3 +1,5 @@
+**WARNING: Make a backup of your library before updating**
+
 This is a bug fix version for 1.7.0 where certain sources were not loading correctly.
 
 The following are the updates from version 1.7.0
