@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/xrz-cloud/Download2MyFrdoid/main/fdroid/repo",
-    "timestamp": 1696474515000
+    "timestamp": 1696561014000
   },
   "packages": {
     "com.fankes.tsbattery": {
       "metadata": {
-        "added": 1696474440000,
+        "added": 1696560914000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1696474444000,
+        "lastUpdated": 1696560918000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/fankes/TSBattery",
         "authorName": "fankes",
@@ -40,7 +40,7 @@
       },
       "versions": {
         "8158a521eecdfb925aebd456ee38ac7e939c5482bcd727a97a44287b818aaf13": {
-          "added": 1696474444000,
+          "added": 1696560918000,
           "file": {
             "name": "/TSBattery_4.3.apk",
             "sha256": "8158a521eecdfb925aebd456ee38ac7e939c5482bcd727a97a44287b818aaf13",
@@ -72,7 +72,7 @@
           }
         },
         "29293c3c85740f395e35ff5d18cc6554779b7b18292e682eb3620abc90d540ca": {
-          "added": 1696474443000,
+          "added": 1696560917000,
           "file": {
             "name": "/TSBattery_4.25.apk",
             "sha256": "29293c3c85740f395e35ff5d18cc6554779b7b18292e682eb3620abc90d540ca",
@@ -104,7 +104,7 @@
           }
         },
         "63295a71f1582da8ebd35675a65c5fc34cb3228a1e9f2e08fdfc9b143d8f9492": {
-          "added": 1696474442000,
+          "added": 1696560916000,
           "file": {
             "name": "/TSBattery_4.2.apk",
             "sha256": "63295a71f1582da8ebd35675a65c5fc34cb3228a1e9f2e08fdfc9b143d8f9492",
@@ -136,7 +136,7 @@
           }
         },
         "c1b616455e47271e3fc5977ee44bb32bfda5fb1f33f0a8c5e1fbf8973ad376d2": {
-          "added": 1696474441000,
+          "added": 1696560915000,
           "file": {
             "name": "/TSBattery_4.1.apk",
             "sha256": "c1b616455e47271e3fc5977ee44bb32bfda5fb1f33f0a8c5e1fbf8973ad376d2",
@@ -168,7 +168,7 @@
           }
         },
         "f742d19a728fe3a42eb2598548bfee9f08e92983e38e53bd63d544316ff45cef": {
-          "added": 1696474440000,
+          "added": 1696560914000,
           "file": {
             "name": "/TSBattery_4.0.apk",
             "sha256": "f742d19a728fe3a42eb2598548bfee9f08e92983e38e53bd63d544316ff45cef",
@@ -203,11 +203,11 @@
     },
     "com.nihility.mipush": {
       "metadata": {
-        "added": 1696474434000,
+        "added": 1696560903000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1696474434000,
+        "lastUpdated": 1696560904000,
         "sourceCode": "https://github.com/NihilityT/MiPush",
         "authorName": "NihilityT",
         "name": {
@@ -223,7 +223,7 @@
       },
       "versions": {
         "ecf644e556f8482b20289513300e6f6765c6818a500f4de8f9726c8fd251fd99": {
-          "added": 1696474434000,
+          "added": 1696560904000,
           "file": {
             "name": "/MiPushXposed_v0.0.26.apk",
             "sha256": "ecf644e556f8482b20289513300e6f6765c6818a500f4de8f9726c8fd251fd99",
@@ -249,7 +249,7 @@
           }
         },
         "5709270c4c104ed69c027755132b1da8127f9b1d23a250d531570a61dcf2873d": {
-          "added": 1696474434000,
+          "added": 1696560903000,
           "file": {
             "name": "/MiPushXposed_v0.0.25.apk",
             "sha256": "5709270c4c104ed69c027755132b1da8127f9b1d23a250d531570a61dcf2873d",
@@ -278,11 +278,11 @@
     },
     "com.perol.pixez": {
       "metadata": {
-        "added": 1696474457000,
+        "added": 1696560938000,
         "categories": [
           "Reading"
         ],
-        "lastUpdated": 1696474463000,
+        "lastUpdated": 1696560946000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/Notsfsssf/pixez-flutter",
         "authorName": "Notsfsssf",
@@ -299,7 +299,7 @@
       },
       "versions": {
         "915426a11a028a98f0733e37e26446d411ea68e8fbe5d1032bfb04e9fb97cc40": {
-          "added": 1696474463000,
+          "added": 1696560946000,
           "file": {
             "name": "/pixez_0.9.30.apk",
             "sha256": "915426a11a028a98f0733e37e26446d411ea68e8fbe5d1032bfb04e9fb97cc40",
@@ -352,7 +352,7 @@
           }
         },
         "08763efc179f3122a528ce844dc3c946f6cf8580624469649a1539a422d3d771": {
-          "added": 1696474462000,
+          "added": 1696560945000,
           "file": {
             "name": "/pixez_0.9.29.apk",
             "sha256": "08763efc179f3122a528ce844dc3c946f6cf8580624469649a1539a422d3d771",
@@ -405,7 +405,7 @@
           }
         },
         "ea5823e3f02b8a9643f23ef7e2351f55d5e0efb7542d8fd5ee06cc96df05b225": {
-          "added": 1696474461000,
+          "added": 1696560943000,
           "file": {
             "name": "/pixez_0.9.28.apk",
             "sha256": "ea5823e3f02b8a9643f23ef7e2351f55d5e0efb7542d8fd5ee06cc96df05b225",
@@ -458,7 +458,7 @@
           }
         },
         "b176efab19b74ace87d905f8f44944d8c4499b4761cbe07314a39504c22e636b": {
-          "added": 1696474460000,
+          "added": 1696560941000,
           "file": {
             "name": "/pixez_0.9.27.apk",
             "sha256": "b176efab19b74ace87d905f8f44944d8c4499b4761cbe07314a39504c22e636b",
@@ -511,7 +511,7 @@
           }
         },
         "cfdd1e678f51711109124d98fab0160c5a025c2a2c34d0df5c0186263d6fc3e3": {
-          "added": 1696474458000,
+          "added": 1696560939000,
           "file": {
             "name": "/pixez_0.9.26.apk",
             "sha256": "cfdd1e678f51711109124d98fab0160c5a025c2a2c34d0df5c0186263d6fc3e3",
@@ -564,7 +564,7 @@
           }
         },
         "97c9432c582fe6c112b1c005e76a4124621366e167b5eb7b6c9377505e134e46": {
-          "added": 1696474457000,
+          "added": 1696560938000,
           "file": {
             "name": "/pixez_0.9.25.apk",
             "sha256": "97c9432c582fe6c112b1c005e76a4124621366e167b5eb7b6c9377505e134e46",
@@ -620,11 +620,11 @@
     },
     "com.raincat.dolby_beta": {
       "metadata": {
-        "added": 1696474424000,
+        "added": 1696560889000,
         "categories": [
           "Internet"
         ],
-        "lastUpdated": 1696474427000,
+        "lastUpdated": 1696560894000,
         "license": "MIT",
         "sourceCode": "https://github.com/nining377/dolby_beta",
         "authorName": "nining377",
@@ -648,7 +648,7 @@
       },
       "versions": {
         "4651c9524ad600941e694c5494aee2fdcfaa14c7a0d78dac9a0efe289e4731db": {
-          "added": 1696474427000,
+          "added": 1696560894000,
           "file": {
             "name": "/DolbyBeta_v3.5.4.apk",
             "sha256": "4651c9524ad600941e694c5494aee2fdcfaa14c7a0d78dac9a0efe289e4731db",
@@ -672,7 +672,7 @@
           }
         },
         "d4ee029dd18d8cc2f29cfa357dfe33c3e41b0d96c8b81e5358de6c80089b8927": {
-          "added": 1696474427000,
+          "added": 1696560892000,
           "file": {
             "name": "/DolbyBeta_v3.5.3.apk",
             "sha256": "d4ee029dd18d8cc2f29cfa357dfe33c3e41b0d96c8b81e5358de6c80089b8927",
@@ -696,7 +696,7 @@
           }
         },
         "89a6105b2fba9dc4ef26f609a729e7b39061f4138622222a99eed4ed7f0b15c1": {
-          "added": 1696474426000,
+          "added": 1696560891000,
           "file": {
             "name": "/DolbyBeta_v3.5.2.apk",
             "sha256": "89a6105b2fba9dc4ef26f609a729e7b39061f4138622222a99eed4ed7f0b15c1",
@@ -720,7 +720,7 @@
           }
         },
         "90edb41a89c5ea1f661fb30fc8c40784a4ecc128e47e65fadaeb31d95ee927f9": {
-          "added": 1696474425000,
+          "added": 1696560890000,
           "file": {
             "name": "/DolbyBeta_v3.5.1.apk",
             "sha256": "90edb41a89c5ea1f661fb30fc8c40784a4ecc128e47e65fadaeb31d95ee927f9",
@@ -744,7 +744,7 @@
           }
         },
         "0f1d4046ed4d7700e21bab28a31b9bcb99fda86acd1d45c9fe43870195871066": {
-          "added": 1696474424000,
+          "added": 1696560889000,
           "file": {
             "name": "/DolbyBeta_v3.5.0.apk",
             "sha256": "0f1d4046ed4d7700e21bab28a31b9bcb99fda86acd1d45c9fe43870195871066",
@@ -771,11 +771,11 @@
     },
     "com.tsng.hidemyapplist": {
       "metadata": {
-        "added": 1696474429000,
+        "added": 1696560896000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1696474431000,
+        "lastUpdated": 1696560898000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/Dr-TSNG/Hide-My-Applist",
         "authorName": "Dr-TSNG",
@@ -792,7 +792,7 @@
       },
       "versions": {
         "ee12c1b6bc9a4f463ec40775d253a8fa02c327136349960a600467b0593923f9": {
-          "added": 1696474431000,
+          "added": 1696560898000,
           "file": {
             "name": "/HideMyApplist_V3.2.apk",
             "sha256": "ee12c1b6bc9a4f463ec40775d253a8fa02c327136349960a600467b0593923f9",
@@ -839,7 +839,7 @@
           }
         },
         "3f9f81bc94a9e7af2f66cf4dbed84504deb2721fdd574c3faafe9ab76e494e19": {
-          "added": 1696474430000,
+          "added": 1696560897000,
           "file": {
             "name": "/HideMyApplist_V3.1.1.apk",
             "sha256": "3f9f81bc94a9e7af2f66cf4dbed84504deb2721fdd574c3faafe9ab76e494e19",
@@ -886,7 +886,7 @@
           }
         },
         "f1db2e377e3d41495d3cf4e686b18fe3c5edd5cf72d4041f697c3851506f44c6": {
-          "added": 1696474429000,
+          "added": 1696560896000,
           "file": {
             "name": "/HideMyApplist_V3.0.6.apk",
             "sha256": "f1db2e377e3d41495d3cf4e686b18fe3c5edd5cf72d4041f697c3851506f44c6",
@@ -936,11 +936,11 @@
     },
     "com.xiaomi.xmsf": {
       "metadata": {
-        "added": 1696474478000,
+        "added": 1696560966000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1696474480000,
+        "lastUpdated": 1696560969000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/NihilityT/MiPushFramework",
         "screenshots": {
@@ -975,7 +975,7 @@
       },
       "versions": {
         "fa995a04955093f5a20b43a17094aa1df70def196260f289e65fa5fb7eb395cf": {
-          "added": 1696474478000,
+          "added": 1696560966000,
           "file": {
             "name": "/xmsf_v0.3.10.apk",
             "sha256": "fa995a04955093f5a20b43a17094aa1df70def196260f289e65fa5fb7eb395cf",
@@ -1052,7 +1052,7 @@
           }
         },
         "d93c5144dbb2d9e48f813c55aace81d52746b74685bd8d51757ceb167c537eaf": {
-          "added": 1696474479000,
+          "added": 1696560968000,
           "file": {
             "name": "/xmsf_v0.3.8.apk",
             "sha256": "d93c5144dbb2d9e48f813c55aace81d52746b74685bd8d51757ceb167c537eaf",
@@ -1129,7 +1129,7 @@
           }
         },
         "4e08f0ff7ca980dae8a5f06ac4def86737c1f7b876fe03215ab018bcfe73dc31": {
-          "added": 1696474480000,
+          "added": 1696560969000,
           "file": {
             "name": "/xmsf_v0.3.9.apk",
             "sha256": "4e08f0ff7ca980dae8a5f06ac4def86737c1f7b876fe03215ab018bcfe73dc31",
@@ -1209,11 +1209,11 @@
     },
     "eu.kanade.tachiyomi.j2k": {
       "metadata": {
-        "added": 1696474466000,
+        "added": 1696560950000,
         "categories": [
           "Reading"
         ],
-        "lastUpdated": 1696474477000,
+        "lastUpdated": 1696560965000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/Jays2Kings/tachiyomiJ2K",
         "authorName": "Jays2Kings",
@@ -1230,7 +1230,7 @@
       },
       "versions": {
         "f8d02d69dd32770e63596c99935e3bf70793ecf86092f420e6ed68456ec531c2": {
-          "added": 1696474474000,
+          "added": 1696560961000,
           "file": {
             "name": "/tachiyomiJ2K_v1.7.0.apk",
             "sha256": "f8d02d69dd32770e63596c99935e3bf70793ecf86092f420e6ed68456ec531c2",
@@ -1334,7 +1334,7 @@
           }
         },
         "95e7e2a065495bef4d5fe4517363cd6c82b3058e783bf460f6cbcbc37802df31": {
-          "added": 1696474477000,
+          "added": 1696560965000,
           "file": {
             "name": "/tachiyomiJ2K_v1.7.1.apk",
             "sha256": "95e7e2a065495bef4d5fe4517363cd6c82b3058e783bf460f6cbcbc37802df31",
@@ -1438,7 +1438,7 @@
           }
         },
         "449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405": {
-          "added": 1696474472000,
+          "added": 1696560957000,
           "file": {
             "name": "/tachiyomiJ2K_v1.6.6.apk",
             "sha256": "449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405",
@@ -1539,7 +1539,7 @@
           }
         },
         "9c3c922f5882e9c4d2b9f5c19569bce3a563c38234426a73cf78c3ae797134a9": {
-          "added": 1696474469000,
+          "added": 1696560954000,
           "file": {
             "name": "/tachiyomiJ2K_v1.6.5.apk",
             "sha256": "9c3c922f5882e9c4d2b9f5c19569bce3a563c38234426a73cf78c3ae797134a9",
@@ -1640,7 +1640,7 @@
           }
         },
         "b3f8263c78207bc1886bab2aeb94df0d02483b98e9c3fd4606990864776fe1ad": {
-          "added": 1696474466000,
+          "added": 1696560950000,
           "file": {
             "name": "/tachiyomiJ2K_v1.6.4.apk",
             "sha256": "b3f8263c78207bc1886bab2aeb94df0d02483b98e9c3fd4606990864776fe1ad",
@@ -1744,11 +1744,11 @@
     },
     "github.tornaco.android.thanos": {
       "metadata": {
-        "added": 1696474445000,
+        "added": 1696560920000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1696474451000,
+        "lastUpdated": 1696560928000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/Tornaco/Thanox",
         "authorName": "Tornaco",
@@ -1772,7 +1772,7 @@
       },
       "versions": {
         "78b77a03c8450feee92ff816b8dad6db297f46ec37d60897292a8fa14dff2d82": {
-          "added": 1696474451000,
+          "added": 1696560928000,
           "file": {
             "name": "/Thanox_v4.2.7.1.apk",
             "sha256": "78b77a03c8450feee92ff816b8dad6db297f46ec37d60897292a8fa14dff2d82",
@@ -1855,7 +1855,7 @@
           }
         },
         "19de951d3d4d1eb22cd832d7ec0a0dd181c1c40ae353c7f2ccc7ef14932b3bff": {
-          "added": 1696474448000,
+          "added": 1696560924000,
           "file": {
             "name": "/Thanox_v4.2.6.2.apk",
             "sha256": "19de951d3d4d1eb22cd832d7ec0a0dd181c1c40ae353c7f2ccc7ef14932b3bff",
@@ -1938,7 +1938,7 @@
           }
         },
         "3d536a7654b5b88b836cac03f85ab16ab6a58f724d2146427a1969bd89c95266": {
-          "added": 1696474449000,
+          "added": 1696560926000,
           "file": {
             "name": "/Thanox_v4.2.6.apk",
             "sha256": "3d536a7654b5b88b836cac03f85ab16ab6a58f724d2146427a1969bd89c95266",
@@ -2021,7 +2021,7 @@
           }
         },
         "84721f45b5e784a64de91ef9b188ec1e54cc6178dca09a826260f210ba3670b2": {
-          "added": 1696474446000,
+          "added": 1696560922000,
           "file": {
             "name": "/Thanox_v4.2.5.apk",
             "sha256": "84721f45b5e784a64de91ef9b188ec1e54cc6178dca09a826260f210ba3670b2",
@@ -2104,7 +2104,7 @@
           }
         },
         "ff569f674db04a89f58f0ce03d270c10c5b5a67dd2d04d85921d134ab7b6b337": {
-          "added": 1696474445000,
+          "added": 1696560920000,
           "file": {
             "name": "/Thanox_v4.2.2.apk",
             "sha256": "ff569f674db04a89f58f0ce03d270c10c5b5a67dd2d04d85921d134ab7b6b337",
@@ -2190,11 +2190,11 @@
     },
     "io.legado.app.release": {
       "metadata": {
-        "added": 1696474452000,
+        "added": 1696560930000,
         "categories": [
           "Reading"
         ],
-        "lastUpdated": 1696474456000,
+        "lastUpdated": 1696560936000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/gedoor/legado",
         "authorName": "gedoor",
@@ -2211,7 +2211,7 @@
       },
       "versions": {
         "e8821bab6184fecf67cc6e214405cfb538195063f67dbc52808187c3e8416953": {
-          "added": 1696474456000,
+          "added": 1696560936000,
           "file": {
             "name": "/legado_3.23.073011.apk",
             "sha256": "e8821bab6184fecf67cc6e214405cfb538195063f67dbc52808187c3e8416953",
@@ -2291,7 +2291,7 @@
           }
         },
         "e70ad3044c42b1f6bf3cf8f7e9b09644bfdf38506fffeed011871f2d6410bfaa": {
-          "added": 1696474455000,
+          "added": 1696560934000,
           "file": {
             "name": "/legado_3.23.072018.apk",
             "sha256": "e70ad3044c42b1f6bf3cf8f7e9b09644bfdf38506fffeed011871f2d6410bfaa",
@@ -2371,7 +2371,7 @@
           }
         },
         "3fd40e51b33a6ed9928e7a6bbc167e79a4341486054c01751874bca3c99d89c0": {
-          "added": 1696474454000,
+          "added": 1696560933000,
           "file": {
             "name": "/legado_3.23.070913.apk",
             "sha256": "3fd40e51b33a6ed9928e7a6bbc167e79a4341486054c01751874bca3c99d89c0",
@@ -2451,7 +2451,7 @@
           }
         },
         "424b969373ab148aad99b33da658b1ea359eb1f5ca5639442e8af48885d992e5": {
-          "added": 1696474453000,
+          "added": 1696560931000,
           "file": {
             "name": "/legado_3.23.070809.apk",
             "sha256": "424b969373ab148aad99b33da658b1ea359eb1f5ca5639442e8af48885d992e5",
@@ -2531,7 +2531,7 @@
           }
         },
         "97446f402424cbca29ba553122dd9669a55c7498a77eafe0ab235593763c0810": {
-          "added": 1696474452000,
+          "added": 1696560930000,
           "file": {
             "name": "/legado_3.23.062623.apk",
             "sha256": "97446f402424cbca29ba553122dd9669a55c7498a77eafe0ab235593763c0810",
@@ -2614,11 +2614,11 @@
     },
     "me.iacn.biliroaming": {
       "metadata": {
-        "added": 1696474422000,
+        "added": 1696560886000,
         "categories": [
           "Internet"
         ],
-        "lastUpdated": 1696474423000,
+        "lastUpdated": 1696560888000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/yujincheng08/BiliRoaming",
         "authorName": "yujincheng08",
@@ -2635,7 +2635,7 @@
       },
       "versions": {
         "4966b69d8302434bc152c0e488dd7771cf6c0fd9624f5405db867b676f80d046": {
-          "added": 1696474423000,
+          "added": 1696560887000,
           "file": {
             "name": "/BiliRoaming_v1.6.12.apk",
             "sha256": "4966b69d8302434bc152c0e488dd7771cf6c0fd9624f5405db867b676f80d046",
@@ -2669,7 +2669,7 @@
           }
         },
         "d4b3df50cd808aeb63ad0d8d5a4b742bf26a57135739d40ac7b1ee1726064cf3": {
-          "added": 1696474422000,
+          "added": 1696560887000,
           "file": {
             "name": "/BiliRoaming_v1.6.11.apk",
             "sha256": "d4b3df50cd808aeb63ad0d8d5a4b742bf26a57135739d40ac7b1ee1726064cf3",
@@ -2703,7 +2703,7 @@
           }
         },
         "0465b33d613d0d195ff3489f540a74f7b28996fa64979014ce6a6cd54b55eb34": {
-          "added": 1696474422000,
+          "added": 1696560886000,
           "file": {
             "name": "/BiliRoaming_v1.6.10.apk",
             "sha256": "0465b33d613d0d195ff3489f540a74f7b28996fa64979014ce6a6cd54b55eb34",
@@ -2737,7 +2737,7 @@
           }
         },
         "89e79db90308ac626c0095a1e032f8a6dc6122b1e31c46079f06ca340dbbe2dd": {
-          "added": 1696474423000,
+          "added": 1696560888000,
           "file": {
             "name": "/BiliRoaming_v1.6.9.apk",
             "sha256": "89e79db90308ac626c0095a1e032f8a6dc6122b1e31c46079f06ca340dbbe2dd",
@@ -2771,7 +2771,7 @@
           }
         },
         "bc6a548d56cfc8af8e41649636edacba253ae9131a5f118e9390c4547d0aaec6": {
-          "added": 1696474423000,
+          "added": 1696560887000,
           "file": {
             "name": "/BiliRoaming_v1.6.8.apk",
             "sha256": "bc6a548d56cfc8af8e41649636edacba253ae9131a5f118e9390c4547d0aaec6",
@@ -2808,11 +2808,11 @@
     },
     "me.weishu.kernelsu": {
       "metadata": {
-        "added": 1696474431000,
+        "added": 1696560899000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1696474434000,
+        "lastUpdated": 1696560902000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/tiann/KernelSU",
         "authorName": "tiann",
@@ -2829,7 +2829,7 @@
       },
       "versions": {
         "b40e9ffd7d9144e60b1ba8b04f26fd88c1ec7ecc33bfb9261adfad6ed772fb18": {
-          "added": 1696474434000,
+          "added": 1696560902000,
           "file": {
             "name": "/KernelSu_v0.6.8.apk",
             "sha256": "b40e9ffd7d9144e60b1ba8b04f26fd88c1ec7ecc33bfb9261adfad6ed772fb18",
@@ -2862,7 +2862,7 @@
           }
         },
         "25b117052e972210d9b3dcf826d6a9cbf96bd2ae5e098d622104304d21282dc4": {
-          "added": 1696474433000,
+          "added": 1696560902000,
           "file": {
             "name": "/KernelSu_v0.6.7.apk",
             "sha256": "25b117052e972210d9b3dcf826d6a9cbf96bd2ae5e098d622104304d21282dc4",
@@ -2895,7 +2895,7 @@
           }
         },
         "ed2eaa02a8d64c4f6b2c33d9510afe228af0a152c20168cd4d3835b2a9b997ac": {
-          "added": 1696474433000,
+          "added": 1696560901000,
           "file": {
             "name": "/KernelSu_v0.6.6.apk",
             "sha256": "ed2eaa02a8d64c4f6b2c33d9510afe228af0a152c20168cd4d3835b2a9b997ac",
@@ -2928,7 +2928,7 @@
           }
         },
         "b378c687ca960a07a6d1490ed812c6e12013344252f3f99ac22d7dfb46c4b27c": {
-          "added": 1696474432000,
+          "added": 1696560900000,
           "file": {
             "name": "/KernelSu_v0.6.2.apk",
             "sha256": "b378c687ca960a07a6d1490ed812c6e12013344252f3f99ac22d7dfb46c4b27c",
@@ -2961,7 +2961,7 @@
           }
         },
         "ad732be86640cebab973fb3aff270859e4fa77ba59aa6141efc70cfd94ad5ed7": {
-          "added": 1696474432000,
+          "added": 1696560900000,
           "file": {
             "name": "/KernelSu_v0.6.1.apk",
             "sha256": "ad732be86640cebab973fb3aff270859e4fa77ba59aa6141efc70cfd94ad5ed7",
@@ -2994,7 +2994,7 @@
           }
         },
         "a6a44871a70ace3d4d23db60d52fde41317e4f056b958806b98c70f555f435d4": {
-          "added": 1696474431000,
+          "added": 1696560899000,
           "file": {
             "name": "/KernelSu_v0.6.0.apk",
             "sha256": "a6a44871a70ace3d4d23db60d52fde41317e4f056b958806b98c70f555f435d4",
@@ -3027,11 +3027,11 @@
     },
     "moe.nb4a": {
       "metadata": {
-        "added": 1696474436000,
+        "added": 1696560905000,
         "categories": [
           "Internet"
         ],
-        "lastUpdated": 1696474440000,
+        "lastUpdated": 1696560913000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
         "authorName": "MatsuriDayo",
@@ -3047,8 +3047,85 @@
         "preferredSigner": "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
       },
       "versions": {
+        "7fe9ef223a8d9f9eec4234942120e9272738b0e16060964ffd1c6263e0b5d014": {
+          "added": 1696560913000,
+          "file": {
+            "name": "/NekoBoxForAndroid_1.2.6.apk",
+            "sha256": "7fe9ef223a8d9f9eec4234942120e9272738b0e16060964ffd1c6263e0b5d014",
+            "size": 14841929
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2.6",
+            "versionCode": 150,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
         "08e7dfeee80f8083ca3d1db191a2415a0053d6f772a84ef16950d95519724859": {
-          "added": 1696474440000,
+          "added": 1696560911000,
           "file": {
             "name": "/NekoBoxForAndroid_1.2.4.apk",
             "sha256": "08e7dfeee80f8083ca3d1db191a2415a0053d6f772a84ef16950d95519724859",
@@ -3125,7 +3202,7 @@
           }
         },
         "0ccfe372e14d38e34deda4662f5cda799aacb4f020dbf6d370f4d859cd2de3ed": {
-          "added": 1696474438000,
+          "added": 1696560909000,
           "file": {
             "name": "/NekoBoxForAndroid_1.2.3.apk",
             "sha256": "0ccfe372e14d38e34deda4662f5cda799aacb4f020dbf6d370f4d859cd2de3ed",
@@ -3202,7 +3279,7 @@
           }
         },
         "1483bde9fd9e0cfd0ab26ce5a95f51662ff3f1e18af68fbadd9fe2952de91fb8": {
-          "added": 1696474437000,
+          "added": 1696560907000,
           "file": {
             "name": "/NekoBoxForAndroid_1.2.2.apk",
             "sha256": "1483bde9fd9e0cfd0ab26ce5a95f51662ff3f1e18af68fbadd9fe2952de91fb8",
@@ -3279,7 +3356,7 @@
           }
         },
         "f6e4e4be54bc2c28d594f47c1d6842cbc34e9c41df41c013c96986f725400560": {
-          "added": 1696474436000,
+          "added": 1696560905000,
           "file": {
             "name": "/NekoBoxForAndroid_1.2.1.apk",
             "sha256": "f6e4e4be54bc2c28d594f47c1d6842cbc34e9c41df41c013c96986f725400560",
@@ -3359,11 +3436,11 @@
     },
     "org.hello.coolapk": {
       "metadata": {
-        "added": 1696474428000,
+        "added": 1696560894000,
         "categories": [
           "Internet"
         ],
-        "lastUpdated": 1696474428000,
+        "lastUpdated": 1696560895000,
         "sourceCode": "https://github.com/Xposed-Modules-Repo/org.hello.coolapk",
         "authorName": "Xposed-Modules-Repo",
         "name": {
@@ -3379,7 +3456,7 @@
       },
       "versions": {
         "396ebbf7cb833a91ad487214b4928c1c1fa4eb83f23c2754a6a33393d63966c9": {
-          "added": 1696474428000,
+          "added": 1696560895000,
           "file": {
             "name": "/FuckCoolapkR_1162-Release-1.16.2.apk",
             "sha256": "396ebbf7cb833a91ad487214b4928c1c1fa4eb83f23c2754a6a33393d63966c9",
@@ -3425,7 +3502,7 @@
           }
         },
         "afc4c2b76d287c9b37358a7562de09dd770fb9357d5739ff8d6485e211c20dc8": {
-          "added": 1696474428000,
+          "added": 1696560895000,
           "file": {
             "name": "/FuckCoolapkR_1161-Release-1.16.1.apk",
             "sha256": "afc4c2b76d287c9b37358a7562de09dd770fb9357d5739ff8d6485e211c20dc8",
@@ -3471,7 +3548,7 @@
           }
         },
         "16a82fee32d7883d16d3132fafc39bf1537699db4516c22b61edeed89d478f13": {
-          "added": 1696474428000,
+          "added": 1696560894000,
           "file": {
             "name": "/FuckCoolapkR_1160-Release-1.16.apk",
             "sha256": "16a82fee32d7883d16d3132fafc39bf1537699db4516c22b61edeed89d478f13",

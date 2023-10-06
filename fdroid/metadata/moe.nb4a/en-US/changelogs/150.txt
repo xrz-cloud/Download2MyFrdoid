@@ -1,0 +1,4 @@
+* 更新 sing-box 1.6.0-alpah2
+  包含 [ECH](https://sing-box.sagernet.org/zh/configuration/shared/tls/#ech) (目前只能通过自定义 JSON 开启) [ECH科普](https://blog.cloudflare.com/announcing-encrypted-client-hello/)
+* Hysteria2 订阅支持 (读取 Clash Meta 配置)
+* 移除 透明代理 选项
