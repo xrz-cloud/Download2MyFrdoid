@@ -1,0 +1,3 @@
+### What's changed
+
+修复Magisk补丁使用指纹会导致系统重启的问题
