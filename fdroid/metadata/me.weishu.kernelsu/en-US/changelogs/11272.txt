@@ -1,0 +1,4 @@
+- [Kernel] Fixed security vulnerability.
+- [Module] The GKI kernel supports automatic umount of modules to solve the problem of certain applications detecting module mount points.
+- [Manager] Fixed the issue where the update log was too long causing the update dialog box to be abnormal.
+- [Module] Adapt to the init process below Android 9.
