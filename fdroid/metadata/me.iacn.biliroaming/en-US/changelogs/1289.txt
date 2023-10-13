@@ -1,0 +1,10 @@
+Xpatch/LSPatch 版下载地址：https://wwe.lanzoux.com/b015ll4sb 2333
+备份下载地址：https://wwe.lanzoux.com/b0159j7uh 2333
+
+感谢 @cxw620 的贡献！
+
+### 更新日志
+- 修复大量自 7.41 版本兼容问题
+- 改善 PCDN 替换
+- 添加禁止播放器长按加速
+- 支持固定推荐页面封面比例

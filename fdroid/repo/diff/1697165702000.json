@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1697165743000
+  },
+  "packages": {
+    "me.iacn.biliroaming": {
+      "versions": {
+        "e0350e7821af3e3e7b45c8669b4c7cf50f2f19a9f3f933ae2a0c5a85bfee74ea": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

@@ -1,8 +1,8 @@
 AuthorName: yujincheng08
 Categories:
     - Internet
-CurrentVersion: 1.6.12
-CurrentVersionCode: 1208
+CurrentVersion: 1.7.0
+CurrentVersionCode: 1289
 Description: |
     An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
     哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。

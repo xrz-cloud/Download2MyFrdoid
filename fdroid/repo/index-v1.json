@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1697079336000,
+    "timestamp": 1697165743000,
     "version": 20002,
     "name": "My First F-Droid Repo Demo",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "FuckCoolapkR",
       "sourceCode": "https://github.com/Xposed-Modules-Repo/org.hello.coolapk",
       "summary": "FuckCoolapk R",
-      "added": 1697079241000,
+      "added": 1697165633000,
       "packageName": "org.hello.coolapk",
-      "lastUpdated": 1697079242000,
+      "lastUpdated": 1697165634000,
       "localized": {
         "en-US": {
           "whatsNew": "\u5404\u4f4d\u65b0\u5e74\u5feb\u4e50\uff01\n\n\u66f4\u65b0\u65e5\u5fd7\u5982\u4e0b\uff1a\n1. \u4fee\u590d\u5f00\u542f\u53bb\u9664\u4fe1\u606f\u6d41\u5e7f\u544a\u540e\u4ecd\u7136\u663e\u793a\u5f00\u5c4f\u5e7f\u544a\u7684\u95ee\u9898\n2. \u589e\u52a0\u5173\u95ed\u8f93\u51faDebug\u65e5\u5fd7\u7684\u5f00\u5173\n3. \u4e3a\u90e8\u5206DexKit\u5bfb\u627e\u7684\u65b9\u6cd5\u589e\u52a0\u7f13\u5b58"
@@ -45,9 +45,9 @@
       "name": "KernelSu",
       "sourceCode": "https://github.com/tiann/KernelSU",
       "summary": "A Kernel based root solution for Android",
-      "added": 1697079245000,
+      "added": 1697165637000,
       "packageName": "me.weishu.kernelsu",
-      "lastUpdated": 1697079248000,
+      "lastUpdated": 1697165640000,
       "localized": {
         "en-US": {
           "whatsNew": "- [Kernel] Fixed security vulnerability.\n- [Module] The GKI kernel supports automatic umount of modules to solve the problem of certain applications detecting module mount points.\n- [Manager] Fixed the issue where the update log was too long causing the update dialog box to be abnormal.\n- [Module] Adapt to the init process below Android 9."
@@ -66,9 +66,9 @@
       "name": "Legado \u9605\u8bfb",
       "sourceCode": "https://github.com/gedoor/legado",
       "summary": "Legado 3.0 Book Reader with powerful controls & full functions\u2764\ufe0f\u9605\u8bfb3.0...",
-      "added": 1697079269000,
+      "added": 1697165665000,
       "packageName": "io.legado.app.release",
-      "lastUpdated": 1697079273000,
+      "lastUpdated": 1697165670000,
       "localized": {
         "en-US": {
           "whatsNew": "**2023/07/30**\n\n* \u66f4\u65b0cronet: 115.0.5790.136\n* \u66f4\u65b0kotlin 1.9.0, \u8fc1\u79fb\u5230ksp\n* \u540e\u53f0\u5bfc\u51fa\u4e66\u7c4d\n* \u8ba2\u9605\u6dfb\u52a0\u8df3\u8f6curl\u62e6\u622a, js, \u8fd4\u56detrue\u62e6\u622a,js\u53d8\u91cfurl,\u53ef\u4ee5\u901a\u8fc7js\u6253\u5f00url,\u6bd4\u5982\u8c03\u7528\u9605\u8bfb\u641c\u7d22java.searchBook(\n  bookName),\u6dfb\u52a0\u4e66\u67b6\u7b49java.addBook(bookUrl),\u7b80\u5316\u89c4\u5219\u5199\u6cd5,\u4e0d\u7528webView js\u6ce8\u5165\n* \u5bfc\u51fa\u5355\u4e2a\u4e66\u7c4d\u7684\u4e66\u7b7e\n* \u5176\u5b83\u4f18\u5316\u4e0ebug\u4fee\u590d\n* \u5176\u4e2d\u4e00\u4e9b\u66f4\u65b0\u7531 Horis, Xwite, ag2s20150909 \u63d0\u4f9b"
@@ -87,10 +87,10 @@
       "name": "MiPushFramework \u5c0f\u7c73\u7cfb\u7edf\u7ea7\u63a8\u9001\u6846\u67b6",
       "sourceCode": "https://github.com/NihilityT/MiPushFramework",
       "summary": "Let supported push service run system-ly on every Android devices",
-      "added": 1697079299000,
+      "added": 1697165700000,
       "icon": "com.xiaomi.xmsf.1003003000.png",
       "packageName": "com.xiaomi.xmsf",
-      "lastUpdated": 1697079301000,
+      "lastUpdated": 1697165702000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -112,9 +112,9 @@
       "name": "MiPushFramework\u7684\u5206\u5e94\u7528\u6a21\u5757",
       "sourceCode": "https://github.com/NihilityT/MiPush",
       "summary": "\u8ba9 MiPushFramework \u652f\u6301\u5206\u5e94\u7528",
-      "added": 1697079248000,
+      "added": 1697165641000,
       "packageName": "com.nihility.mipush",
-      "lastUpdated": 1697079249000,
+      "lastUpdated": 1697165641000,
       "localized": {
         "en-US": {
           "whatsNew": "- \u4f18\u5316 \u4f2a\u88c5 region property\n- \u4f18\u5316 \u65e5\u5fd7\u8f93\u51fa\u524d\u7f00\u4ece [HMSPush] \u6539\u4e3a [MiPush]\n- \u4f18\u5316 \u652f\u4ed8\u5b9d\u9002\u914d\n- \u4fee\u590d \u5220\u9664\u901a\u77e5\u6e20\u9053\u5931\u8d25\u7684\u95ee\u9898"
@@ -133,9 +133,9 @@
       "name": "NekoBoxForAndroid",
       "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
       "summary": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
-      "added": 1697079250000,
+      "added": 1697165643000,
       "packageName": "moe.nb4a",
-      "lastUpdated": 1697079255000,
+      "lastUpdated": 1697165649000,
       "localized": {
         "en-US": {
           "whatsNew": "* \u66f4\u65b0 sing-box 1.6.0-alpah2\n  \u5305\u542b [ECH](https://sing-box.sagernet.org/zh/configuration/shared/tls/#ech) (\u76ee\u524d\u53ea\u80fd\u901a\u8fc7\u81ea\u5b9a\u4e49 JSON \u5f00\u542f) [ECH\u79d1\u666e](https://blog.cloudflare.com/announcing-encrypted-client-hello/)\n* Hysteria2 \u8ba2\u9605\u652f\u6301 (\u8bfb\u53d6 Clash Meta \u914d\u7f6e)\n* \u79fb\u9664 \u900f\u660e\u4ee3\u7406 \u9009\u9879\n"
@@ -154,9 +154,9 @@
       "name": "Pixez Flutter",
       "sourceCode": "https://github.com/Notsfsssf/pixez-flutter",
       "summary": "\u4e00\u4e2a\u652f\u6301\u514d\u4ee3\u7406\u76f4\u8fde\u53ca\u67e5\u770b\u52a8\u56fe\u7684\u7b2c\u4e09\u65b9Pixiv flutter\u5ba2\u6237\u7aef",
-      "added": 1697079275000,
+      "added": 1697165672000,
       "packageName": "com.perol.pixez",
-      "lastUpdated": 1697079284000,
+      "lastUpdated": 1697165683000,
       "localized": {
         "en-US": {
           "whatsNew": "- \u4fee\u590dappwidget\u8df3\u8f6c\u95ee\u9898\n- \u4fee\u590d\u6709\u65f6\u65e0\u6cd5\u6b63\u786e\u5904\u7406deep link\u7684\u95ee\u9898,\u73b0\u5728\u5e94\u8be5\u90fd\u80fd\u6b63\u5e38\u8df3\u8f6c\u4e86\n- \u8ddf\u8fdb\u4fee\u590d\u4e00\u4e9b\u57fa\u7840\u7c7b\u5e93\u7684\u95ee\u9898\n- \u4fee\u6b63tag\u5386\u53f2\u65e0\u6cd5\u6b63\u5e38\u5bfc\u51fa\u7684\u95ee\u9898\uff0c\u611f\u8c22zjkwdy\u7684PR"
@@ -175,9 +175,9 @@
       "name": "tachiyomiJ2K",
       "sourceCode": "https://github.com/Jays2Kings/tachiyomiJ2K",
       "summary": "Free and open source manga reader for Android",
-      "added": 1697079286000,
+      "added": 1697165686000,
       "packageName": "eu.kanade.tachiyomi.j2k",
-      "lastUpdated": 1697079298000,
+      "lastUpdated": 1697165699000,
       "localized": {
         "en-US": {
           "whatsNew": "**WARNING: Make a backup of your library before updating**\n\nThis is a bug fix version for 1.7.0 where certain sources were not loading correctly.\n\nThe following are the updates from version 1.7.0\n\n## Additions\n* When adding to library, the default option will ask once to pick a category(ies), if any, afterwards any new additions will automatically be added to those categories\n* Library filters can now be opened full screen to change multiple filters at once\n* Option to show reading content in a "
@@ -196,10 +196,10 @@
       "name": "Thanox",
       "sourceCode": "https://github.com/Tornaco/Thanox",
       "summary": "I am thanos! \ud83d\ude08 \ud83d\udc4c",
-      "added": 1697079261000,
+      "added": 1697165656000,
       "icon": "github.tornaco.android.thanos.3072183.png",
       "packageName": "github.tornaco.android.thanos",
-      "lastUpdated": 1697079268000,
+      "lastUpdated": 1697165664000,
       "localized": {
         "en-US": {
           "whatsNew": "### What's changed\n\n\u4fee\u590dMagisk\u8865\u4e01\u4f7f\u7528\u6307\u7eb9\u4f1a\u5bfc\u81f4\u7cfb\u7edf\u91cd\u542f\u7684\u95ee\u9898"
@@ -218,9 +218,9 @@
       "name": "TSBattery",
       "sourceCode": "https://github.com/fankes/TSBattery",
       "summary": "A new way to save your battery avoid cancer apps hacker it.",
-      "added": 1697079256000,
+      "added": 1697165650000,
       "packageName": "com.fankes.tsbattery",
-      "lastUpdated": 1697079259000,
+      "lastUpdated": 1697165654000,
       "localized": {
         "en-US": {
           "whatsNew": "1.\u9002\u914d QQ 8.9.53~8.9.70\n2.\u9002\u914d QQ NT \u5165\u53e3\u6761\u76ee\u663e\u793a\n3.\u5176\u5b83\u529f\u80fd\u4f18\u5316\uff0c\u63d0\u5347\u7a33\u5b9a\u6027"
@@ -232,19 +232,19 @@
       "categories": [
         "Internet"
       ],
-      "suggestedVersionName": "1.6.12",
-      "suggestedVersionCode": "1208",
+      "suggestedVersionName": "1.7.0",
+      "suggestedVersionCode": "1289",
       "description": "An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.\n\u54d4\u54e9\u6f2b\u6e38\uff0c\u89e3\u9664B\u7ad9\u5ba2\u6237\u7aef\u756a\u5267\u533a\u57df\u9650\u5236\u7684Xposed\u6a21\u5757\uff0c\u5e76\u4e14\u63d0\u4f9b\u5176\u4ed6\u5c0f\u529f\u80fd\u3002\n",
       "license": "GPL-3.0",
       "name": "\u54d4\u54e9\u6f2b\u6e38 BiliRoaming",
       "sourceCode": "https://github.com/yujincheng08/BiliRoaming",
       "summary": "b'\\xe5\\x93\\x94\\xe5\\x93\\xa9\\xe6\\xbc\\xab\\xe6\\xb8\\xb8\\xef\\xbc\\x8c\\xe8\\xa7\\xa3\\xe9\\x99\\xa4B\\xe7\\xab\\x99\\xe5\\xae\\xa2\\xe6\\x88\\xb7\\xe7\\xab\\xaf\\xe7\\x95\\xaa\\xe5\\x89\\xa7\\xe5\\x8c\\xba\\xe5\\x9f\\x9f\\xe9\\x99\\x90\\xe5\\x88\\xb6\\xe7\\x9a\\x84Xposed\\xe6\\xa8\\xa1\\xe5\\x9d\\x97\\xef\\xbc\\x8c\\xe5\\xb9\\xb6\\xe4\\xb8\\x94\\xe6...'",
-      "added": 1697079236000,
+      "added": 1697165626000,
       "packageName": "me.iacn.biliroaming",
-      "lastUpdated": 1697079237000,
+      "lastUpdated": 1697165628000,
       "localized": {
         "en-US": {
-          "whatsNew": "Xpatch/LSPatch \u7248\u4e0b\u8f7d\u5730\u5740\uff1ahttps://wwe.lanzoux.com/b015ll4sb 2333\n\u5907\u4efd\u4e0b\u8f7d\u5730\u5740\uff1ahttps://wwe.lanzoux.com/b0159j7uh 2333\n\n### \u66f4\u65b0\u65e5\u5fd7\n- \u517c\u5bb9 7.31+\n- \u4fee\u590d play \u7248\u517c\u5bb9\n- \u8c03\u6574\u8bbe\u7f6e\u987a\u5e8f\uff0c\u66f4\u52a0\u7b26\u5408\u903b\u8f91\n- \u6dfb\u52a0\u6350\u8d60\u6e20\u9053\uff0c\u559c\u6b22\u6f2b\u6e38\u7684\u53ef\u4ee5\u5728\u8bbe\u7f6e\u4e2d\u70b9\u51fb\u6350\u8d60\u55b5"
+          "whatsNew": "Xpatch/LSPatch \u7248\u4e0b\u8f7d\u5730\u5740\uff1ahttps://wwe.lanzoux.com/b015ll4sb 2333\n\u5907\u4efd\u4e0b\u8f7d\u5730\u5740\uff1ahttps://wwe.lanzoux.com/b0159j7uh 2333\n\n\u611f\u8c22 @cxw620 \u7684\u8d21\u732e\uff01\n\n### \u66f4\u65b0\u65e5\u5fd7\n- \u4fee\u590d\u5927\u91cf\u81ea 7.41 \u7248\u672c\u517c\u5bb9\u95ee\u9898\n- \u6539\u5584 PCDN \u66ff\u6362\n- \u6dfb\u52a0\u7981\u6b62\u64ad\u653e\u5668\u957f\u6309\u52a0\u901f\n- \u652f\u6301\u56fa\u5b9a\u63a8\u8350\u9875\u9762\u5c01\u9762\u6bd4\u4f8b\n"
         }
       }
     },
@@ -260,10 +260,10 @@
       "name": "\u675c\u6bd4\u5927\u5587\u53ed\u03b2\u7248 DolbyBeta",
       "sourceCode": "https://github.com/nining377/dolby_beta",
       "summary": "b'\\xe6\\x9d\\x9c\\xe6\\xaf\\x94\\xe5\\xa4\\xa7\\xe5\\x96\\x87\\xe5\\x8f\\xad\\xe7\\x9a\\x84\\xce\\xb2\\xe7\\x89\\x88\\xe8\\xbf\\x8e\\xe6\\x9d\\xa5\\xe4\\xba\\x86\\xe9\\x87\\x8d\\xe5\\xa4\\xa7\\xe7\\x9a\\x84\\xe9\\x9d\\xa9\\xe6\\x96\\xb0\\xef\\xbc\\x8c\\xe5\\x90\\x88\\xe5\\xb9\\xb6\\xe4\\xba\\x86UnblockMusic Pro\\xe7\\x9a...'",
-      "added": 1697079238000,
+      "added": 1697165629000,
       "icon": "com.raincat.dolby_beta.354.png",
       "packageName": "com.raincat.dolby_beta",
-      "lastUpdated": 1697079241000,
+      "lastUpdated": 1697165633000,
       "localized": {
         "en-US": {
           "whatsNew": "\u4fee\u590dcookie\u7c7b\u52a8\u6001hook\u5931\u8d25\u5bfc\u81f4\u76848.7.86\u4ee5\u4e0a\u7248\u672c\u62a5\u9519"
@@ -282,9 +282,9 @@
       "name": "\u9690\u85cf\u5e94\u7528\u5217\u8868 Hide-My-Applist",
       "sourceCode": "https://github.com/Dr-TSNG/Hide-My-Applist",
       "summary": "An Xposed module to intercept applist detections",
-      "added": 1697079243000,
+      "added": 1697165635000,
       "packageName": "com.tsng.hidemyapplist",
-      "lastUpdated": 1697079244000,
+      "lastUpdated": 1697165636000,
       "localized": {
         "en-US": {
           "whatsNew": "Fix crash on Android 14\nPrevent a detection from system service\nUpdate translations\n#\n\u4fee\u590d Android 14 \u4e0a\u95ea\u9000\n\u907f\u514d\u4e00\u4e2a\u7cfb\u7edf\u670d\u52a1\u7684\u68c0\u6d4b\n\u66f4\u65b0\u7ffb\u8bd1"
@@ -295,7 +295,7 @@
   "packages": {
     "com.fankes.tsbattery": [
       {
-        "added": 1697079259000,
+        "added": 1697165654000,
         "apkName": "TSBattery_4.3.apk",
         "hash": "8158a521eecdfb925aebd456ee38ac7e939c5482bcd727a97a44287b818aaf13",
         "hashType": "sha256",
@@ -323,7 +323,7 @@
         "versionName": "4.3"
       },
       {
-        "added": 1697079258000,
+        "added": 1697165653000,
         "apkName": "TSBattery_4.25.apk",
         "hash": "29293c3c85740f395e35ff5d18cc6554779b7b18292e682eb3620abc90d540ca",
         "hashType": "sha256",
@@ -351,7 +351,7 @@
         "versionName": "4.25"
       },
       {
-        "added": 1697079258000,
+        "added": 1697165652000,
         "apkName": "TSBattery_4.2.apk",
         "hash": "63295a71f1582da8ebd35675a65c5fc34cb3228a1e9f2e08fdfc9b143d8f9492",
         "hashType": "sha256",
@@ -379,7 +379,7 @@
         "versionName": "4.2"
       },
       {
-        "added": 1697079257000,
+        "added": 1697165651000,
         "apkName": "TSBattery_4.1.apk",
         "hash": "c1b616455e47271e3fc5977ee44bb32bfda5fb1f33f0a8c5e1fbf8973ad376d2",
         "hashType": "sha256",
@@ -407,7 +407,7 @@
         "versionName": "4.1"
       },
       {
-        "added": 1697079256000,
+        "added": 1697165650000,
         "apkName": "TSBattery_4.0.apk",
         "hash": "f742d19a728fe3a42eb2598548bfee9f08e92983e38e53bd63d544316ff45cef",
         "hashType": "sha256",
@@ -437,7 +437,7 @@
     ],
     "com.nihility.mipush": [
       {
-        "added": 1697079249000,
+        "added": 1697165641000,
         "apkName": "MiPushXposed_v0.0.26.apk",
         "hash": "ecf644e556f8482b20289513300e6f6765c6818a500f4de8f9726c8fd251fd99",
         "hashType": "sha256",
@@ -457,7 +457,7 @@
         "versionName": "0.0.26"
       },
       {
-        "added": 1697079248000,
+        "added": 1697165641000,
         "apkName": "MiPushXposed_v0.0.25.apk",
         "hash": "5709270c4c104ed69c027755132b1da8127f9b1d23a250d531570a61dcf2873d",
         "hashType": "sha256",
@@ -479,7 +479,7 @@
     ],
     "com.perol.pixez": [
       {
-        "added": 1697079284000,
+        "added": 1697165683000,
         "apkName": "pixez_0.9.32.apk",
         "hash": "fc85577b62cdd4f5cd030c1b1d850b5b6db2f2b53373ad66ea85110bc1ba9612",
         "hashType": "sha256",
@@ -534,7 +534,7 @@
         "versionName": "0.9.32 s"
       },
       {
-        "added": 1697079282000,
+        "added": 1697165681000,
         "apkName": "pixez_0.9.31.apk",
         "hash": "4c2d2235cb7061dda9509b4db826e53456df59882ca198cd40b101576b704753",
         "hashType": "sha256",
@@ -589,7 +589,7 @@
         "versionName": "0.9.31 s"
       },
       {
-        "added": 1697079281000,
+        "added": 1697165680000,
         "apkName": "pixez_0.9.30.apk",
         "hash": "915426a11a028a98f0733e37e26446d411ea68e8fbe5d1032bfb04e9fb97cc40",
         "hashType": "sha256",
@@ -644,7 +644,7 @@
         "versionName": "0.9.30 wh"
       },
       {
-        "added": 1697079280000,
+        "added": 1697165678000,
         "apkName": "pixez_0.9.29.apk",
         "hash": "08763efc179f3122a528ce844dc3c946f6cf8580624469649a1539a422d3d771",
         "hashType": "sha256",
@@ -699,7 +699,7 @@
         "versionName": "0.9.29 siz"
       },
       {
-        "added": 1697079279000,
+        "added": 1697165676000,
         "apkName": "pixez_0.9.28.apk",
         "hash": "ea5823e3f02b8a9643f23ef7e2351f55d5e0efb7542d8fd5ee06cc96df05b225",
         "hashType": "sha256",
@@ -754,7 +754,7 @@
         "versionName": "0.9.28 li"
       },
       {
-        "added": 1697079277000,
+        "added": 1697165675000,
         "apkName": "pixez_0.9.27.apk",
         "hash": "b176efab19b74ace87d905f8f44944d8c4499b4761cbe07314a39504c22e636b",
         "hashType": "sha256",
@@ -809,7 +809,7 @@
         "versionName": "0.9.27 nuts"
       },
       {
-        "added": 1697079276000,
+        "added": 1697165673000,
         "apkName": "pixez_0.9.26.apk",
         "hash": "cfdd1e678f51711109124d98fab0160c5a025c2a2c34d0df5c0186263d6fc3e3",
         "hashType": "sha256",
@@ -864,7 +864,7 @@
         "versionName": "0.9.26 AR"
       },
       {
-        "added": 1697079275000,
+        "added": 1697165672000,
         "apkName": "pixez_0.9.25.apk",
         "hash": "97c9432c582fe6c112b1c005e76a4124621366e167b5eb7b6c9377505e134e46",
         "hashType": "sha256",
@@ -921,7 +921,7 @@
     ],
     "com.raincat.dolby_beta": [
       {
-        "added": 1697079241000,
+        "added": 1697165633000,
         "apkName": "DolbyBeta_v3.5.4.apk",
         "hash": "4651c9524ad600941e694c5494aee2fdcfaa14c7a0d78dac9a0efe289e4731db",
         "hashType": "sha256",
@@ -938,7 +938,7 @@
         "versionName": "3.5.4"
       },
       {
-        "added": 1697079240000,
+        "added": 1697165632000,
         "apkName": "DolbyBeta_v3.5.3.apk",
         "hash": "d4ee029dd18d8cc2f29cfa357dfe33c3e41b0d96c8b81e5358de6c80089b8927",
         "hashType": "sha256",
@@ -955,7 +955,7 @@
         "versionName": "3.5.3"
       },
       {
-        "added": 1697079239000,
+        "added": 1697165631000,
         "apkName": "DolbyBeta_v3.5.2.apk",
         "hash": "89a6105b2fba9dc4ef26f609a729e7b39061f4138622222a99eed4ed7f0b15c1",
         "hashType": "sha256",
@@ -972,7 +972,7 @@
         "versionName": "3.5.2"
       },
       {
-        "added": 1697079239000,
+        "added": 1697165630000,
         "apkName": "DolbyBeta_v3.5.1.apk",
         "hash": "90edb41a89c5ea1f661fb30fc8c40784a4ecc128e47e65fadaeb31d95ee927f9",
         "hashType": "sha256",
@@ -989,7 +989,7 @@
         "versionName": "3.5.1"
       },
       {
-        "added": 1697079238000,
+        "added": 1697165629000,
         "apkName": "DolbyBeta_v3.5.0.apk",
         "hash": "0f1d4046ed4d7700e21bab28a31b9bcb99fda86acd1d45c9fe43870195871066",
         "hashType": "sha256",
@@ -1008,7 +1008,7 @@
     ],
     "com.tsng.hidemyapplist": [
       {
-        "added": 1697079244000,
+        "added": 1697165636000,
         "apkName": "HideMyApplist_V3.2.apk",
         "hash": "ee12c1b6bc9a4f463ec40775d253a8fa02c327136349960a600467b0593923f9",
         "hashType": "sha256",
@@ -1056,7 +1056,7 @@
         "versionName": "3.2"
       },
       {
-        "added": 1697079244000,
+        "added": 1697165636000,
         "apkName": "HideMyApplist_V3.1.1.apk",
         "hash": "3f9f81bc94a9e7af2f66cf4dbed84504deb2721fdd574c3faafe9ab76e494e19",
         "hashType": "sha256",
@@ -1104,7 +1104,7 @@
         "versionName": "3.1.1"
       },
       {
-        "added": 1697079243000,
+        "added": 1697165635000,
         "apkName": "HideMyApplist_V3.0.6.apk",
         "hash": "f1db2e377e3d41495d3cf4e686b18fe3c5edd5cf72d4041f697c3851506f44c6",
         "hashType": "sha256",
@@ -1154,7 +1154,7 @@
     ],
     "com.xiaomi.xmsf": [
       {
-        "added": 1697079299000,
+        "added": 1697165700000,
         "apkName": "xmsf_v0.3.10.apk",
         "hash": "fa995a04955093f5a20b43a17094aa1df70def196260f289e65fa5fb7eb395cf",
         "hashType": "sha256",
@@ -1242,7 +1242,7 @@
         "versionName": "0.3.10"
       },
       {
-        "added": 1697079300000,
+        "added": 1697165701000,
         "apkName": "xmsf_v0.3.8.apk",
         "hash": "d93c5144dbb2d9e48f813c55aace81d52746b74685bd8d51757ceb167c537eaf",
         "hashType": "sha256",
@@ -1330,7 +1330,7 @@
         "versionName": "0.3.8"
       },
       {
-        "added": 1697079301000,
+        "added": 1697165702000,
         "apkName": "xmsf_v0.3.9.apk",
         "hash": "4e08f0ff7ca980dae8a5f06ac4def86737c1f7b876fe03215ab018bcfe73dc31",
         "hashType": "sha256",
@@ -1420,7 +1420,7 @@
     ],
     "eu.kanade.tachiyomi.j2k": [
       {
-        "added": 1697079295000,
+        "added": 1697165695000,
         "apkName": "tachiyomiJ2K_v1.7.0.apk",
         "hash": "f8d02d69dd32770e63596c99935e3bf70793ecf86092f420e6ed68456ec531c2",
         "hashType": "sha256",
@@ -1543,7 +1543,7 @@
         "versionName": "1.7.0"
       },
       {
-        "added": 1697079298000,
+        "added": 1697165699000,
         "apkName": "tachiyomiJ2K_v1.7.1.apk",
         "hash": "95e7e2a065495bef4d5fe4517363cd6c82b3058e783bf460f6cbcbc37802df31",
         "hashType": "sha256",
@@ -1666,7 +1666,7 @@
         "versionName": "1.7.1"
       },
       {
-        "added": 1697079292000,
+        "added": 1697165692000,
         "apkName": "tachiyomiJ2K_v1.6.6.apk",
         "hash": "449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405",
         "hashType": "sha256",
@@ -1785,7 +1785,7 @@
         "versionName": "1.6.6"
       },
       {
-        "added": 1697079289000,
+        "added": 1697165689000,
         "apkName": "tachiyomiJ2K_v1.6.5.apk",
         "hash": "9c3c922f5882e9c4d2b9f5c19569bce3a563c38234426a73cf78c3ae797134a9",
         "hashType": "sha256",
@@ -1904,7 +1904,7 @@
         "versionName": "1.6.5"
       },
       {
-        "added": 1697079286000,
+        "added": 1697165686000,
         "apkName": "tachiyomiJ2K_v1.6.4.apk",
         "hash": "b3f8263c78207bc1886bab2aeb94df0d02483b98e9c3fd4606990864776fe1ad",
         "hashType": "sha256",
@@ -2025,7 +2025,7 @@
     ],
     "github.tornaco.android.thanos": [
       {
-        "added": 1697079268000,
+        "added": 1697165664000,
         "apkName": "Thanox_v4.2.9.apk",
         "hash": "fdf1ef93921c0b2a411d3240fe3470e3db7b1030dbdf0bdde5d2f1d2bbba56c5",
         "hashType": "sha256",
@@ -2119,7 +2119,7 @@
         "versionName": "4.2.9-prc"
       },
       {
-        "added": 1697079266000,
+        "added": 1697165662000,
         "apkName": "Thanox_v4.2.7.1.apk",
         "hash": "78b77a03c8450feee92ff816b8dad6db297f46ec37d60897292a8fa14dff2d82",
         "hashType": "sha256",
@@ -2213,7 +2213,7 @@
         "versionName": "4.2.7.1-prc"
       },
       {
-        "added": 1697079264000,
+        "added": 1697165659000,
         "apkName": "Thanox_v4.2.6.2.apk",
         "hash": "19de951d3d4d1eb22cd832d7ec0a0dd181c1c40ae353c7f2ccc7ef14932b3bff",
         "hashType": "sha256",
@@ -2307,7 +2307,7 @@
         "versionName": "4.2.6.2-prc"
       },
       {
-        "added": 1697079265000,
+        "added": 1697165661000,
         "apkName": "Thanox_v4.2.6.apk",
         "hash": "3d536a7654b5b88b836cac03f85ab16ab6a58f724d2146427a1969bd89c95266",
         "hashType": "sha256",
@@ -2401,7 +2401,7 @@
         "versionName": "4.2.6-prc"
       },
       {
-        "added": 1697079262000,
+        "added": 1697165657000,
         "apkName": "Thanox_v4.2.5.apk",
         "hash": "84721f45b5e784a64de91ef9b188ec1e54cc6178dca09a826260f210ba3670b2",
         "hashType": "sha256",
@@ -2495,7 +2495,7 @@
         "versionName": "4.2.5-prc"
       },
       {
-        "added": 1697079261000,
+        "added": 1697165656000,
         "apkName": "Thanox_v4.2.2.apk",
         "hash": "ff569f674db04a89f58f0ce03d270c10c5b5a67dd2d04d85921d134ab7b6b337",
         "hashType": "sha256",
@@ -2591,7 +2591,7 @@
     ],
     "io.legado.app.release": [
       {
-        "added": 1697079273000,
+        "added": 1697165670000,
         "apkName": "legado_3.23.073011.apk",
         "hash": "e8821bab6184fecf67cc6e214405cfb538195063f67dbc52808187c3e8416953",
         "hashType": "sha256",
@@ -2681,7 +2681,7 @@
         "versionName": "3.23.073011"
       },
       {
-        "added": 1697079272000,
+        "added": 1697165669000,
         "apkName": "legado_3.23.072018.apk",
         "hash": "e70ad3044c42b1f6bf3cf8f7e9b09644bfdf38506fffeed011871f2d6410bfaa",
         "hashType": "sha256",
@@ -2771,7 +2771,7 @@
         "versionName": "3.23.072018"
       },
       {
-        "added": 1697079271000,
+        "added": 1697165668000,
         "apkName": "legado_3.23.070913.apk",
         "hash": "3fd40e51b33a6ed9928e7a6bbc167e79a4341486054c01751874bca3c99d89c0",
         "hashType": "sha256",
@@ -2861,7 +2861,7 @@
         "versionName": "3.23.070913"
       },
       {
-        "added": 1697079270000,
+        "added": 1697165666000,
         "apkName": "legado_3.23.070809.apk",
         "hash": "424b969373ab148aad99b33da658b1ea359eb1f5ca5639442e8af48885d992e5",
         "hashType": "sha256",
@@ -2951,7 +2951,7 @@
         "versionName": "3.23.070809"
       },
       {
-        "added": 1697079269000,
+        "added": 1697165665000,
         "apkName": "legado_3.23.062623.apk",
         "hash": "97446f402424cbca29ba553122dd9669a55c7498a77eafe0ab235593763c0810",
         "hashType": "sha256",
@@ -3043,7 +3043,36 @@
     ],
     "me.iacn.biliroaming": [
       {
-        "added": 1697079236000,
+        "added": 1697165628000,
+        "apkName": "BiliRoaming_v1.7.0.apk",
+        "hash": "e0350e7821af3e3e7b45c8669b4c7cf50f2f19a9f3f933ae2a0c5a85bfee74ea",
+        "hashType": "sha256",
+        "minSdkVersion": 24,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "me.iacn.biliroaming",
+        "sig": "10f66a6c3fd6efab4e51f54ea50e25b8",
+        "signer": "c27ccd1d9e8bf150a7d87481235472b23389b01dcb6cba00a34f3d650a4ae5d4",
+        "size": 687282,
+        "targetSdkVersion": 34,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 1289,
+        "versionName": "1.7.0"
+      },
+      {
+        "added": 1697165627000,
         "apkName": "BiliRoaming_v1.6.12.apk",
         "hash": "4966b69d8302434bc152c0e488dd7771cf6c0fd9624f5405db867b676f80d046",
         "hashType": "sha256",
@@ -3072,7 +3101,7 @@
         "versionName": "1.6.12"
       },
       {
-        "added": 1697079236000,
+        "added": 1697165626000,
         "apkName": "BiliRoaming_v1.6.11.apk",
         "hash": "d4b3df50cd808aeb63ad0d8d5a4b742bf26a57135739d40ac7b1ee1726064cf3",
         "hashType": "sha256",
@@ -3101,7 +3130,7 @@
         "versionName": "1.6.11"
       },
       {
-        "added": 1697079236000,
+        "added": 1697165626000,
         "apkName": "BiliRoaming_v1.6.10.apk",
         "hash": "0465b33d613d0d195ff3489f540a74f7b28996fa64979014ce6a6cd54b55eb34",
         "hashType": "sha256",
@@ -3130,7 +3159,7 @@
         "versionName": "1.6.10"
       },
       {
-        "added": 1697079237000,
+        "added": 1697165627000,
         "apkName": "BiliRoaming_v1.6.9.apk",
         "hash": "89e79db90308ac626c0095a1e032f8a6dc6122b1e31c46079f06ca340dbbe2dd",
         "hashType": "sha256",
@@ -3159,7 +3188,7 @@
         "versionName": "1.6.9"
       },
       {
-        "added": 1697079236000,
+        "added": 1697165627000,
         "apkName": "BiliRoaming_v1.6.8.apk",
         "hash": "bc6a548d56cfc8af8e41649636edacba253ae9131a5f118e9390c4547d0aaec6",
         "hashType": "sha256",
@@ -3190,7 +3219,7 @@
     ],
     "me.weishu.kernelsu": [
       {
-        "added": 1697079248000,
+        "added": 1697165640000,
         "apkName": "KernelSu_v0.6.9.apk",
         "hash": "fd35d0c353c617747ca0eaa9aac49495f21f4c1b2a4e2552a3ebef9bded41c50",
         "hashType": "sha256",
@@ -3218,7 +3247,7 @@
         "versionName": "v0.6.9"
       },
       {
-        "added": 1697079247000,
+        "added": 1697165640000,
         "apkName": "KernelSu_v0.6.8.apk",
         "hash": "b40e9ffd7d9144e60b1ba8b04f26fd88c1ec7ecc33bfb9261adfad6ed772fb18",
         "hashType": "sha256",
@@ -3246,7 +3275,7 @@
         "versionName": "v0.6.8"
       },
       {
-        "added": 1697079247000,
+        "added": 1697165639000,
         "apkName": "KernelSu_v0.6.7.apk",
         "hash": "25b117052e972210d9b3dcf826d6a9cbf96bd2ae5e098d622104304d21282dc4",
         "hashType": "sha256",
@@ -3274,7 +3303,7 @@
         "versionName": "v0.6.7"
       },
       {
-        "added": 1697079246000,
+        "added": 1697165639000,
         "apkName": "KernelSu_v0.6.6.apk",
         "hash": "ed2eaa02a8d64c4f6b2c33d9510afe228af0a152c20168cd4d3835b2a9b997ac",
         "hashType": "sha256",
@@ -3302,7 +3331,7 @@
         "versionName": "v0.6.6"
       },
       {
-        "added": 1697079246000,
+        "added": 1697165638000,
         "apkName": "KernelSu_v0.6.2.apk",
         "hash": "b378c687ca960a07a6d1490ed812c6e12013344252f3f99ac22d7dfb46c4b27c",
         "hashType": "sha256",
@@ -3330,7 +3359,7 @@
         "versionName": "v0.6.2"
       },
       {
-        "added": 1697079245000,
+        "added": 1697165638000,
         "apkName": "KernelSu_v0.6.1.apk",
         "hash": "ad732be86640cebab973fb3aff270859e4fa77ba59aa6141efc70cfd94ad5ed7",
         "hashType": "sha256",
@@ -3358,7 +3387,7 @@
         "versionName": "v0.6.1"
       },
       {
-        "added": 1697079245000,
+        "added": 1697165637000,
         "apkName": "KernelSu_v0.6.0.apk",
         "hash": "a6a44871a70ace3d4d23db60d52fde41317e4f056b958806b98c70f555f435d4",
         "hashType": "sha256",
@@ -3384,7 +3413,7 @@
     ],
     "moe.nb4a": [
       {
-        "added": 1697079255000,
+        "added": 1697165649000,
         "apkName": "NekoBoxForAndroid_1.2.6.apk",
         "hash": "7fe9ef223a8d9f9eec4234942120e9272738b0e16060964ffd1c6263e0b5d014",
         "hashType": "sha256",
@@ -3471,7 +3500,7 @@
         "versionName": "1.2.6"
       },
       {
-        "added": 1697079254000,
+        "added": 1697165648000,
         "apkName": "NekoBoxForAndroid_1.2.4.apk",
         "hash": "08e7dfeee80f8083ca3d1db191a2415a0053d6f772a84ef16950d95519724859",
         "hashType": "sha256",
@@ -3558,7 +3587,7 @@
         "versionName": "1.2.4"
       },
       {
-        "added": 1697079253000,
+        "added": 1697165646000,
         "apkName": "NekoBoxForAndroid_1.2.3.apk",
         "hash": "0ccfe372e14d38e34deda4662f5cda799aacb4f020dbf6d370f4d859cd2de3ed",
         "hashType": "sha256",
@@ -3645,7 +3674,7 @@
         "versionName": "1.2.3"
       },
       {
-        "added": 1697079251000,
+        "added": 1697165645000,
         "apkName": "NekoBoxForAndroid_1.2.2.apk",
         "hash": "1483bde9fd9e0cfd0ab26ce5a95f51662ff3f1e18af68fbadd9fe2952de91fb8",
         "hashType": "sha256",
@@ -3732,7 +3761,7 @@
         "versionName": "1.2.2"
       },
       {
-        "added": 1697079250000,
+        "added": 1697165643000,
         "apkName": "NekoBoxForAndroid_1.2.1.apk",
         "hash": "f6e4e4be54bc2c28d594f47c1d6842cbc34e9c41df41c013c96986f725400560",
         "hashType": "sha256",
@@ -3821,7 +3850,7 @@
     ],
     "org.hello.coolapk": [
       {
-        "added": 1697079242000,
+        "added": 1697165634000,
         "apkName": "FuckCoolapkR_1162-Release-1.16.2.apk",
         "hash": "396ebbf7cb833a91ad487214b4928c1c1fa4eb83f23c2754a6a33393d63966c9",
         "hashType": "sha256",
@@ -3866,7 +3895,7 @@
         "versionName": "Release-1.16.2"
       },
       {
-        "added": 1697079242000,
+        "added": 1697165633000,
         "apkName": "FuckCoolapkR_1161-Release-1.16.1.apk",
         "hash": "afc4c2b76d287c9b37358a7562de09dd770fb9357d5739ff8d6485e211c20dc8",
         "hashType": "sha256",
@@ -3911,7 +3940,7 @@
         "versionName": "Release-1.16.1"
       },
       {
-        "added": 1697079241000,
+        "added": 1697165633000,
         "apkName": "FuckCoolapkR_1160-Release-1.16.apk",
         "hash": "16a82fee32d7883d16d3132fafc39bf1537699db4516c22b61edeed89d478f13",
         "hashType": "sha256",
