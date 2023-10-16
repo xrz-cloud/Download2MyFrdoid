@@ -1,0 +1,3 @@
+* 更新 sing-box 1.6.0-beta1
+* 更新请求订阅的默认 User-Agent, 包含版本信息 例如：`NekoBox/Android/1.2.7 (Prefer ClashMeta Format)`
+* 主界面节点类型区分 `Hysteria1` / `Hysteria2`

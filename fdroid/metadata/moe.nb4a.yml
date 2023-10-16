@@ -1,8 +1,8 @@
 AuthorName: MatsuriDayo
 Categories:
     - Internet
-CurrentVersion: 1.2.6
-CurrentVersionCode: 150
+CurrentVersion: 1.2.7
+CurrentVersionCode: 155
 Description: |
     sing-box / universal proxy toolchain for Android.
     一款使用 sing-box 的 Android 通用代理软件。
