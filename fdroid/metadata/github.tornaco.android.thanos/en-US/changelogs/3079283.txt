@@ -1,0 +1,7 @@
+### What's changed
+
+本次发布5.x版本，正式支持android 14
+1. 修复Android14正式版上报告的几个问题
+
+Version 5.x is released with Android14 support
+1. Fix some issues on Android14

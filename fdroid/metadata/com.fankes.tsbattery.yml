@@ -1,8 +1,8 @@
 AuthorName: fankes
 Categories:
     - System
-CurrentVersion: "4.3"
-CurrentVersionCode: 29
+CurrentVersion: "4.4"
+CurrentVersionCode: 30
 Description: |
     A new way to save your battery avoid cancer apps hacker it.
     TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块。
