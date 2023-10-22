@@ -1,0 +1,43 @@
+**WARNING: Make a backup of your library before updating**
+
+## Additions
+* Option to privately install extensions to the app (@ivaniskandar)
+* App and source settings are now automatically backed up (@jmir1, @arkon)
+* Debug info menu in advanced settings (@ivaniskandar)
+
+## Changes
+* Updated animation for switching between screens (older devices will still see the old animations)
+* Improved back animations on Android 14
+* Covers and pages of library entries are now always saved in subfolders
+* Backups are now automatically turned on when files permission is granted (@Seishirou101)
+* Updated links to tachiyomi.org
+* Updates social media links
+* Increased max widget size
+* Updated Shikimori's tracking url
+* Devices using face unlock no longer need a confirmation changing the requires unlock setting (this does not change the behavior for regular app launch locking)
+* Obsolete/out-of-date extension info is now added to crash logs (@Seishirou101)
+* Translations have been updated (To help translate, you can [contribute more to Tachiyomi or TachiJ2K here](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget))
+
+## Fixes
+* Fixed slow library and history fetches
+* Plenty of crash fixes
+* Fixed long strip splitting method causing flickering black line (@Saud-97, @AntsyLich, @arkon)
+* Optimizations to opening manga details page
+* Optimizations to opening Recents/Browse tabs on Android 11+ devices
+* Fixed loading ehentai
+
+### Under the hood
+* Support for version 1.5 extensions
+
+**Full Changelog**: https://github.com/Jays2Kings/tachiyomiJ2K/compare/v1.7.1...v1.7.2
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | d520f512840cb8b60fe4b96cdad4c0ee38d57bef23347869b77c653575b8cfb7
+| arm64-v8a | 18bfda91338075e1516a713e8675d0f90d1950e7182d74d74d6fa415205914e9
+| armeabi-v7a | 083c28b4736ea87b388069e03167c57157ebaa46fdeaab2ebd19cce11147b9f7
+| x86 | e036c1cdc3a04467df511608c2e38cc74018fd482bf740aaec2655928cefd9ce |
+| x86_64 | d71e961077598aad2543454251d3b2971945dc95fe7b0d88ba37b64bf43b07f0 |
