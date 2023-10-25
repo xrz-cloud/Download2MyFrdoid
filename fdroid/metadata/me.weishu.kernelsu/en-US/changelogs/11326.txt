@@ -1,0 +1,11 @@
+We’re excited to report that we’ve delivered on the [App Profile feature we promised 5 months ago](https://t.me/KernelSU/44)! In this release, we have added an important feature to App Profile: Templates. You can create templates by yourself, import templates created by others, or directly use online templates. Templates can be directly applied to App Profile, without having to manually set each configuration! Therefore, even if you don’t understand the complex concepts in App Profile, you can easily restrict ROOT permissions through templates. In addition, welcome to [contribute rules to online templates](https://github.com/tiann/KernelSU/tree/main/website/docs/public/templates)!
+
+Changelog:
+
+1. [Security] Fix a security issue similar to CVE-2023-5521, please upgrade as soon as possible; credits to qwerty472123@github!
+2. [SU] App Profile now supports templates!
+3. [Module] Fixed the bug that the module directory may be accidentally umounted, causing the manager module directory to be empty.
+4. [SU] Fixed the issue where the allowlist may be messed up after an app is uninstalled.
+5. [Kernel] Add android14-5.15 and android14-6.1, supporting Pixel8 series.
+6. [SU] App Profile’s capability no longer requires CAP_DAC_READ_SEARCH and can run without any capability.
+7. [Kernel] Fixed the bootloop issues when working with Magisk.
