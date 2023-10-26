@@ -1,0 +1,27 @@
+## Additions
+* On Android 14+, sharing a series from details gives a quick option to share the cover instead
+
+## Changes
+* For Android 13 and below, reverted back to the old animation for changing screens
+* For Android 14+, the back animation is slightly faster depending on the back press
+* Remove a series' title from a chapter's name (@antsylich, @ghostbear)
+* User agent changes no longer require an app restart (@arkon)
+* Unofficial extensions are now added to crash logs (@Seishirou101)
+* Translations have been updated (To help translate, you can [contribute more to Tachiyomi or TachiJ2K here](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget))
+
+## Fixes
+* Fixed some Cloudflare-protected websites opening blank `blob:` pages in WebView (@arkon)
+* Fixed chapters being renamed by the source not having the download folder/archive be renamed
+* Fixed crash when restoring a backup from other forks
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | 06b7834a1f50cb5cb8cc22749ce79a43d2b4ff5b5fa3e514c5711718db0e7b51
+| arm64-v8a | a1e0e986f3ca7f02dc5c19d605df9a3525c33fdd33b7530708bf7b81354e3bc9
+| armeabi-v7a | 4374c9969b8f7fe46fb416d04822d9bce76b3b2df00606ae0ee3ca936a26b166
+| x86 | 465a32429472c027ca170832a8f8ce92ec817202f452af2b0e67a216755ae88a |
+| x86_64 | 14fe8f1ad5bc05fad2a0a96780f450d75a1686204a01f725b6fa1cf25bf4e1c5 |
