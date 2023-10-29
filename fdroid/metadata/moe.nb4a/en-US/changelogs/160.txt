@@ -1,0 +1,9 @@
+新功能
+
+- 重新移植的 Hysteria 端口跳跃 (@xchacha20-poly1305 @arm64v8a @Misaka-blog)
+- Hysteria2 分享链接参数 `mport` 与 Clash 配置 `ports` (@Misaka-blog)
+
+变更
+
+- Update analysis.txt (#385) (@cancanneednews)
+- 新的 Naive 插件 (@xchacha20-poly1305 @Misaka-blog)
