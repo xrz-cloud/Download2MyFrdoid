@@ -1,0 +1,6 @@
+- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/990df9f93e8848f136b82527b5e6c3d2d6a11314 更新 sing-box 1.6.rc3
+- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/6230dcf3bc0d92c5f48ad331c62e3738d279abd1 优化中文翻译
+- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/7c4a965e40cb27778f2897b5acb410e33e3ce793 修复手动添加socks服务器不可以填写密码(#376)
+- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/51889ed28e56d0376fe966a441a169ca72d5c698 添加 ECH 支持(#373) 
+- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/5dc09caf225fe2c8a19b9fa1952de12e5eb48823 删除更新提醒
+- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/b77d1fc82e9c0b8c14c545e350d22efabf130d97 第一次使用 VPN 时弹窗提醒([Google Play 政策要求](https://support.google.com/googleplay/android-developer/answer/12564964)需有提示)
