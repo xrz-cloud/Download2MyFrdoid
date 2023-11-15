@@ -1,0 +1,6 @@
+- [Kernel] Fix su not working on android14-6.1 kernel.
+- [Kernel] Fix wifi not working on android14-6.1 kernel.
+- [Module] Add missing groups for App Profile.
+- [Module] Fix changelog fetch failed.
+- [Module] Fix module page blank when module id is absent.
+- [Manager] Add translations.
