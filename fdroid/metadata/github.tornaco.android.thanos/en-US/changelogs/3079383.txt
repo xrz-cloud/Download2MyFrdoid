@@ -1,0 +1,10 @@
+### What's changed
+1. 修复android14亮度权限管理失效问题
+2. 调整了核心激活的策略，修复部分设备无法激活问题
+3. UI细节调整
+
+------------
+
+1. Fix android14 screen brightness ops issue
+2. Update activation method
+3. UI polish
