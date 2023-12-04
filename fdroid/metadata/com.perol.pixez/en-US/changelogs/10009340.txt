@@ -1,0 +1,3 @@
+- 支持收藏时下载，下载时收藏功能，感谢@Prixii的PR
+- 刷新header,footer等多处多语言支持完善，感谢@kyoyacchi的提议与翻译
+- 更新渲染引擎为Impeller,版本跨度api改动较多，如果有遇到问题可以进行反馈
