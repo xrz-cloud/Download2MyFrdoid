@@ -1,8 +1,8 @@
 AuthorName: Notsfsssf
 Categories:
     - Reading
-CurrentVersion: 0.9.34 rule
-CurrentVersionCode: 10009340
+CurrentVersion: 0.9.35 Starman
+CurrentVersionCode: 10009350
 Description: "使用 Flutter 编写的 pixiv 第三方客户端。\n同样支持中国大陆地区直连。\n\U0001F3B5 Mili - In Hell We Live, Lament \U0001F3B5\n"
 IssueTracker: ""
 License: GPL-3.0
