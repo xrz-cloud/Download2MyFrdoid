@@ -1,0 +1,7 @@
+- [SU] Fixed the issue of incorrect allowlist after an app with root permissions is uninstalled.
+- [SU] Fixed an issue that caused bootloop when uninstalling an application in multi-user after being granted root permissions.
+- [kernel] Support Linux kernel version 6.4.
+- [Module] Fixed the problem of non-standard `module.prop` causing module directory confusion.
+- [Module] Update busybox to 1.36.1.
+- [Module] Support using `/debug_ramdisk` as temporary directory.
+- [Security] Strengthen signature verification to avoid root privileges being taken over when using unofficial managers (CVE-2023-49794).
