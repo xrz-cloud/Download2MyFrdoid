@@ -1,8 +1,8 @@
 AuthorName: tiann
 Categories:
     - System
-CurrentVersion: v0.7.2
-CurrentVersionCode: 11413
+CurrentVersion: v0.7.5
+CurrentVersionCode: 11434
 Description: |
     A Kernel based root solution for Android
 IssueTracker: ""
