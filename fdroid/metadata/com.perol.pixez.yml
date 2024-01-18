@@ -1,8 +1,8 @@
 AuthorName: Notsfsssf
 Categories:
     - Reading
-CurrentVersion: 0.9.36 Wa
-CurrentVersionCode: 10009360
+CurrentVersion: 0.9.37 Ma
+CurrentVersionCode: 10009370
 Description: "使用 Flutter 编写的 pixiv 第三方客户端。\n同样支持中国大陆地区直连。\n\U0001F3B5 Mili - In Hell We Live, Lament \U0001F3B5\n"
 IssueTracker: ""
 License: GPL-3.0
