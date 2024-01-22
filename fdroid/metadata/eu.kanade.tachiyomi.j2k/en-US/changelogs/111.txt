@@ -1,0 +1,28 @@
+## Additions
+* Add custom extension repo support (@nboza)
+* Add back saving pages and covers in subfolders
+* Handle Brotli-compressed responses
+* Library hopper icon now shows the dynmaic grouping type (@e-shl)
+
+## Changes
+* Make entries already in library less visible in browse (@Hived)
+* Filtered scanlators are now accounted for in the library's unread/read count
+* Translations have been updated (To help translate, you can [contribute more to Tachiyomi or TachiJ2K here](https://hosted.weblate.org/engage/tachiyomi/?utm_source=widget))
+
+## Fixes
+* Fix previous screens showing on new screens for older android versions
+* Fix faulty MangaUpdates score (@AntsyLich)
+
+**Full Changelog**: https://github.com/Jays2Kings/tachiyomiJ2K/compare/v1.7.3...v1.7.4
+
+---
+
+### Checksums
+
+| Variant | SHA-256 |
+| ------- | ------- |
+| Universal | 290f23cb46ab59d4c2cee6e861da2e6717798b997a90d890bd7388103efe8ac9
+| arm64-v8a | f8d3cfdfb47da292f55ec93c11556088387911b0e3bb8f32e883c5bdbc933b4d
+| armeabi-v7a | 0c8d851694988f2bf26822cafb7692b2fe37905ea078b642257169d064e7f62e
+| x86 | 85e1b44e96d2775fa8c9d240f1f50dfa253367d3fbac70ed8e64678ca26e8d75 |
+| x86_64 | bca9086d4ded357e1a8248de923956cd1458c5ec52f8cdefbd9cc0c033e4355e |

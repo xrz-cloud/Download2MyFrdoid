@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1705892126000
+  },
+  "packages": {
+    "eu.kanade.tachiyomi.j2k": {
+      "versions": {
+        "f8d3cfdfb47da292f55ec93c11556088387911b0e3bb8f32e883c5bdbc933b4d": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
