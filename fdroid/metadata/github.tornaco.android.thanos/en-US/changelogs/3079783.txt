@@ -1,0 +1,9 @@
+### What’s changed
+
+1. 修复情景模式Wifi相关问题
+2. 新增应用间跳转拦截弹窗，让每一次跳转都可知可控（默认关闭，需在设置-功能开关中开启）
+
+-----------
+
+1.  Fix Profile wifi facts
+2. New feature: launcher other app blocker(enabl
