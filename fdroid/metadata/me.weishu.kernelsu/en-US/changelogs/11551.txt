@@ -1,0 +1,20 @@
+For a long time, the module functionality of Magisk / KernelSU was limited to executing boot scripts and modifying system files. Now, we are exploring the possibility of endowing modules with the capability to display UI interfaces!
+
+Previously, after installing some modules, users needed to configure them either through the command line or by directly modifying configuration files in specific locations. Clearly, this process was quite inconvenient for users. At times, in order to configure settings, it was even necessary to write a separate app. With the ability for modules to display interfaces, these issues could become a thing of the past.
+
+Moreover, the display interface can be used for more than just configurations. You have the freedom to present anything you'd like to showcase and interact with the user.
+
+The current interface is implemented through WebUI. You can create HTML pages using any web technology and place them in the module's webroot directory. After the module is installed, users can access this page through the KernelSU manager's list of modules. KernelSU also provides a JavaScript library to facilitate interaction with the system.
+
+However, these trials are still in their infancy, and the jsapi is not yet stable. We welcome your feedback!
+
+Changelog:
+
+- [Module] Add support for displaying WebUI in modules.
+- [Module] Use sparse image to store module files to solve the problem of installation failure of certain large modules and dynamically sized modules.
+- [Module] Use new mount API when it is available for mounting module files.
+- [Module] Allow to set upperdir for OverlayFS to make the partition writable (CLI Only).
+- [Kernel] Fix some detections.
+- [Kernel] Fix a bug that causes some root processes cannot be killed.
+- [Manager] Add an option to disable automatic update check.
+- [Manager] Fix the misleading tips when manager grant root failed.
