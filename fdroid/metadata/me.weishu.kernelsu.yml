@@ -1,8 +1,8 @@
 AuthorName: tiann
 Categories:
     - System
-CurrentVersion: v0.8.1
-CurrentVersionCode: 11563
+CurrentVersion: v0.9.0-3-ga5e7655
+CurrentVersionCode: 11631
 Description: |
     A Kernel based root solution for Android
 IssueTracker: ""

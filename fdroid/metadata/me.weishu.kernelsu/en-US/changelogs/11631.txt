@@ -1,0 +1,8 @@
+KernelSU now supports installation through kernel modules (LKM) (GKI Only), you can use it with official kernels or third-party kernels; at the same time, the manager has also added installation functionality, you can choose to patch files, install directly, or install after OTA. Regarding the new LKM installation method, there are some tips:
+
+1. LKM does not support non-GKI kernels, and will not support them in the future;
+2. When patching files, if the `init_boot` partition exists, you should choose to patch `init_boot`; otherwise, patch `boot`;
+3. If you have already installed the GKI kernel provided by KernelSU and want to switch to the LKM method, you need to flash back to the stock kernel; if your device has an `init_boot` partition, you can directly flash back to the stock `boot`;
+4. The installation method of GKI kernel and LKM will always exist, use whichever you like; in the future, it will also support flashing GKI kernel in the manager.
+
+Have fun!
