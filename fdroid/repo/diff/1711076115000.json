@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "timestamp": 1711076152000
+  },
+  "packages": {
+    "me.weishu.kernelsu": {
+      "versions": {
+        "f5adaaf01e1df7ff288f65b760ca0aa03b948e853cfab3646edcff76df3f5d24": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

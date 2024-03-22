@@ -1,0 +1,4 @@
+- [manager]: Support offline patching of the kernel.
+- [kernel]: Fix issue with ColorOS.
+- [kernel]: Hide traces of LKM in user space.
+- [manager]: Fix possible errors during OTA upgrades.
