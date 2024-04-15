@@ -1,0 +1,6 @@
+- 调整了首页的navigationbar 高度，由80->68,并加入实时模糊效果
+- 画师页背景图尺寸适应方式调整，现在能看到更完整的背景图 
+- 支持启用secure window, 感谢@NightFeather0615的贡献
+- 支持分享到 app 打开 webview 的 saucenao
+- 支持 premium 的受男性，女性喜欢
+- 支持 premium 的按收藏范围排序
