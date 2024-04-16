@@ -1,0 +1,17 @@
+{
+  "repo": {
+    "timestamp": 1713236134000
+  },
+  "packages": {
+    "com.perol.pixez": {
+      "versions": {
+        "a933cd44bccf9beffb6ed9bc10aaa6132ebada39ba38090d15a86527862de598": {
+          "releaseChannels": null
+        },
+        "2dcd390a95de83868ceee1dad28773796209ba80af2dca5e27b9eb09bb9a7a29": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}
