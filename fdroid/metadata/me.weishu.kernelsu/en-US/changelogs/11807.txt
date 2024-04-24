@@ -1,0 +1,10 @@
+- [Kernel]: Let the kernel choose who is qualified to be the manager, avoiding potential side-channel attacks.
+- [Manager]: Support uninstall permanently and restore stock boot in Settings. You can restore stock boot before OTA to avoid download the full firmware.
+- [Module]: Fix the issue of the App Profile template page not opening.
+- [Manager]: Fix scroll issues in Settings.
+- [Manager]: Support choose kmi manually for installation.
+- [Manager]: Fix dark mode not working in Splash Screen.
+- [WebUI]: Allow opening multiple modules simultaneously on WebUI.
+- [Manager]: Add module shrink in Settings.
+- [Manager]: Fix "grant root failed" in some cases.
+- [Manager]: Allow to use other su to install LKM mode.
