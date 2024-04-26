@@ -1,0 +1,110 @@
+{
+  "repo": {
+    "timestamp": 1714146739000
+  },
+  "packages": {
+    "com.fankes.tsbattery": {
+      "metadata": {
+        "categories": [
+          "Xposed"
+        ]
+      }
+    },
+    "com.nihility.mipush": {
+      "metadata": {
+        "categories": [
+          "System",
+          "Xposed"
+        ]
+      }
+    },
+    "com.perol.pixez": {
+      "metadata": {
+        "categories": [
+          "Reading",
+          "Graphics"
+        ]
+      }
+    },
+    "com.raincat.dolby_beta": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Xposed"
+        ]
+      }
+    },
+    "com.tsng.hidemyapplist": {
+      "metadata": {
+        "categories": [
+          "System",
+          "Xposed"
+        ]
+      }
+    },
+    "com.xiaomi.xmsf": {
+      "metadata": {
+        "categories": [
+          "System",
+          "Internet"
+        ]
+      }
+    },
+    "eu.kanade.tachiyomi.j2k": {
+      "metadata": {
+        "categories": [
+          "Reading",
+          "Graphics"
+        ]
+      }
+    },
+    "fun.upup.musicfree": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Multimedia"
+        ],
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/maotoumao/MusicFree",
+        "authorName": "maotoumao",
+        "summary": {
+          "en-US": "插件化、定制化、无广告的免费音乐播放器"
+        },
+        "description": {
+          "en-US": "插件化、定制化、无广告的免费音乐播放器\n"
+        }
+      }
+    },
+    "github.tornaco.android.thanos": {
+      "metadata": {
+        "categories": [
+          "System",
+          "Xposed"
+        ]
+      }
+    },
+    "me.iacn.biliroaming": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Xposed"
+        ]
+      }
+    },
+    "moe.nb4a": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Connectivity"
+        ]
+      }
+    },
+    "org.hello.coolapk": {
+      "metadata": {
+        "categories": [
+          "Xposed"
+        ]
+      }
+    }
+  }
+}

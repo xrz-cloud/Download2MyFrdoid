@@ -1,6 +1,7 @@
 AuthorName: yujincheng08
 Categories:
     - Internet
+    - Xposed
 CurrentVersion: 1.7.0
 CurrentVersionCode: 1289
 Description: |

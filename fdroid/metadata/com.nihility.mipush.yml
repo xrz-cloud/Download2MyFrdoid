@@ -1,6 +1,7 @@
 AuthorName: NihilityT
 Categories:
     - System
+    - Xposed
 CurrentVersion: 0.0.26
 CurrentVersionCode: 188
 Description: |

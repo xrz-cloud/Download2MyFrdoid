@@ -1,0 +1,14 @@
+AuthorName: maotoumao
+Categories:
+    - Internet
+    - Multimedia
+CurrentVersion: 0.3.0
+CurrentVersionCode: 1
+Description: |
+    插件化、定制化、无广告的免费音乐播放器
+IssueTracker: ""
+License: GPL-3.0
+Name: MusicFree
+SourceCode: https://github.com/maotoumao/MusicFree
+Summary: 插件化、定制化、无广告的免费音乐播放器
+WebSite: ""

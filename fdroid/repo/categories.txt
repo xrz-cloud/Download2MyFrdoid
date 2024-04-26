@@ -1,3 +1,7 @@
+Connectivity
+Graphics
 Internet
+Multimedia
 Reading
 System
+Xposed

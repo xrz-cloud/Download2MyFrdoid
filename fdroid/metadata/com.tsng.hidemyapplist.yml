@@ -1,6 +1,7 @@
 AuthorName: Dr-TSNG
 Categories:
     - System
+    - Xposed
 CurrentVersion: "3.2"
 CurrentVersionCode: 410
 Description: |

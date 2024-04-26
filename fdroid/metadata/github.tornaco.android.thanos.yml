@@ -1,6 +1,7 @@
 AuthorName: Tornaco
 Categories:
     - System
+    - Xposed
 CurrentVersion: 5.0.7-prc
 CurrentVersionCode: 3079983
 Description: |

@@ -1,6 +1,7 @@
 AuthorName: nining377
 Categories:
     - Internet
+    - Xposed
 CurrentVersion: 3.5.4
 CurrentVersionCode: 354
 Description: |
