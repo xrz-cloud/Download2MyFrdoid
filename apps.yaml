@@ -8,6 +8,7 @@ tachiyomiJ2K:
   # you can use any name here, but you should look at the existing categories first
   categories: 
     - Reading
+    - Graphics
 
 KernelSu:
   git: https://github.com/tiann/KernelSU
@@ -25,6 +26,7 @@ BiliRoaming:
     哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。
   categories:
     - Internet
+    - Xposed
 
 DolbyBeta:
   git: https://github.com/nining377/dolby_beta
@@ -35,6 +37,7 @@ DolbyBeta:
     模块工作原理为音源替换而非破解，所以单曲付费与无版权歌曲有几率匹配错误，真心支持歌手请付费！
   categories:
     - Internet
+    - Xposed
 
 HideMyApplist:
   git: https://github.com/Dr-TSNG/Hide-My-Applist
@@ -43,6 +46,7 @@ HideMyApplist:
     An Xposed module to intercept applist detections
   categories:
     - System
+    - Xposed
 
 FuckCoolapkR:
   git: https://github.com/Xposed-Modules-Repo/org.hello.coolapk
@@ -51,7 +55,7 @@ FuckCoolapkR:
     Remove Ads and offer some functions in coolapk.
     Best present for 316 and 423.
   categories:
-    - Internet
+    - Xposed
 
 TSBattery:
   git: https://github.com/fankes/TSBattery
@@ -60,7 +64,7 @@ TSBattery:
     A new way to save your battery avoid cancer apps hacker it.
     TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块。
   categories:
-    - System
+    - Xposed
 
 Thanox:
   git: https://github.com/Tornaco/Thanox
@@ -69,6 +73,7 @@ Thanox:
     Thanox是一个Android系统管理工具，在系统隐私和系统优化方便提供了便利的功能。包含应用的权限管理，后台启动管理，后台运行管理，以及强大的情景模式和独特新奇的移花接木功能。
   categories:
     - System
+    - Xposed
 
 pixez:
   git: https://github.com/Notsfsssf/pixez-flutter
@@ -79,6 +84,7 @@ pixez:
     🎵 Mili - In Hell We Live, Lament 🎵
   categories:
     - Reading
+    - Graphics
 
 xmsf:
   git: https://github.com/NihilityT/MiPushFramework
@@ -87,6 +93,7 @@ xmsf:
     让任何不用MIUI的用户都能用上小米的系统推送，这样既能保证推送，又保证了无需后台。
   categories:
     - System
+    - Internet
 
 MiPushXposed:
   git: https://github.com/NihilityT/MiPush
@@ -98,6 +105,7 @@ MiPushXposed:
     该模块借助 LSPosed 为 MiPushFramework 提供通知以目标应用发送的能力， 同时支持将应用运行环境伪装成小米设备，以此来实现无后台系统级别的推送通道。
   categories:
     - System
+    - Xposed
 
 NekoBoxForAndroid:
   git: https://github.com/MatsuriDayo/NekoBoxForAndroid
@@ -107,3 +115,13 @@ NekoBoxForAndroid:
     一款使用 sing-box 的 Android 通用代理软件。
   categories:
     - Internet
+    - Connectivity
+
+MusicFree:
+  git: https://github.com/maotoumao/MusicFree
+  name: "MusicFree"
+  description: |
+    插件化、定制化、无广告的免费音乐播放器
+  categories:
+    - Internet
+    - Multimedia
