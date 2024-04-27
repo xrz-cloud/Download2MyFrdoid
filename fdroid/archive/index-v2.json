@@ -1,0 +1,5058 @@
+{
+  "repo": {
+    "name": {
+      "en-US": "My First F-Droid Archive Demo"
+    },
+    "description": {
+      "en-US": "These are the apps that have been archived from the main repo."
+    },
+    "icon": {
+      "en-US": {
+        "name": "/icons/icon.png",
+        "sha256": "e457fd29463bfd6d04a06ba605262824ad4f0c89c1c997241a4f846b8b2da738",
+        "size": 969
+      }
+    },
+    "address": "https://raw.githubusercontent.com/xrz-cloud/Download2MyFrdoid/main/fdroid/archive",
+    "timestamp": 1714186493000
+  },
+  "packages": {
+    "com.fankes.tsbattery": {
+      "metadata": {
+        "added": 1714186409000,
+        "categories": [
+          "Xposed"
+        ],
+        "lastUpdated": 1714186412000,
+        "license": "AGPL-3.0",
+        "sourceCode": "https://github.com/fankes/TSBattery",
+        "authorName": "fankes",
+        "name": {
+          "en-US": "TSBattery"
+        },
+        "summary": {
+          "en-US": "A new way to save your battery avoid cancer apps hacker it."
+        },
+        "description": {
+          "en-US": "A new way to save your battery avoid cancer apps hacker it.\nTSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块。\n"
+        },
+        "preferredSigner": "1f3a4525bfc903048f9dc4c15c602b427d1b7f4c080341a6297892e499569f27"
+      },
+      "versions": {
+        "8158a521eecdfb925aebd456ee38ac7e939c5482bcd727a97a44287b818aaf13": {
+          "added": 1714186412000,
+          "file": {
+            "name": "/TSBattery_4.3.apk",
+            "sha256": "8158a521eecdfb925aebd456ee38ac7e939c5482bcd727a97a44287b818aaf13",
+            "size": 2897958
+          },
+          "manifest": {
+            "versionName": "4.3",
+            "versionCode": 29,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "1f3a4525bfc903048f9dc4c15c602b427d1b7f4c080341a6297892e499569f27"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.fankes.tsbattery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "29293c3c85740f395e35ff5d18cc6554779b7b18292e682eb3620abc90d540ca": {
+          "added": 1714186411000,
+          "file": {
+            "name": "/TSBattery_4.25.apk",
+            "sha256": "29293c3c85740f395e35ff5d18cc6554779b7b18292e682eb3620abc90d540ca",
+            "size": 2827550
+          },
+          "manifest": {
+            "versionName": "4.25",
+            "versionCode": 28,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "1f3a4525bfc903048f9dc4c15c602b427d1b7f4c080341a6297892e499569f27"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.fankes.tsbattery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "63295a71f1582da8ebd35675a65c5fc34cb3228a1e9f2e08fdfc9b143d8f9492": {
+          "added": 1714186411000,
+          "file": {
+            "name": "/TSBattery_4.2.apk",
+            "sha256": "63295a71f1582da8ebd35675a65c5fc34cb3228a1e9f2e08fdfc9b143d8f9492",
+            "size": 2672035
+          },
+          "manifest": {
+            "versionName": "4.2",
+            "versionCode": 27,
+            "usesSdk": {
+              "minSdkVersion": 22,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "1f3a4525bfc903048f9dc4c15c602b427d1b7f4c080341a6297892e499569f27"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.fankes.tsbattery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "c1b616455e47271e3fc5977ee44bb32bfda5fb1f33f0a8c5e1fbf8973ad376d2": {
+          "added": 1714186410000,
+          "file": {
+            "name": "/TSBattery_4.1.apk",
+            "sha256": "c1b616455e47271e3fc5977ee44bb32bfda5fb1f33f0a8c5e1fbf8973ad376d2",
+            "size": 2600067
+          },
+          "manifest": {
+            "versionName": "4.1",
+            "versionCode": 26,
+            "usesSdk": {
+              "minSdkVersion": 22,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "1f3a4525bfc903048f9dc4c15c602b427d1b7f4c080341a6297892e499569f27"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.fankes.tsbattery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "f742d19a728fe3a42eb2598548bfee9f08e92983e38e53bd63d544316ff45cef": {
+          "added": 1714186409000,
+          "file": {
+            "name": "/TSBattery_4.0.apk",
+            "sha256": "f742d19a728fe3a42eb2598548bfee9f08e92983e38e53bd63d544316ff45cef",
+            "size": 2598596
+          },
+          "manifest": {
+            "versionName": "4.0",
+            "versionCode": 25,
+            "usesSdk": {
+              "minSdkVersion": 22,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "1f3a4525bfc903048f9dc4c15c602b427d1b7f4c080341a6297892e499569f27"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.fankes.tsbattery.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.nihility.mipush": {
+      "metadata": {
+        "added": 1714186400000,
+        "categories": [
+          "System",
+          "Xposed"
+        ],
+        "lastUpdated": 1714186400000,
+        "sourceCode": "https://github.com/NihilityT/MiPush",
+        "authorName": "NihilityT",
+        "name": {
+          "en-US": "MiPushFramework的分应用模块"
+        },
+        "summary": {
+          "en-US": "让 MiPushFramework 支持分应用"
+        },
+        "description": {
+          "en-US": "本模块需要配合MiPushFramework使用\nMiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推送服务的开源项目\n默认情况下，其发送的通知是以“推送服务”的身份发送。\n该模块借助 LSPosed 为 MiPushFramework 提供通知以目标应用发送的能力， 同时支持将应用运行环境伪装成小米设备，以此来实现无后台系统级别的推送通道。\n"
+        },
+        "preferredSigner": "d3838a7910eba0e46d14eae48cd71e1f116204bb6e6ab2b64bf4b40d11793d23"
+      },
+      "versions": {
+        "5709270c4c104ed69c027755132b1da8127f9b1d23a250d531570a61dcf2873d": {
+          "added": 1714186400000,
+          "file": {
+            "name": "/MiPushXposed_v0.0.25.apk",
+            "sha256": "5709270c4c104ed69c027755132b1da8127f9b1d23a250d531570a61dcf2873d",
+            "size": 13229292
+          },
+          "manifest": {
+            "versionName": "0.0.25",
+            "versionCode": 184,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "d3838a7910eba0e46d14eae48cd71e1f116204bb6e6ab2b64bf4b40d11793d23"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.perol.pixez": {
+      "metadata": {
+        "added": 1714186430000,
+        "categories": [
+          "Reading",
+          "Graphics"
+        ],
+        "lastUpdated": 1714186445000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/Notsfsssf/pixez-flutter",
+        "authorName": "Notsfsssf",
+        "name": {
+          "en-US": "Pixez Flutter"
+        },
+        "summary": {
+          "en-US": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端"
+        },
+        "description": {
+          "en-US": "使用 Flutter 编写的 pixiv 第三方客户端。\n同样支持中国大陆地区直连。\n🎵 Mili - In Hell We Live, Lament 🎵\n"
+        },
+        "preferredSigner": "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+      },
+      "versions": {
+        "2dcd390a95de83868ceee1dad28773796209ba80af2dca5e27b9eb09bb9a7a29": {
+          "added": 1714186444000,
+          "file": {
+            "name": "/pixez_0.9.41.apk",
+            "sha256": "2dcd390a95de83868ceee1dad28773796209ba80af2dca5e27b9eb09bb9a7a29",
+            "size": 17825903
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.41 blur",
+            "versionCode": 10009410,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "63255eec18c4dbff1cfe4734e7ed53a11fed931d8f12a04c072fd2f02a44f33a": {
+          "added": 1714186444000,
+          "file": {
+            "name": "/pixez_0.9.40.apk",
+            "sha256": "63255eec18c4dbff1cfe4734e7ed53a11fed931d8f12a04c072fd2f02a44f33a",
+            "size": 17482025
+          },
+          "manifest": {
+            "nativecode": [
+              "armeabi-v7a"
+            ],
+            "versionName": "0.9.40 blur",
+            "versionCode": 10009400,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "4b5719ae25fbd9b50ce12872651b0631c46633a880b36dc45cc4ba1202ea352c": {
+          "added": 1714186443000,
+          "file": {
+            "name": "/pixez_0.9.39.apk",
+            "sha256": "4b5719ae25fbd9b50ce12872651b0631c46633a880b36dc45cc4ba1202ea352c",
+            "size": 17798211
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.39 Ro",
+            "versionCode": 10009390,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "d11c92daaff6d451c1e27eab1a0a1144705ba2b5f0ffc4f9c8065ef14e205861": {
+          "added": 1714186442000,
+          "file": {
+            "name": "/pixez_0.9.38.apk",
+            "sha256": "d11c92daaff6d451c1e27eab1a0a1144705ba2b5f0ffc4f9c8065ef14e205861",
+            "size": 17535663
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.38 Predicate",
+            "versionCode": 10009380,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "77bc1e780b9de43d6b83d6ef8e09221be4a130860531adcd71020bb8ec48c312": {
+          "added": 1714186441000,
+          "file": {
+            "name": "/pixez_0.9.37.apk",
+            "sha256": "77bc1e780b9de43d6b83d6ef8e09221be4a130860531adcd71020bb8ec48c312",
+            "size": 17341755
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.37 Ma",
+            "versionCode": 10009370,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "54da97b637b9b6e7c656fc70c8a00b5458236d209052b64ef1d0a7556de5e5e6": {
+          "added": 1714186440000,
+          "file": {
+            "name": "/pixez_0.9.36.apk",
+            "sha256": "54da97b637b9b6e7c656fc70c8a00b5458236d209052b64ef1d0a7556de5e5e6",
+            "size": 17341160
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.36 Wa",
+            "versionCode": 10009360,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "68a2855f1127df7feeefcef7223b2f65ac4bbabfa47e7870f3b717e4c0021269": {
+          "added": 1714186439000,
+          "file": {
+            "name": "/pixez_0.9.35.apk",
+            "sha256": "68a2855f1127df7feeefcef7223b2f65ac4bbabfa47e7870f3b717e4c0021269",
+            "size": 17346251
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.35 Starman",
+            "versionCode": 10009350,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "652ca3ee219b191eb8aa4cb3b9f169fc60c90d6ccccabc6cc9461d982e4f71b5": {
+          "added": 1714186438000,
+          "file": {
+            "name": "/pixez_0.9.34.apk",
+            "sha256": "652ca3ee219b191eb8aa4cb3b9f169fc60c90d6ccccabc6cc9461d982e4f71b5",
+            "size": 17346000
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.34 rule",
+            "versionCode": 10009340,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "015d6faf6f04fe2b3db41a5eb45fc375e569db6b6a90c10e774049668537abf8": {
+          "added": 1714186437000,
+          "file": {
+            "name": "/pixez_0.9.33.apk",
+            "sha256": "015d6faf6f04fe2b3db41a5eb45fc375e569db6b6a90c10e774049668537abf8",
+            "size": 17335355
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.33 rule",
+            "versionCode": 10009330,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "fc85577b62cdd4f5cd030c1b1d850b5b6db2f2b53373ad66ea85110bc1ba9612": {
+          "added": 1714186436000,
+          "file": {
+            "name": "/pixez_0.9.32.apk",
+            "sha256": "fc85577b62cdd4f5cd030c1b1d850b5b6db2f2b53373ad66ea85110bc1ba9612",
+            "size": 17232874
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.32 s",
+            "versionCode": 10009320,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "4c2d2235cb7061dda9509b4db826e53456df59882ca198cd40b101576b704753": {
+          "added": 1714186436000,
+          "file": {
+            "name": "/pixez_0.9.31.apk",
+            "sha256": "4c2d2235cb7061dda9509b4db826e53456df59882ca198cd40b101576b704753",
+            "size": 17214457
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.31 s",
+            "versionCode": 10009310,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "915426a11a028a98f0733e37e26446d411ea68e8fbe5d1032bfb04e9fb97cc40": {
+          "added": 1714186435000,
+          "file": {
+            "name": "/pixez_0.9.30.apk",
+            "sha256": "915426a11a028a98f0733e37e26446d411ea68e8fbe5d1032bfb04e9fb97cc40",
+            "size": 17194847
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.30 wh",
+            "versionCode": 10009300,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "08763efc179f3122a528ce844dc3c946f6cf8580624469649a1539a422d3d771": {
+          "added": 1714186434000,
+          "file": {
+            "name": "/pixez_0.9.29.apk",
+            "sha256": "08763efc179f3122a528ce844dc3c946f6cf8580624469649a1539a422d3d771",
+            "size": 17196835
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.29 siz",
+            "versionCode": 10009290,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "ea5823e3f02b8a9643f23ef7e2351f55d5e0efb7542d8fd5ee06cc96df05b225": {
+          "added": 1714186433000,
+          "file": {
+            "name": "/pixez_0.9.28.apk",
+            "sha256": "ea5823e3f02b8a9643f23ef7e2351f55d5e0efb7542d8fd5ee06cc96df05b225",
+            "size": 17194580
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.28 li",
+            "versionCode": 10009280,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "b176efab19b74ace87d905f8f44944d8c4499b4761cbe07314a39504c22e636b": {
+          "added": 1714186432000,
+          "file": {
+            "name": "/pixez_0.9.27.apk",
+            "sha256": "b176efab19b74ace87d905f8f44944d8c4499b4761cbe07314a39504c22e636b",
+            "size": 17710032
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.27 nuts",
+            "versionCode": 10009270,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "cfdd1e678f51711109124d98fab0160c5a025c2a2c34d0df5c0186263d6fc3e3": {
+          "added": 1714186431000,
+          "file": {
+            "name": "/pixez_0.9.26.apk",
+            "sha256": "cfdd1e678f51711109124d98fab0160c5a025c2a2c34d0df5c0186263d6fc3e3",
+            "size": 17323878
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.26 AR",
+            "versionCode": 10009260,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "97c9432c582fe6c112b1c005e76a4124621366e167b5eb7b6c9377505e134e46": {
+          "added": 1714186430000,
+          "file": {
+            "name": "/pixez_0.9.25.apk",
+            "sha256": "97c9432c582fe6c112b1c005e76a4124621366e167b5eb7b6c9377505e134e46",
+            "size": 17601677
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "0.9.25 Ocean",
+            "versionCode": 10009250,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "932bc3027fd22606d662e8f454690f7b60d8c0f23bdaa951131138bcad2b8ff7"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "com.android.vending.BILLING"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.raincat.dolby_beta": {
+      "metadata": {
+        "added": 1714186388000,
+        "categories": [
+          "Internet",
+          "Xposed"
+        ],
+        "lastUpdated": 1714186391000,
+        "license": "MIT",
+        "sourceCode": "https://github.com/nining377/dolby_beta",
+        "authorName": "nining377",
+        "name": {
+          "en-US": "杜比大喇叭β版 DolbyBeta"
+        },
+        "summary": {
+          "en-US": "b'\\xe6\\x9d\\x9c\\xe6\\xaf\\x94\\xe5\\xa4\\xa7\\xe5\\x96\\x87\\xe5\\x8f\\xad\\xe7\\x9a\\x84\\xce\\xb2\\xe7\\x89\\x88\\xe8\\xbf\\x8e\\xe6\\x9d\\xa5\\xe4\\xba\\x86\\xe9\\x87\\x8d\\xe5\\xa4\\xa7\\xe7\\x9a\\x84\\xe9\\x9d\\xa9\\xe6\\x96\\xb0\\xef\\xbc\\x8c\\xe5\\x90\\x88\\xe5\\xb9\\xb6\\xe4\\xba\\x86UnblockMusic Pro\\xe7\\x9a...'"
+        },
+        "description": {
+          "en-US": "DolbyBeta\n杜比大喇叭β是一款网易云音乐的音源代理模块，初衷只是我对网易云音乐的热爱，希望让更多的人使用网易云。\n模块工作原理为音源替换而非破解，所以单曲付费与无版权歌曲有几率匹配错误，真心支持歌手请付费！\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.raincat.dolby_beta.353.png",
+            "sha256": "64c3021ecd25a7dc62828948b5d7de33fe5ebb929eade67de55c85aa02c0b169",
+            "size": 3062
+          }
+        },
+        "preferredSigner": "c235f66e94a8ac6e3dd39250b748759fe4821528743b46c53f32c0eed5e8f42a"
+      },
+      "versions": {
+        "d4ee029dd18d8cc2f29cfa357dfe33c3e41b0d96c8b81e5358de6c80089b8927": {
+          "added": 1714186390000,
+          "file": {
+            "name": "/DolbyBeta_v3.5.3.apk",
+            "sha256": "d4ee029dd18d8cc2f29cfa357dfe33c3e41b0d96c8b81e5358de6c80089b8927",
+            "size": 13263184
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "3.5.3",
+            "versionCode": 353,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "c235f66e94a8ac6e3dd39250b748759fe4821528743b46c53f32c0eed5e8f42a"
+              ]
+            }
+          }
+        },
+        "89a6105b2fba9dc4ef26f609a729e7b39061f4138622222a99eed4ed7f0b15c1": {
+          "added": 1714186390000,
+          "file": {
+            "name": "/DolbyBeta_v3.5.2.apk",
+            "sha256": "89a6105b2fba9dc4ef26f609a729e7b39061f4138622222a99eed4ed7f0b15c1",
+            "size": 13252967
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "3.5.2",
+            "versionCode": 352,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "c235f66e94a8ac6e3dd39250b748759fe4821528743b46c53f32c0eed5e8f42a"
+              ]
+            }
+          }
+        },
+        "90edb41a89c5ea1f661fb30fc8c40784a4ecc128e47e65fadaeb31d95ee927f9": {
+          "added": 1714186389000,
+          "file": {
+            "name": "/DolbyBeta_v3.5.1.apk",
+            "sha256": "90edb41a89c5ea1f661fb30fc8c40784a4ecc128e47e65fadaeb31d95ee927f9",
+            "size": 13253068
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "3.5.1",
+            "versionCode": 351,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "c235f66e94a8ac6e3dd39250b748759fe4821528743b46c53f32c0eed5e8f42a"
+              ]
+            }
+          }
+        },
+        "0f1d4046ed4d7700e21bab28a31b9bcb99fda86acd1d45c9fe43870195871066": {
+          "added": 1714186388000,
+          "file": {
+            "name": "/DolbyBeta_v3.5.0.apk",
+            "sha256": "0f1d4046ed4d7700e21bab28a31b9bcb99fda86acd1d45c9fe43870195871066",
+            "size": 13312192
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "3.5.0",
+            "versionCode": 350,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 29
+            },
+            "signer": {
+              "sha256": [
+                "c235f66e94a8ac6e3dd39250b748759fe4821528743b46c53f32c0eed5e8f42a"
+              ]
+            }
+          }
+        }
+      }
+    },
+    "com.tsng.hidemyapplist": {
+      "metadata": {
+        "added": 1714186392000,
+        "categories": [
+          "System",
+          "Xposed"
+        ],
+        "lastUpdated": 1714186393000,
+        "license": "AGPL-3.0",
+        "sourceCode": "https://github.com/Dr-TSNG/Hide-My-Applist",
+        "authorName": "Dr-TSNG",
+        "name": {
+          "en-US": "隐藏应用列表 Hide-My-Applist"
+        },
+        "summary": {
+          "en-US": "An Xposed module to intercept applist detections"
+        },
+        "description": {
+          "en-US": "An Xposed module to intercept applist detections\n"
+        },
+        "preferredSigner": "dc9b6f7af01beeaf7534b031bbad544e1406854eed1f0bfc55cfb2ac56b9da5e"
+      },
+      "versions": {
+        "3f9f81bc94a9e7af2f66cf4dbed84504deb2721fdd574c3faafe9ab76e494e19": {
+          "added": 1714186393000,
+          "file": {
+            "name": "/HideMyApplist_V3.1.1.apk",
+            "sha256": "3f9f81bc94a9e7af2f66cf4dbed84504deb2721fdd574c3faafe9ab76e494e19",
+            "size": 4586544
+          },
+          "manifest": {
+            "versionName": "3.1.1",
+            "versionCode": 404,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "dc9b6f7af01beeaf7534b031bbad544e1406854eed1f0bfc55cfb2ac56b9da5e"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        },
+        "f1db2e377e3d41495d3cf4e686b18fe3c5edd5cf72d4041f697c3851506f44c6": {
+          "added": 1714186392000,
+          "file": {
+            "name": "/HideMyApplist_V3.0.6.apk",
+            "sha256": "f1db2e377e3d41495d3cf4e686b18fe3c5edd5cf72d4041f697c3851506f44c6",
+            "size": 4507200
+          },
+          "manifest": {
+            "versionName": "3.0.6",
+            "versionCode": 386,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "dc9b6f7af01beeaf7534b031bbad544e1406854eed1f0bfc55cfb2ac56b9da5e"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "com.xiaomi.xmsf": {
+      "metadata": {
+        "added": 1714186461000,
+        "categories": [
+          "System",
+          "Internet"
+        ],
+        "lastUpdated": 1714186463000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/NihilityT/MiPushFramework",
+        "authorName": "NihilityT",
+        "name": {
+          "en-US": "MiPushFramework 小米系统级推送框架"
+        },
+        "summary": {
+          "en-US": "Let supported push service run system-ly on every Android devices"
+        },
+        "description": {
+          "en-US": "让任何不用MIUI的用户都能用上小米的系统推送，这样既能保证推送，又保证了无需后台。\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/com.xiaomi.xmsf.105.png",
+            "sha256": "540efdcf38e0dcf01a82816187e351a092823674955b22074fba69143b11660c",
+            "size": 1660
+          }
+        },
+        "preferredSigner": "d3838a7910eba0e46d14eae48cd71e1f116204bb6e6ab2b64bf4b40d11793d23"
+      },
+      "versions": {
+        "d93c5144dbb2d9e48f813c55aace81d52746b74685bd8d51757ceb167c537eaf": {
+          "added": 1714186462000,
+          "file": {
+            "name": "/xmsf_v0.3.8.apk",
+            "sha256": "d93c5144dbb2d9e48f813c55aace81d52746b74685bd8d51757ceb167c537eaf",
+            "size": 7427005
+          },
+          "manifest": {
+            "versionName": "0.3.8",
+            "versionCode": 105,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "d3838a7910eba0e46d14eae48cd71e1f116204bb6e6ab2b64bf4b40d11793d23"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "com.xiaomi.xmsf.permission.MIPUSH_RECEIVE"
+              },
+              {
+                "name": "com.xiaomi.permission.SEND_PUSH"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.UPDATE_APP_OPS_STATS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.BROADCAST_STICKY"
+              },
+              {
+                "name": "com.catchingnow.icebox.SDK"
+              },
+              {
+                "name": "com.catchingnow.icebox.STATE"
+              }
+            ]
+          }
+        },
+        "4e08f0ff7ca980dae8a5f06ac4def86737c1f7b876fe03215ab018bcfe73dc31": {
+          "added": 1714186463000,
+          "file": {
+            "name": "/xmsf_v0.3.9.apk",
+            "sha256": "4e08f0ff7ca980dae8a5f06ac4def86737c1f7b876fe03215ab018bcfe73dc31",
+            "size": 7430562
+          },
+          "manifest": {
+            "versionName": "0.3.9",
+            "versionCode": 105,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "d3838a7910eba0e46d14eae48cd71e1f116204bb6e6ab2b64bf4b40d11793d23"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "com.xiaomi.xmsf.permission.MIPUSH_RECEIVE"
+              },
+              {
+                "name": "com.xiaomi.permission.SEND_PUSH"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.GET_ACCOUNTS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.SYSTEM_ALERT_WINDOW"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.UPDATE_APP_OPS_STATS"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.PACKAGE_USAGE_STATS"
+              },
+              {
+                "name": "android.permission.INTERACT_ACROSS_USERS"
+              },
+              {
+                "name": "android.permission.BROADCAST_STICKY"
+              },
+              {
+                "name": "com.catchingnow.icebox.SDK"
+              },
+              {
+                "name": "com.catchingnow.icebox.STATE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "eu.kanade.tachiyomi.j2k": {
+      "metadata": {
+        "added": 1714186447000,
+        "categories": [
+          "Reading",
+          "Graphics"
+        ],
+        "lastUpdated": 1714186461000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Jays2Kings/tachiyomiJ2K",
+        "authorName": "Jays2Kings",
+        "name": {
+          "en-US": "tachiyomiJ2K"
+        },
+        "summary": {
+          "en-US": "Free and open source manga reader for Android"
+        },
+        "description": {
+          "en-US": "TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi\n"
+        },
+        "preferredSigner": "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+      },
+      "versions": {
+        "a1e0e986f3ca7f02dc5c19d605df9a3525c33fdd33b7530708bf7b81354e3bc9": {
+          "added": 1714186459000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.7.3.apk",
+            "sha256": "a1e0e986f3ca7f02dc5c19d605df9a3525c33fdd33b7530708bf7b81354e3bc9",
+            "size": 23829733
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.7.3",
+            "versionCode": 110,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        },
+        "18bfda91338075e1516a713e8675d0f90d1950e7182d74d74d6fa415205914e9": {
+          "added": 1714186457000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.7.2.apk",
+            "sha256": "18bfda91338075e1516a713e8675d0f90d1950e7182d74d74d6fa415205914e9",
+            "size": 23825637
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.7.2",
+            "versionCode": 109,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        },
+        "f8d02d69dd32770e63596c99935e3bf70793ecf86092f420e6ed68456ec531c2": {
+          "added": 1714186453000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.7.0.apk",
+            "sha256": "f8d02d69dd32770e63596c99935e3bf70793ecf86092f420e6ed68456ec531c2",
+            "size": 23555015
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.7.0",
+            "versionCode": 106,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        },
+        "95e7e2a065495bef4d5fe4517363cd6c82b3058e783bf460f6cbcbc37802df31": {
+          "added": 1714186455000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.7.1.apk",
+            "sha256": "95e7e2a065495bef4d5fe4517363cd6c82b3058e783bf460f6cbcbc37802df31",
+            "size": 23534596
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.7.1",
+            "versionCode": 106,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE_DATA_SYNC"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        },
+        "449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405": {
+          "added": 1714186451000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.6.6.apk",
+            "sha256": "449f77bf1be08095726c830ce3f84b4f482e19117bf9bb8eae3af84339523405",
+            "size": 27102543
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.6.6",
+            "versionCode": 104,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        },
+        "9c3c922f5882e9c4d2b9f5c19569bce3a563c38234426a73cf78c3ae797134a9": {
+          "added": 1714186449000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.6.5.apk",
+            "sha256": "9c3c922f5882e9c4d2b9f5c19569bce3a563c38234426a73cf78c3ae797134a9",
+            "size": 27086159
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.6.5",
+            "versionCode": 103,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        },
+        "b3f8263c78207bc1886bab2aeb94df0d02483b98e9c3fd4606990864776fe1ad": {
+          "added": 1714186447000,
+          "file": {
+            "name": "/tachiyomiJ2K_v1.6.4.apk",
+            "sha256": "b3f8263c78207bc1886bab2aeb94df0d02483b98e9c3fd4606990864776fe1ad",
+            "size": 27036848
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.6.4",
+            "versionCode": 102,
+            "usesSdk": {
+              "minSdkVersion": 23,
+              "targetSdkVersion": 30
+            },
+            "signer": {
+              "sha256": [
+                "cdd3b74db50167ea4193e8b9187d6b147173d426680f809d4fd51c679a0237c8"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.REQUEST_DELETE_PACKAGES"
+              },
+              {
+                "name": "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "com.android.launcher.permission.INSTALL_SHORTCUT"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.READ_APP_SPECIFIC_LOCALES"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "com.google.android.c2dm.permission.RECEIVE"
+              },
+              {
+                "name": "com.google.android.gms.permission.AD_ID"
+              },
+              {
+                "name": "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"
+              },
+              {
+                "name": "eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "github.tornaco.android.thanos": {
+      "metadata": {
+        "added": 1714186414000,
+        "categories": [
+          "System",
+          "Xposed"
+        ],
+        "lastUpdated": 1714186425000,
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/Tornaco/Thanox",
+        "authorName": "Tornaco",
+        "name": {
+          "en-US": "Thanox"
+        },
+        "summary": {
+          "en-US": "I am thanos! 😈 👌"
+        },
+        "description": {
+          "en-US": "Thanox是一个Android系统管理工具，在系统隐私和系统优化方便提供了便利的功能。包含应用的权限管理，后台启动管理，后台运行管理，以及强大的情景模式和独特新奇的移花接木功能。\n"
+        },
+        "icon": {
+          "en-US": {
+            "name": "/icons/github.tornaco.android.thanos.3079883.png",
+            "sha256": "f398f4e7df1fbc05499fc7e61378cb05722075752a4682edf4b413511da25100",
+            "size": 889
+          }
+        },
+        "preferredSigner": "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+      },
+      "versions": {
+        "f0178f40510db3bf58d42f29ee3c5a1e25dbe243ca1d2a2a272b3dfc58872c22": {
+          "added": 1714186424000,
+          "file": {
+            "name": "/Thanox_v5.0.6.apk",
+            "sha256": "f0178f40510db3bf58d42f29ee3c5a1e25dbe243ca1d2a2a272b3dfc58872c22",
+            "size": 16835375
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "5.0.6-prc",
+            "versionCode": 3079883,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "42a43d77b7170352c79fb4d18cacd8c9335d781643b5aed07a3d3fea998bb846": {
+          "added": 1714186423000,
+          "file": {
+            "name": "/Thanox_v5.0.5.apk",
+            "sha256": "42a43d77b7170352c79fb4d18cacd8c9335d781643b5aed07a3d3fea998bb846",
+            "size": 16905506
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "5.0.5-prc",
+            "versionCode": 3079783,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "27d0b5c13cbb016b9c8a96d575940e50fb625919e3445c0f0e7690930a0faff9": {
+          "added": 1714186422000,
+          "file": {
+            "name": "/Thanox_v5.0.3.apk",
+            "sha256": "27d0b5c13cbb016b9c8a96d575940e50fb625919e3445c0f0e7690930a0faff9",
+            "size": 16860546
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "5.0.3-prc",
+            "versionCode": 3079583,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 34
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "0b0fdb7bcb05ac47a62c129b45e42ca6c98589889ecdbb31fa49496369372edc": {
+          "added": 1714186421000,
+          "file": {
+            "name": "/Thanox_v5.0.1.apk",
+            "sha256": "0b0fdb7bcb05ac47a62c129b45e42ca6c98589889ecdbb31fa49496369372edc",
+            "size": 17072354
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "5.0.1-prc",
+            "versionCode": 3079383,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "10376b2f9200c3660074fb7e045ce5b546cc7588d87b8c5667460248ea8362a1": {
+          "added": 1714186420000,
+          "file": {
+            "name": "/Thanox_v5.0.0.apk",
+            "sha256": "10376b2f9200c3660074fb7e045ce5b546cc7588d87b8c5667460248ea8362a1",
+            "size": 17068864
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "5.0.0-prc",
+            "versionCode": 3079283,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "fdf1ef93921c0b2a411d3240fe3470e3db7b1030dbdf0bdde5d2f1d2bbba56c5": {
+          "added": 1714186419000,
+          "file": {
+            "name": "/Thanox_v4.2.9.apk",
+            "sha256": "fdf1ef93921c0b2a411d3240fe3470e3db7b1030dbdf0bdde5d2f1d2bbba56c5",
+            "size": 17068132
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.2.9-prc",
+            "versionCode": 3072183,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "78b77a03c8450feee92ff816b8dad6db297f46ec37d60897292a8fa14dff2d82": {
+          "added": 1714186418000,
+          "file": {
+            "name": "/Thanox_v4.2.7.1.apk",
+            "sha256": "78b77a03c8450feee92ff816b8dad6db297f46ec37d60897292a8fa14dff2d82",
+            "size": 17066664
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.2.7.1-prc",
+            "versionCode": 3071983,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "19de951d3d4d1eb22cd832d7ec0a0dd181c1c40ae353c7f2ccc7ef14932b3bff": {
+          "added": 1714186416000,
+          "file": {
+            "name": "/Thanox_v4.2.6.2.apk",
+            "sha256": "19de951d3d4d1eb22cd832d7ec0a0dd181c1c40ae353c7f2ccc7ef14932b3bff",
+            "size": 17069194
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.2.6.2-prc",
+            "versionCode": 3071882,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "3d536a7654b5b88b836cac03f85ab16ab6a58f724d2146427a1969bd89c95266": {
+          "added": 1714186417000,
+          "file": {
+            "name": "/Thanox_v4.2.6.apk",
+            "sha256": "3d536a7654b5b88b836cac03f85ab16ab6a58f724d2146427a1969bd89c95266",
+            "size": 17071247
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.2.6-prc",
+            "versionCode": 3071882,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "84721f45b5e784a64de91ef9b188ec1e54cc6178dca09a826260f210ba3670b2": {
+          "added": 1714186415000,
+          "file": {
+            "name": "/Thanox_v4.2.5.apk",
+            "sha256": "84721f45b5e784a64de91ef9b188ec1e54cc6178dca09a826260f210ba3670b2",
+            "size": 17071251
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.2.5-prc",
+            "versionCode": 3071782,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        },
+        "ff569f674db04a89f58f0ce03d270c10c5b5a67dd2d04d85921d134ab7b6b337": {
+          "added": 1714186414000,
+          "file": {
+            "name": "/Thanox_v4.2.2.apk",
+            "sha256": "ff569f674db04a89f58f0ce03d270c10c5b5a67dd2d04d85921d134ab7b6b337",
+            "size": 16970497
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "4.2.2-prc",
+            "versionCode": 3071482,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c4ae919ee7dd229af41ecbff8dd2c490be26ca72fac160025f06c2853e99ca92"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_VIDEO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_AUDIO"
+              },
+              {
+                "name": "android.permission.READ_MEDIA_IMAGES"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "com.android.vending.CHECK_LICENSE"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.USE_FINGERPRINT"
+              },
+              {
+                "name": "android.permission.USE_BIOMETRIC"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "moe.shizuku.manager.permission.API_V23"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "io.legado.app.release": {
+      "metadata": {
+        "added": 1714186426000,
+        "categories": [
+          "Reading"
+        ],
+        "lastUpdated": 1714186429000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/gedoor/legado",
+        "authorName": "gedoor",
+        "name": {
+          "en-US": "Legado 阅读"
+        },
+        "summary": {
+          "en-US": "Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0..."
+        },
+        "description": {
+          "en-US": "Legado / 开源阅读\ngedoor.github.io / legado.top\nLegado is a free and open source novel reader for Android.\n"
+        },
+        "preferredSigner": "8dacbf25ec667c9b1374db1450c1a866c2aaa1173016e80bf6ad2f06fabddc08"
+      },
+      "versions": {
+        "e70ad3044c42b1f6bf3cf8f7e9b09644bfdf38506fffeed011871f2d6410bfaa": {
+          "added": 1714186429000,
+          "file": {
+            "name": "/legado_3.23.072018.apk",
+            "sha256": "e70ad3044c42b1f6bf3cf8f7e9b09644bfdf38506fffeed011871f2d6410bfaa",
+            "size": 14555140
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "3.23.072018",
+            "versionCode": 14613,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "8dacbf25ec667c9b1374db1450c1a866c2aaa1173016e80bf6ad2f06fabddc08"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "io.legado.app.release.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "3fd40e51b33a6ed9928e7a6bbc167e79a4341486054c01751874bca3c99d89c0": {
+          "added": 1714186428000,
+          "file": {
+            "name": "/legado_3.23.070913.apk",
+            "sha256": "3fd40e51b33a6ed9928e7a6bbc167e79a4341486054c01751874bca3c99d89c0",
+            "size": 14498435
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "3.23.070913",
+            "versionCode": 14565,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "8dacbf25ec667c9b1374db1450c1a866c2aaa1173016e80bf6ad2f06fabddc08"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "io.legado.app.release.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "424b969373ab148aad99b33da658b1ea359eb1f5ca5639442e8af48885d992e5": {
+          "added": 1714186427000,
+          "file": {
+            "name": "/legado_3.23.070809.apk",
+            "sha256": "424b969373ab148aad99b33da658b1ea359eb1f5ca5639442e8af48885d992e5",
+            "size": 14498451
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "3.23.070809",
+            "versionCode": 14556,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "8dacbf25ec667c9b1374db1450c1a866c2aaa1173016e80bf6ad2f06fabddc08"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "io.legado.app.release.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "97446f402424cbca29ba553122dd9669a55c7498a77eafe0ab235593763c0810": {
+          "added": 1714186426000,
+          "file": {
+            "name": "/legado_3.23.062623.apk",
+            "sha256": "97446f402424cbca29ba553122dd9669a55c7498a77eafe0ab235593763c0810",
+            "size": 14439580
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86",
+              "x86_64"
+            ],
+            "versionName": "3.23.062623",
+            "versionCode": 14525,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "8dacbf25ec667c9b1374db1450c1a866c2aaa1173016e80bf6ad2f06fabddc08"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.ACCESS_WIFI_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"
+              },
+              {
+                "name": "android.permission.MODIFY_AUDIO_SETTINGS"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.REQUEST_INSTALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.MANAGE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "io.legado.app.release.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "me.iacn.biliroaming": {
+      "metadata": {
+        "added": 1714186387000,
+        "categories": [
+          "Internet",
+          "Xposed"
+        ],
+        "lastUpdated": 1714186388000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/yujincheng08/BiliRoaming",
+        "authorName": "yujincheng08",
+        "name": {
+          "en-US": "哔哩漫游 BiliRoaming"
+        },
+        "summary": {
+          "en-US": "b'\\xe5\\x93\\x94\\xe5\\x93\\xa9\\xe6\\xbc\\xab\\xe6\\xb8\\xb8\\xef\\xbc\\x8c\\xe8\\xa7\\xa3\\xe9\\x99\\xa4B\\xe7\\xab\\x99\\xe5\\xae\\xa2\\xe6\\x88\\xb7\\xe7\\xab\\xaf\\xe7\\x95\\xaa\\xe5\\x89\\xa7\\xe5\\x8c\\xba\\xe5\\x9f\\x9f\\xe9\\x99\\x90\\xe5\\x88\\xb6\\xe7\\x9a\\x84Xposed\\xe6\\xa8\\xa1\\xe5\\x9d\\x97\\xef\\xbc\\x8c\\xe5\\xb9\\xb6\\xe4\\xb8\\x94\\xe6...'"
+        },
+        "description": {
+          "en-US": "An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.\n哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。\n"
+        },
+        "preferredSigner": "c27ccd1d9e8bf150a7d87481235472b23389b01dcb6cba00a34f3d650a4ae5d4"
+      },
+      "versions": {
+        "4966b69d8302434bc152c0e488dd7771cf6c0fd9624f5405db867b676f80d046": {
+          "added": 1714186387000,
+          "file": {
+            "name": "/BiliRoaming_v1.6.12.apk",
+            "sha256": "4966b69d8302434bc152c0e488dd7771cf6c0fd9624f5405db867b676f80d046",
+            "size": 649892
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "1.6.12",
+            "versionCode": 1208,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c27ccd1d9e8bf150a7d87481235472b23389b01dcb6cba00a34f3d650a4ae5d4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        },
+        "d4b3df50cd808aeb63ad0d8d5a4b742bf26a57135739d40ac7b1ee1726064cf3": {
+          "added": 1714186387000,
+          "file": {
+            "name": "/BiliRoaming_v1.6.11.apk",
+            "sha256": "d4b3df50cd808aeb63ad0d8d5a4b742bf26a57135739d40ac7b1ee1726064cf3",
+            "size": 649590
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "1.6.11",
+            "versionCode": 1200,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c27ccd1d9e8bf150a7d87481235472b23389b01dcb6cba00a34f3d650a4ae5d4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        },
+        "0465b33d613d0d195ff3489f540a74f7b28996fa64979014ce6a6cd54b55eb34": {
+          "added": 1714186387000,
+          "file": {
+            "name": "/BiliRoaming_v1.6.10.apk",
+            "sha256": "0465b33d613d0d195ff3489f540a74f7b28996fa64979014ce6a6cd54b55eb34",
+            "size": 596046
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "1.6.10",
+            "versionCode": 1110,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c27ccd1d9e8bf150a7d87481235472b23389b01dcb6cba00a34f3d650a4ae5d4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        },
+        "89e79db90308ac626c0095a1e032f8a6dc6122b1e31c46079f06ca340dbbe2dd": {
+          "added": 1714186388000,
+          "file": {
+            "name": "/BiliRoaming_v1.6.9.apk",
+            "sha256": "89e79db90308ac626c0095a1e032f8a6dc6122b1e31c46079f06ca340dbbe2dd",
+            "size": 587578
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "1.6.9",
+            "versionCode": 1097,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c27ccd1d9e8bf150a7d87481235472b23389b01dcb6cba00a34f3d650a4ae5d4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        },
+        "bc6a548d56cfc8af8e41649636edacba253ae9131a5f118e9390c4547d0aaec6": {
+          "added": 1714186387000,
+          "file": {
+            "name": "/BiliRoaming_v1.6.8.apk",
+            "sha256": "bc6a548d56cfc8af8e41649636edacba253ae9131a5f118e9390c4547d0aaec6",
+            "size": 595166
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "1.6.8",
+            "versionCode": 1084,
+            "usesSdk": {
+              "minSdkVersion": 24,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c27ccd1d9e8bf150a7d87481235472b23389b01dcb6cba00a34f3d650a4ae5d4"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "me.weishu.kernelsu": {
+      "metadata": {
+        "added": 1714186394000,
+        "categories": [
+          "System"
+        ],
+        "lastUpdated": 1714186400000,
+        "license": "GPL-3.0",
+        "sourceCode": "https://github.com/tiann/KernelSU",
+        "authorName": "tiann",
+        "name": {
+          "en-US": "KernelSu"
+        },
+        "summary": {
+          "en-US": "A Kernel based root solution for Android"
+        },
+        "description": {
+          "en-US": "A Kernel based root solution for Android\n"
+        },
+        "preferredSigner": "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+      },
+      "versions": {
+        "f5adaaf01e1df7ff288f65b760ca0aa03b948e853cfab3646edcff76df3f5d24": {
+          "added": 1714186399000,
+          "file": {
+            "name": "/KernelSu_v0.9.2.apk",
+            "sha256": "f5adaaf01e1df7ff288f65b760ca0aa03b948e853cfab3646edcff76df3f5d24",
+            "size": 8513786
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.9.2",
+            "versionCode": 11682,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "647fe780d8b155f2c14b5522d04aab5ec8509b20b2749f9868e243aeb51f2cf4": {
+          "added": 1714186399000,
+          "file": {
+            "name": "/KernelSu_v0.9.0.apk",
+            "sha256": "647fe780d8b155f2c14b5522d04aab5ec8509b20b2749f9868e243aeb51f2cf4",
+            "size": 8240754
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.9.0-3-ga5e7655",
+            "versionCode": 11631,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "c13a1d19b24ebd7df40bca79de4bd328adacaad6b8df6e1e6371debb2b5dc0e2": {
+          "added": 1714186399000,
+          "file": {
+            "name": "/KernelSu_v0.8.1.apk",
+            "sha256": "c13a1d19b24ebd7df40bca79de4bd328adacaad6b8df6e1e6371debb2b5dc0e2",
+            "size": 7024677
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.8.1",
+            "versionCode": 11563,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "46506b9cacad1c60232b36e153fe0ff9b2d116bb209c122ae942bbd277c30488": {
+          "added": 1714186398000,
+          "file": {
+            "name": "/KernelSu_v0.8.0.apk",
+            "sha256": "46506b9cacad1c60232b36e153fe0ff9b2d116bb209c122ae942bbd277c30488",
+            "size": 7011513
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.8.0",
+            "versionCode": 11551,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "c4b0c6f2faf3b38624759e62a6407570f02fe6baf24caebf1858a9d26a5727f6": {
+          "added": 1714186398000,
+          "file": {
+            "name": "/KernelSu_v0.7.6.apk",
+            "sha256": "c4b0c6f2faf3b38624759e62a6407570f02fe6baf24caebf1858a9d26a5727f6",
+            "size": 7411744
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.7.6",
+            "versionCode": 11458,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "56f566c06b1aad7efb7c6db52357fbc4ae26bb6e33b3358b0f1b7376fdbcbc88": {
+          "added": 1714186397000,
+          "file": {
+            "name": "/KernelSu_v0.7.5.apk",
+            "sha256": "56f566c06b1aad7efb7c6db52357fbc4ae26bb6e33b3358b0f1b7376fdbcbc88",
+            "size": 6895124
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.7.5",
+            "versionCode": 11434,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "320610c4410f1cdbb714c58194a33e1ae5f0fee7f8cc2fbfde6719b0f1bc96cf": {
+          "added": 1714186397000,
+          "file": {
+            "name": "/KernelSu_v0.7.2.apk",
+            "sha256": "320610c4410f1cdbb714c58194a33e1ae5f0fee7f8cc2fbfde6719b0f1bc96cf",
+            "size": 7055480
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.7.2",
+            "versionCode": 11413,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "439cc3869c653198d653f158a1d889c3ec242dfdfd01f253c229c409fa8da64d": {
+          "added": 1714186397000,
+          "file": {
+            "name": "/KernelSu_v0.7.1.apk",
+            "sha256": "439cc3869c653198d653f158a1d889c3ec242dfdfd01f253c229c409fa8da64d",
+            "size": 7019876
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.7.1",
+            "versionCode": 11366,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "0513037b55e0403abd42d1edb5111805c56d7b98daa06f85897b28af537c77cd": {
+          "added": 1714186396000,
+          "file": {
+            "name": "/KernelSu_v0.7.0.apk",
+            "sha256": "0513037b55e0403abd42d1edb5111805c56d7b98daa06f85897b28af537c77cd",
+            "size": 6754240
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.7.0",
+            "versionCode": 11326,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "fd35d0c353c617747ca0eaa9aac49495f21f4c1b2a4e2552a3ebef9bded41c50": {
+          "added": 1714186396000,
+          "file": {
+            "name": "/KernelSu_v0.6.9.apk",
+            "sha256": "fd35d0c353c617747ca0eaa9aac49495f21f4c1b2a4e2552a3ebef9bded41c50",
+            "size": 6716164
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.6.9",
+            "versionCode": 11272,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "b40e9ffd7d9144e60b1ba8b04f26fd88c1ec7ecc33bfb9261adfad6ed772fb18": {
+          "added": 1714186395000,
+          "file": {
+            "name": "/KernelSu_v0.6.8.apk",
+            "sha256": "b40e9ffd7d9144e60b1ba8b04f26fd88c1ec7ecc33bfb9261adfad6ed772fb18",
+            "size": 6692776
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.6.8",
+            "versionCode": 11238,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "25b117052e972210d9b3dcf826d6a9cbf96bd2ae5e098d622104304d21282dc4": {
+          "added": 1714186395000,
+          "file": {
+            "name": "/KernelSu_v0.6.7.apk",
+            "sha256": "25b117052e972210d9b3dcf826d6a9cbf96bd2ae5e098d622104304d21282dc4",
+            "size": 6650812
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.6.7",
+            "versionCode": 11210,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "ed2eaa02a8d64c4f6b2c33d9510afe228af0a152c20168cd4d3835b2a9b997ac": {
+          "added": 1714186395000,
+          "file": {
+            "name": "/KernelSu_v0.6.6.apk",
+            "sha256": "ed2eaa02a8d64c4f6b2c33d9510afe228af0a152c20168cd4d3835b2a9b997ac",
+            "size": 6637756
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.6.6",
+            "versionCode": 11184,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "b378c687ca960a07a6d1490ed812c6e12013344252f3f99ac22d7dfb46c4b27c": {
+          "added": 1714186394000,
+          "file": {
+            "name": "/KernelSu_v0.6.2.apk",
+            "sha256": "b378c687ca960a07a6d1490ed812c6e12013344252f3f99ac22d7dfb46c4b27c",
+            "size": 6581500
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.6.2",
+            "versionCode": 11089,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "ad732be86640cebab973fb3aff270859e4fa77ba59aa6141efc70cfd94ad5ed7": {
+          "added": 1714186394000,
+          "file": {
+            "name": "/KernelSu_v0.6.1.apk",
+            "sha256": "ad732be86640cebab973fb3aff270859e4fa77ba59aa6141efc70cfd94ad5ed7",
+            "size": 6552172
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.6.1",
+            "versionCode": 11041,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "a6a44871a70ace3d4d23db60d52fde41317e4f056b958806b98c70f555f435d4": {
+          "added": 1714186394000,
+          "file": {
+            "name": "/KernelSu_v0.6.0.apk",
+            "sha256": "a6a44871a70ace3d4d23db60d52fde41317e4f056b958806b98c70f555f435d4",
+            "size": 6499868
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "x86_64"
+            ],
+            "versionName": "v0.6.0",
+            "versionCode": 10981,
+            "usesSdk": {
+              "minSdkVersion": 26,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "c371061b19d8c7d7d6133c6a9bafe198fa944e50c1b31c9d8daa8d7f1fc2d2d6"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "moe.nb4a": {
+      "metadata": {
+        "added": 1714186402000,
+        "categories": [
+          "Internet",
+          "Connectivity"
+        ],
+        "lastUpdated": 1714186409000,
+        "license": "NOASSERTION",
+        "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
+        "authorName": "MatsuriDayo",
+        "name": {
+          "en-US": "NekoBoxForAndroid"
+        },
+        "summary": {
+          "en-US": "NekoBox for Android / sing-box / universal proxy toolchain for Android"
+        },
+        "description": {
+          "en-US": "sing-box / universal proxy toolchain for Android.\n一款使用 sing-box 的 Android 通用代理软件。\n"
+        },
+        "preferredSigner": "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+      },
+      "versions": {
+        "acab06b20e2a97736b1ab4c8ac67b4b21e77e505d861040dac71c336a001b6a2": {
+          "added": 1714186408000,
+          "file": {
+            "name": "/NekoBoxForAndroid_1.2.8.apk",
+            "sha256": "acab06b20e2a97736b1ab4c8ac67b4b21e77e505d861040dac71c336a001b6a2",
+            "size": 14831279
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2.8",
+            "versionCode": 160,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "4038ca9db176ab8001592464e7930831b7678ddf9b23a8a503a28b073697f1c5": {
+          "added": 1714186407000,
+          "file": {
+            "name": "/NekoBoxForAndroid_1.2.7.apk",
+            "sha256": "4038ca9db176ab8001592464e7930831b7678ddf9b23a8a503a28b073697f1c5",
+            "size": 14814885
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2.7",
+            "versionCode": 155,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "7fe9ef223a8d9f9eec4234942120e9272738b0e16060964ffd1c6263e0b5d014": {
+          "added": 1714186406000,
+          "file": {
+            "name": "/NekoBoxForAndroid_1.2.6.apk",
+            "sha256": "7fe9ef223a8d9f9eec4234942120e9272738b0e16060964ffd1c6263e0b5d014",
+            "size": 14841929
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2.6",
+            "versionCode": 150,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "08e7dfeee80f8083ca3d1db191a2415a0053d6f772a84ef16950d95519724859": {
+          "added": 1714186405000,
+          "file": {
+            "name": "/NekoBoxForAndroid_1.2.4.apk",
+            "sha256": "08e7dfeee80f8083ca3d1db191a2415a0053d6f772a84ef16950d95519724859",
+            "size": 14149566
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2.4",
+            "versionCode": 140,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "0ccfe372e14d38e34deda4662f5cda799aacb4f020dbf6d370f4d859cd2de3ed": {
+          "added": 1714186404000,
+          "file": {
+            "name": "/NekoBoxForAndroid_1.2.3.apk",
+            "sha256": "0ccfe372e14d38e34deda4662f5cda799aacb4f020dbf6d370f4d859cd2de3ed",
+            "size": 14065450
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2.3",
+            "versionCode": 135,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "1483bde9fd9e0cfd0ab26ce5a95f51662ff3f1e18af68fbadd9fe2952de91fb8": {
+          "added": 1714186403000,
+          "file": {
+            "name": "/NekoBoxForAndroid_1.2.2.apk",
+            "sha256": "1483bde9fd9e0cfd0ab26ce5a95f51662ff3f1e18af68fbadd9fe2952de91fb8",
+            "size": 14062076
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2.2",
+            "versionCode": 130,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        },
+        "f6e4e4be54bc2c28d594f47c1d6842cbc34e9c41df41c013c96986f725400560": {
+          "added": 1714186402000,
+          "file": {
+            "name": "/NekoBoxForAndroid_1.2.1.apk",
+            "sha256": "f6e4e4be54bc2c28d594f47c1d6842cbc34e9c41df41c013c96986f725400560",
+            "size": 14062112
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a"
+            ],
+            "versionName": "1.2.1",
+            "versionCode": 125,
+            "usesSdk": {
+              "minSdkVersion": 21,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "35762758ce86a6ec297d9ccac689469bc43b9fed8ae1b27f100a86bbac00a055"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "moe.nb4a.SERVICE"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.CHANGE_NETWORK_STATE"
+              },
+              {
+                "name": "android.permission.FOREGROUND_SERVICE"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.RECEIVE_BOOT_COMPLETED"
+              },
+              {
+                "name": "android.permission.WAKE_LOCK"
+              },
+              {
+                "name": "android.permission.POST_NOTIFICATIONS"
+              },
+              {
+                "name": "android.permission.EXPAND_STATUS_BAR"
+              },
+              {
+                "name": "android.permission.QUERY_ALL_PACKAGES"
+              },
+              {
+                "name": "android.permission.CAMERA"
+              },
+              {
+                "name": "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS"
+              },
+              {
+                "name": "android.permission.VIBRATE"
+              },
+              {
+                "name": "android.permission.FLASHLIGHT"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "org.hello.coolapk": {
+      "metadata": {
+        "added": 1714186391000,
+        "categories": [
+          "Xposed"
+        ],
+        "lastUpdated": 1714186391000,
+        "sourceCode": "https://github.com/Xposed-Modules-Repo/org.hello.coolapk",
+        "authorName": "Xposed-Modules-Repo",
+        "name": {
+          "en-US": "FuckCoolapkR"
+        },
+        "summary": {
+          "en-US": "FuckCoolapk R"
+        },
+        "description": {
+          "en-US": "Remove Ads and offer some functions in coolapk.\nBest present for 316 and 423.\n"
+        },
+        "preferredSigner": "9120e110c30d63cdd4bb57faa6455b6e65cb1b38bdbd1e3891f49d1e980ec82f"
+      },
+      "versions": {
+        "afc4c2b76d287c9b37358a7562de09dd770fb9357d5739ff8d6485e211c20dc8": {
+          "added": 1714186391000,
+          "file": {
+            "name": "/FuckCoolapkR_1161-Release-1.16.1.apk",
+            "sha256": "afc4c2b76d287c9b37358a7562de09dd770fb9357d5739ff8d6485e211c20dc8",
+            "size": 2997406
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "Release-1.16.1",
+            "versionCode": 1161,
+            "usesSdk": {
+              "minSdkVersion": 27,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "9120e110c30d63cdd4bb57faa6455b6e65cb1b38bdbd1e3891f49d1e980ec82f"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.WRITE_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "android.permission.READ_PHONE_STATE"
+              },
+              {
+                "name": "android.permission.READ_EXTERNAL_STORAGE"
+              },
+              {
+                "name": "org.hello.coolapk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+              },
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        },
+        "16a82fee32d7883d16d3132fafc39bf1537699db4516c22b61edeed89d478f13": {
+          "added": 1714186391000,
+          "file": {
+            "name": "/FuckCoolapkR_1160-Release-1.16.apk",
+            "sha256": "16a82fee32d7883d16d3132fafc39bf1537699db4516c22b61edeed89d478f13",
+            "size": 5109192
+          },
+          "manifest": {
+            "nativecode": [
+              "arm64-v8a",
+              "armeabi-v7a",
+              "x86"
+            ],
+            "versionName": "Release-1.16",
+            "versionCode": 1160,
+            "usesSdk": {
+              "minSdkVersion": 27,
+              "targetSdkVersion": 33
+            },
+            "signer": {
+              "sha256": [
+                "9120e110c30d63cdd4bb57faa6455b6e65cb1b38bdbd1e3891f49d1e980ec82f"
+              ]
+            },
+            "usesPermission": [
+              {
+                "name": "android.permission.INTERNET"
+              },
+              {
+                "name": "android.permission.ACCESS_NETWORK_STATE"
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}
