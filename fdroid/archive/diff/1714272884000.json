@@ -1,0 +1,49 @@
+{
+  "repo": {
+    "timestamp": 1714272920000
+  },
+  "packages": {
+    "com.perol.pixez": {
+      "metadata": {
+        "added": 1714272827000,
+        "lastUpdated": 1714272918000
+      },
+      "versions": {
+        "4b5719ae25fbd9b50ce12872651b0631c46633a880b36dc45cc4ba1202ea352c": null,
+        "d11c92daaff6d451c1e27eab1a0a1144705ba2b5f0ffc4f9c8065ef14e205861": null,
+        "0126e34226aac0afc2a9ae1f55fadfa7926ce9f934ff93359bbcdfef345c991f": {
+          "added": 1714272918000
+        },
+        "5ed6c3c91feb7481628214fd8ee5cb2698fac09f7a88eb1bab988bb08733fc86": {
+          "added": 1714272916000
+        }
+      }
+    },
+    "eu.kanade.tachiyomi.j2k": {
+      "metadata": {
+        "lastUpdated": 1714272920000
+      },
+      "versions": {
+        "a1e0e986f3ca7f02dc5c19d605df9a3525c33fdd33b7530708bf7b81354e3bc9": null,
+        "4fe46604a050ac02beaeba8b0b0cecf745f9b30696453fb10fccc04c30d1443f": {
+          "added": 1714272920000
+        }
+      }
+    },
+    "me.weishu.kernelsu": {
+      "metadata": {
+        "lastUpdated": 1714272915000
+      },
+      "versions": {
+        "647fe780d8b155f2c14b5522d04aab5ec8509b20b2749f9868e243aeb51f2cf4": null,
+        "c13a1d19b24ebd7df40bca79de4bd328adacaad6b8df6e1e6371debb2b5dc0e2": null,
+        "a3dcd0c6b688c313ab5e4a65d176e12f6dd259abfa986c8afcd10b725037f85c": {
+          "added": 1714272915000
+        },
+        "40405124ff2f729b7df4004698c8f69d21a46145c2f85851afd8cde2d1d6f8ee": {
+          "added": 1714272914000
+        }
+      }
+    }
+  }
+}

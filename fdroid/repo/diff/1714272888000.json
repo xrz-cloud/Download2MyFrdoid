@@ -1,0 +1,23 @@
+{
+  "repo": {
+    "timestamp": 1714272923000
+  },
+  "packages": {
+    "com.perol.pixez": {
+      "metadata": {
+        "added": 1714272827000,
+        "lastUpdated": 1714272918000
+      }
+    },
+    "eu.kanade.tachiyomi.j2k": {
+      "metadata": {
+        "lastUpdated": 1714272920000
+      }
+    },
+    "me.weishu.kernelsu": {
+      "metadata": {
+        "lastUpdated": 1714272915000
+      }
+    }
+  }
+}
