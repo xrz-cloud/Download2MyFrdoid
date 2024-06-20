@@ -1,0 +1,48 @@
+{
+  "repo": {
+    "timestamp": 1718864132000
+  },
+  "packages": {
+    "io.nichijou.flutter.mikan": {
+      "metadata": {
+        "categories": [
+          "Internet",
+          "Multimedia"
+        ],
+        "license": "Apache-2.0",
+        "sourceCode": "https://github.com/iota9star/mikan_flutter",
+        "screenshots": {
+          "phone": {
+            "en-US": [
+              {
+                "name": "/io.nichijou.flutter.mikan/en-US/phoneScreenshots/1.png",
+                "sha256": "43120a6b62cae2d9b97dc7dce2c65b6fcf87dbc4885ffc3e70c2f2f8b34c6004",
+                "size": 2105785
+              },
+              {
+                "name": "/io.nichijou.flutter.mikan/en-US/phoneScreenshots/2.png",
+                "sha256": "9dff9dc69497fd7e9824dd1b78511b641d7a96bb366bfb8643861314b9b5a79d",
+                "size": 350349
+              },
+              {
+                "name": "/io.nichijou.flutter.mikan/en-US/phoneScreenshots/3.png",
+                "sha256": "86dbecf1cbefc9358854e592a92f1f1b3dd22b55a023cbbe1861558576f54adf",
+                "size": 2763437
+              }
+            ]
+          }
+        },
+        "authorName": "iota9star",
+        "name": {
+          "en-US": "mikan_flutter"
+        },
+        "summary": {
+          "en-US": "b'Flutter \\xe9\\xa9\\xb1\\xe5\\x8a\\xa8\\xe7\\x9a\\x84\\xe4\\xb8\\x89\\xe6\\x96\\xb9 \\xe8\\x9c\\x9c\\xe6\\x9f\\x91\\xe8\\xae\\xa1\\xe5\\x88\\x92\\xef\\xbc\\x88https://mikanani.me\\xef\\xbc\\x89 APP\\xef\\xbc\\x8c\\xf0\\x9f\\x9a\\xa7 \\xe5\\xbc\\x80\\xe5...'"
+        },
+        "description": {
+          "en-US": "Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，🚧 开发中...\n"
+        }
+      }
+    }
+  }
+}

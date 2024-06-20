@@ -1,0 +1,15 @@
+AuthorName: iota9star
+Categories:
+    - Internet
+    - Multimedia
+CurrentVersion: 1.2.4
+CurrentVersionCode: 2070
+Description: "Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，\U0001F6A7 开发中...\n"
+IssueTracker: ""
+License: Apache-2.0
+Name: mikan_flutter
+SourceCode: https://github.com/iota9star/mikan_flutter
+Summary: !!binary |
+    Rmx1dHRlciDpqbHliqjnmoTkuInmlrkg6Jyc5p+R6K6h5YiS77yIaHR0cHM6Ly9taWthbm
+    FuaS5tZe+8iSBBUFDvvIzwn5qnIOW8gOUuLi4=
+WebSite: ""
