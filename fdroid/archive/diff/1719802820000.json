@@ -1,0 +1,18 @@
+{
+  "repo": {
+    "timestamp": 1719802866000
+  },
+  "packages": {
+    "io.nichijou.flutter.mikan": {
+      "metadata": {
+        "lastUpdated": 1719802866000
+      },
+      "versions": {
+        "7346425a88439cd456eed42c3d48ca10787b3019da9bd35694611ca186ef7cf4": null,
+        "131e947418d1e512e90321402c17977a2fa32592c640268ba2561e77d9c8357d": {
+          "added": 1719802866000
+        }
+      }
+    }
+  }
+}
