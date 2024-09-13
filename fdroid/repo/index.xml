@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="Xrz's Apps Mirror (xposed/root/etc.)" pubkey="308204eb308202d3a003020102020824f278d31d838555300d06092a864886f70d01010b050030233110300e060355040b1307462d44726f6964310f300d0603550403130678727a2d70633020170d3233303930333133343332385a180f32303531303131393133343332385a30233110300e060355040b1307462d44726f6964310f300d0603550403130678727a2d706330820222300d06092a864886f70d01010105000382020f003082020a0282020100bd6b8506747d9d3064d9d286d849c2e3c38b9caade1fbb41fb27f0290ccc0b080a99b6812f0a2d6625a54c45bfe48dfd1b3e07983f7aeff916763874d790c7cd03a428548300215f9594f0a2df9d505ba064d02690d9b5a164dbb4a634e54a3a58832abea164c0b1d4d99fc0cfff7146c7159021c2db7947b35a16ee8f0358baf436bf56283e52648eb07856e020f6e067fa9fbaf0af7fb1502451e45602a3b12a0f3372c36677ce1367157940498b33d2237f4c6851239e2cdd906adced25e79d56628a52ab5e9f05c6f17385cc1b67e8ca3cc8f3c6924dfe6da5be1789489ba1fc73c98e5e37e91a9ee3f4b8fd89c4123eb920cfd69627c9675ab681514d856559b056cb98ed693eced3c4a8e27a9c9b411bdc43ce96ac14ee0cf5ca91625da9ee2a4a691927a9643089a00a6fb170a9fd8a2757000b97f4486059a208a22873716c11e0835bd24001eb18a9e62b2909eb9f83df3cdae0de97f80c44dca02449624204676804c419d863b7101ec2c7acad6561ec6d820a97c98d8c90c32cf1294cfe4ac3472977dc9dcff70ff08403d3522e0aad37acbfed32627356c3422ffab43141deab6160d9aed7d1aeea34e6af9aa8ec1122ea0a1fbd80def2b76c9a968e1fd4c492c0128fb2e6d114931a9bf4c199866867323c69c47733855e482ffef0b9c9b22fdb699b4e46cddf4d81c327d1c58593f2a9c9589204b0c0fe5d930203010001a321301f301d0603551d0e041604146714db3861297b3028016e6d13e7c646b47a7a33300d06092a864886f70d01010b0500038202010070090e599a80eb8f48fcde20a8bbee22448ef0414ad4a8d5e28ab11ad212b99d1a687954cc4a095a10f3b3e124d85c2031c0f3e52199bc0a7468666ebabd349ea3ca6712af526c56ea94e797829aba6a68b159a7c34d45c178b538864a315a498505462ec49fb36f7af45fc35a61ed60f1f13ffd23ba801a0cbd00fa127a6e42837118375299486dc8457581970ecbac37781a2d7eac743dfd7880a75d107bed7e8fbfa43ce3ab493bc8341bcc6b2b4bdadba4b4aa32180049b0d3d361bddf4f03c7559b90a2ac89c3ac90536dda8f14cac283a411016e01af430e1233e7caae3cf5ed8cf05c198ca802d46e056086d2b4ec269568e0285eed5447075a4040baa111d03a897ca69999d87516d6d62286ef7acc33fe745b9cb859be0a1029cbb7d0e33a178a7c58ab50c4d06bd31802fe900689274ffa80572b9f81256cf6e599d305396491c535d08b1f08f4646fcccac5f0f264f550365d1cab61c1c210ee5068dd9f2d37b389798d0bc8cf5d7ad35c20cbb38f4244aaf4dc963a88bd529b494c9164db5549c8b8ffb068b6cc0bcdb8942a3e700d47764399a46fc8ef164dccaa6dcc69bc5bcdc4600edf5139fa9e9fb8b2b51c1f185bc47d486a2a207e7290d7d25d0f95fdc5b288dd794bbd1c5d15da304161f89055eb9bb525f84a184bae013a3c3155e50d7d88ef014b4f5602700167925b58204c7f5298791063d38f27" timestamp="1726110245" url="https://raw.githubusercontent.com/xrz-cloud/Download2MyFrdoid/main/fdroid/repo" version="20002">
+	<repo icon="icon.png" name="Xrz's Apps Mirror (xposed/root/etc.)" pubkey="308204eb308202d3a003020102020824f278d31d838555300d06092a864886f70d01010b050030233110300e060355040b1307462d44726f6964310f300d0603550403130678727a2d70633020170d3233303930333133343332385a180f32303531303131393133343332385a30233110300e060355040b1307462d44726f6964310f300d0603550403130678727a2d706330820222300d06092a864886f70d01010105000382020f003082020a0282020100bd6b8506747d9d3064d9d286d849c2e3c38b9caade1fbb41fb27f0290ccc0b080a99b6812f0a2d6625a54c45bfe48dfd1b3e07983f7aeff916763874d790c7cd03a428548300215f9594f0a2df9d505ba064d02690d9b5a164dbb4a634e54a3a58832abea164c0b1d4d99fc0cfff7146c7159021c2db7947b35a16ee8f0358baf436bf56283e52648eb07856e020f6e067fa9fbaf0af7fb1502451e45602a3b12a0f3372c36677ce1367157940498b33d2237f4c6851239e2cdd906adced25e79d56628a52ab5e9f05c6f17385cc1b67e8ca3cc8f3c6924dfe6da5be1789489ba1fc73c98e5e37e91a9ee3f4b8fd89c4123eb920cfd69627c9675ab681514d856559b056cb98ed693eced3c4a8e27a9c9b411bdc43ce96ac14ee0cf5ca91625da9ee2a4a691927a9643089a00a6fb170a9fd8a2757000b97f4486059a208a22873716c11e0835bd24001eb18a9e62b2909eb9f83df3cdae0de97f80c44dca02449624204676804c419d863b7101ec2c7acad6561ec6d820a97c98d8c90c32cf1294cfe4ac3472977dc9dcff70ff08403d3522e0aad37acbfed32627356c3422ffab43141deab6160d9aed7d1aeea34e6af9aa8ec1122ea0a1fbd80def2b76c9a968e1fd4c492c0128fb2e6d114931a9bf4c199866867323c69c47733855e482ffef0b9c9b22fdb699b4e46cddf4d81c327d1c58593f2a9c9589204b0c0fe5d930203010001a321301f301d0603551d0e041604146714db3861297b3028016e6d13e7c646b47a7a33300d06092a864886f70d01010b0500038202010070090e599a80eb8f48fcde20a8bbee22448ef0414ad4a8d5e28ab11ad212b99d1a687954cc4a095a10f3b3e124d85c2031c0f3e52199bc0a7468666ebabd349ea3ca6712af526c56ea94e797829aba6a68b159a7c34d45c178b538864a315a498505462ec49fb36f7af45fc35a61ed60f1f13ffd23ba801a0cbd00fa127a6e42837118375299486dc8457581970ecbac37781a2d7eac743dfd7880a75d107bed7e8fbfa43ce3ab493bc8341bcc6b2b4bdadba4b4aa32180049b0d3d361bddf4f03c7559b90a2ac89c3ac90536dda8f14cac283a411016e01af430e1233e7caae3cf5ed8cf05c198ca802d46e056086d2b4ec269568e0285eed5447075a4040baa111d03a897ca69999d87516d6d62286ef7acc33fe745b9cb859be0a1029cbb7d0e33a178a7c58ab50c4d06bd31802fe900689274ffa80572b9f81256cf6e599d305396491c535d08b1f08f4646fcccac5f0f264f550365d1cab61c1c210ee5068dd9f2d37b389798d0bc8cf5d7ad35c20cbb38f4244aaf4dc963a88bd529b494c9164db5549c8b8ffb068b6cc0bcdb8942a3e700d47764399a46fc8ef164dccaa6dcc69bc5bcdc4600edf5139fa9e9fb8b2b51c1f185bc47d486a2a207e7290d7d25d0f95fdc5b288dd794bbd1c5d15da304161f89055eb9bb525f84a184bae013a3c3155e50d7d88ef014b4f5602700167925b58204c7f5298791063d38f27" timestamp="1726196681" url="https://raw.githubusercontent.com/xrz-cloud/Download2MyFrdoid/main/fdroid/repo" version="20002">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid.</description>
 	</repo>
 	<application id="org.hello.coolapk">
 		<id>org.hello.coolapk</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>FuckCoolapkR</name>
 		<summary>FuckCoolapk R</summary>
 		<desc>Remove Ads and offer some functions in coolapk.
@@ -29,7 +29,7 @@ Best present for 316 and 423.
 			<size>3200134</size>
 			<sdkver>27</sdkver>
 			<targetSdkVersion>33</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>56366118ab060a855fd1536b25111f37</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,WRITE_EXTERNAL_STORAGE,org.hello.coolapk.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -37,8 +37,8 @@ Best present for 316 and 423.
 	</application>
 	<application id="me.weishu.kernelsu">
 		<id>me.weishu.kernelsu</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>KernelSu</name>
 		<summary>A Kernel based root solution for Android</summary>
 		<desc>A Kernel based root solution for Android
@@ -60,7 +60,7 @@ Best present for 316 and 423.
 			<size>8562210</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>87dc6bf0cecc26e08c870a453832f096</sig>
 			<permissions>INTERNET,me.weishu.kernelsu.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,x86_64</nativecode>
@@ -68,8 +68,8 @@ Best present for 316 and 423.
 	</application>
 	<application id="io.legado.app.release">
 		<id>io.legado.app.release</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>Legado 阅读</name>
 		<summary>Legado 3.0 Book Reader with powerful controls &amp; full functions❤️阅读3.0...</summary>
 		<desc>Legado / 开源阅读
@@ -93,7 +93,7 @@ Legado is a free and open source novel reader for Android.
 			<size>14614552</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>33</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>d486f7cb8f6cd6661b6ec4b6b07eba90</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CAMERA,DOWNLOAD_WITHOUT_NOTIFICATION,FLASHLIGHT,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,io.legado.app.release.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -101,8 +101,8 @@ Legado is a free and open source novel reader for Android.
 	</application>
 	<application id="io.nichijou.flutter.mikan">
 		<id>io.nichijou.flutter.mikan</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>mikan_flutter</name>
 		<summary>b'Flutter \xe9\xa9\xb1\xe5\x8a\xa8\xe7\x9a\x84\xe4\xb8\x89\xe6\x96\xb9 \xe8\x9c\x9c\xe6\x9f\x91\xe8\xae\xa1\xe5\x88\x92\xef\xbc\x88https://mikanani.me\xef\xbc\x89 APP\xef\xbc\x8c\xf0\x9f\x9a\xa7 \xe5\xbc\x80\xe5...'</summary>
 		<desc>Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，🚧 开发中...
@@ -124,7 +124,7 @@ Legado is a free and open source novel reader for Android.
 			<size>12110609</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>0294dd4cb257e7ca3ac8bf596bbf1345</sig>
 			<permissions>ACCESS_ADSERVICES_AD_ID,ACCESS_ADSERVICES_ATTRIBUTION,ACCESS_NETWORK_STATE,INTERNET,WAKE_LOCK,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,io.nichijou.flutter.mikan.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -132,8 +132,8 @@ Legado is a free and open source novel reader for Android.
 	</application>
 	<application id="com.xiaomi.xmsf">
 		<id>com.xiaomi.xmsf</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>MiPushFramework 小米系统级推送框架</name>
 		<summary>Let supported push service run system-ly on every Android devices</summary>
 		<icon>com.xiaomi.xmsf.1003003000.png</icon>
@@ -156,15 +156,15 @@ Legado is a free and open source novel reader for Android.
 			<size>7947307</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>1d8831d12b9b9d9a4c1cd19906a6ce3c</sig>
 			<permissions>ACCESS_NETWORK_STATE,BROADCAST_STICKY,FOREGROUND_SERVICE,GET_ACCOUNTS,INTERACT_ACROSS_USERS,INTERNET,PACKAGE_USAGE_STATS,QUERY_ALL_PACKAGES,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,SYSTEM_ALERT_WINDOW,UPDATE_APP_OPS_STATS,WAKE_LOCK,com.catchingnow.icebox.SDK,com.catchingnow.icebox.STATE,com.xiaomi.permission.SEND_PUSH,com.xiaomi.xmsf.permission.MIPUSH_RECEIVE</permissions>
 		</package>
 	</application>
 	<application id="com.nihility.mipush">
 		<id>com.nihility.mipush</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>MiPushFramework的分应用模块</name>
 		<summary>让 MiPushFramework 支持分应用</summary>
 		<desc>本模块需要配合MiPushFramework使用
@@ -189,15 +189,15 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 			<size>13230509</size>
 			<sdkver>26</sdkver>
 			<targetSdkVersion>33</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>1d8831d12b9b9d9a4c1cd19906a6ce3c</sig>
 			<permissions>INTERNET</permissions>
 		</package>
 	</application>
 	<application id="fun.upup.musicfree">
 		<id>fun.upup.musicfree</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>MusicFree</name>
 		<summary>插件化、定制化、无广告的免费音乐播放器</summary>
 		<desc>插件化、定制化、无广告的免费音乐播放器
@@ -219,7 +219,7 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 			<size>32231246</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>73e0032cb5caf0d72a98b6094bb74aa8</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_MEDIA_PLAYBACK,INTERNET,MANAGE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,SYSTEM_ALERT_WINDOW,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,fun.upup.musicfree.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -227,8 +227,8 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 	</application>
 	<application id="moe.nb4a">
 		<id>moe.nb4a</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>NekoBoxForAndroid</name>
 		<summary>NekoBox for Android / sing-box / universal proxy toolchain for Android</summary>
 		<desc>sing-box / universal proxy toolchain for Android.
@@ -251,7 +251,7 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 			<size>14835575</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>33</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>b8c9c504acbc253edec282f8e62d7079</sig>
 			<permissions>ACCESS_NETWORK_STATE,CAMERA,CHANGE_NETWORK_STATE,EXPAND_STATUS_BAR,FLASHLIGHT,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,moe.nb4a.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.nb4a.SERVICE</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -259,8 +259,8 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 	</application>
 	<application id="com.perol.pixez">
 		<id>com.perol.pixez</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>Pixez Flutter</name>
 		<summary>一个支持免代理直连及查看动图的第三方Pixiv flutter客户端</summary>
 		<desc>使用 Flutter 编写的 pixiv 第三方客户端。
@@ -284,7 +284,7 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 			<size>17826023</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>aef4d9f65c901f9a4c487ed33eb62a84</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,READ_EXTERNAL_STORAGE,READ_MEDIA_IMAGES,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.perol.pixez.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -292,8 +292,8 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 	</application>
 	<application id="eu.kanade.tachiyomi.j2k">
 		<id>eu.kanade.tachiyomi.j2k</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>tachiyomiJ2K</name>
 		<summary>Free and open source manga reader for Android</summary>
 		<desc>TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi
@@ -315,7 +315,7 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 			<size>23944559</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>ee6e9de8e7354d0e52acd44f225bb5bb</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,FOREGROUND_SERVICE_DATA_SYNC,INTERNET,MANAGE_EXTERNAL_STORAGE,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_APP_SPECIFIC_LOCALES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,eu.kanade.tachiyomi.j2k.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -323,8 +323,8 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 	</application>
 	<application id="github.tornaco.android.thanos">
 		<id>github.tornaco.android.thanos</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>Thanox</name>
 		<summary>I am thanos! 😈 👌</summary>
 		<icon>github.tornaco.android.thanos.3079983.png</icon>
@@ -347,7 +347,7 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 			<size>16875753</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>e7e484fabd4d808aa7a9a3a38008badd</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,POST_NOTIFICATIONS,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,READ_MEDIA_AUDIO,READ_MEDIA_IMAGES,READ_MEDIA_VIDEO,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.CHECK_LICENSE,github.tornaco.android.thanos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -355,8 +355,8 @@ MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推�
 	</application>
 	<application id="com.fankes.tsbattery">
 		<id>com.fankes.tsbattery</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>TSBattery</name>
 		<summary>A new way to save your battery avoid cancer apps hacker it.</summary>
 		<desc>A new way to save your battery avoid cancer apps hacker it.
@@ -379,7 +379,7 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 			<size>4009525</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>7f607d20c3b2e6e05369cf3e5d8d2f75</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -387,8 +387,8 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 	</application>
 	<application id="me.iacn.biliroaming">
 		<id>me.iacn.biliroaming</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>哔哩漫游 BiliRoaming</name>
 		<summary>b'\xe5\x93\x94\xe5\x93\xa9\xe6\xbc\xab\xe6\xb8\xb8\xef\xbc\x8c\xe8\xa7\xa3\xe9\x99\xa4B\xe7\xab\x99\xe5\xae\xa2\xe6\x88\xb7\xe7\xab\xaf\xe7\x95\xaa\xe5\x89\xa7\xe5\x8c\xba\xe5\x9f\x9f\xe9\x99\x90\xe5\x88\xb6\xe7\x9a\x84Xposed\xe6\xa8\xa1\xe5\x9d\x97\xef\xbc\x8c\xe5\xb9\xb6\xe4\xb8\x94\xe6...'</summary>
 		<desc>An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.
@@ -411,7 +411,7 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 			<size>687282</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>10f66a6c3fd6efab4e51f54ea50e25b8</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -419,8 +419,8 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 	</application>
 	<application id="com.raincat.dolby_beta">
 		<id>com.raincat.dolby_beta</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>杜比大喇叭β版 DolbyBeta</name>
 		<summary>b'\xe6\x9d\x9c\xe6\xaf\x94\xe5\xa4\xa7\xe5\x96\x87\xe5\x8f\xad\xe7\x9a\x84\xce\xb2\xe7\x89\x88\xe8\xbf\x8e\xe6\x9d\xa5\xe4\xba\x86\xe9\x87\x8d\xe5\xa4\xa7\xe7\x9a\x84\xe9\x9d\xa9\xe6\x96\xb0\xef\xbc\x8c\xe5\x90\x88\xe5\xb9\xb6\xe4\xba\x86UnblockMusic Pro\xe7\x9a...'</summary>
 		<icon>com.raincat.dolby_beta.354.png</icon>
@@ -445,15 +445,15 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 			<size>13211300</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>a5d7a34903c3de60103bb9bd8f0ab444</sig>
 			<nativecode>arm64-v8a</nativecode>
 		</package>
 	</application>
 	<application id="com.tsng.hidemyapplist">
 		<id>com.tsng.hidemyapplist</id>
-		<added>2024-09-12</added>
-		<lastupdated>2024-09-12</lastupdated>
+		<added>2024-09-13</added>
+		<lastupdated>2024-09-13</lastupdated>
 		<name>隐藏应用列表 Hide-My-Applist</name>
 		<summary>An Xposed module to intercept applist detections</summary>
 		<desc>An Xposed module to intercept applist detections
@@ -475,7 +475,7 @@ TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed �
 			<size>4552756</size>
 			<sdkver>24</sdkver>
 			<targetSdkVersion>34</targetSdkVersion>
-			<added>2024-09-12</added>
+			<added>2024-09-13</added>
 			<sig>c2333f2d8e2308c2617a32b4f1ffd30f</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,WAKE_LOCK,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,com.tsng.hidemyapplist.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</permissions>
 		</package>
