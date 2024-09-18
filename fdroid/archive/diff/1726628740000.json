@@ -1,0 +1,18 @@
+{
+  "repo": {
+    "timestamp": 1726628799000
+  },
+  "packages": {
+    "com.perol.pixez": {
+      "metadata": {
+        "lastUpdated": 1726628799000
+      },
+      "versions": {
+        "c39223d13c4fc21f875557b953fb6378aed82eac189e36dc0f3b276303fc21eb": null,
+        "68405602b14e1043187307d1bf47ca8d11f0a95eb1aa0f03f0bfd9951f4f615e": {
+          "added": 1726628799000
+        }
+      }
+    }
+  }
+}
