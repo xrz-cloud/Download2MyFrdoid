@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1729221483000,
+    "timestamp": 1729307346000,
     "version": 20002,
     "name": "Xrz's Apps Mirror (xposed/root/etc.)",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "FuckCoolapkR",
       "sourceCode": "https://github.com/Xposed-Modules-Repo/org.hello.coolapk",
       "summary": "FuckCoolapk R",
-      "added": 1729221349000,
+      "added": 1729307218000,
       "packageName": "org.hello.coolapk",
-      "lastUpdated": 1729221349000,
+      "lastUpdated": 1729307218000,
       "localized": {
         "en-US": {
           "whatsNew": "\u5404\u4f4d\u65b0\u5e74\u5feb\u4e50\uff01\n\n\u66f4\u65b0\u65e5\u5fd7\u5982\u4e0b\uff1a\n1. \u4fee\u590d\u5f00\u542f\u53bb\u9664\u4fe1\u606f\u6d41\u5e7f\u544a\u540e\u4ecd\u7136\u663e\u793a\u5f00\u5c4f\u5e7f\u544a\u7684\u95ee\u9898\n2. \u589e\u52a0\u5173\u95ed\u8f93\u51faDebug\u65e5\u5fd7\u7684\u5f00\u5173\n3. \u4e3a\u90e8\u5206DexKit\u5bfb\u627e\u7684\u65b9\u6cd5\u589e\u52a0\u7f13\u5b58"
@@ -45,9 +45,9 @@
       "name": "KernelSu",
       "sourceCode": "https://github.com/tiann/KernelSU",
       "summary": "A Kernel based root solution for Android",
-      "added": 1729221352000,
+      "added": 1729307221000,
       "packageName": "me.weishu.kernelsu",
-      "lastUpdated": 1729221398000,
+      "lastUpdated": 1729307264000,
       "localized": {
         "en-US": {
           "whatsNew": "- [Kernel]: Let the kernel choose who is qualified to be the manager, avoiding potential side-channel attacks.\n- [Manager]: Support uninstall permanently and restore stock boot in Settings. You can restore stock boot before OTA to avoid download the full firmware.\n- [Module]: Fix the issue of the App Profile template page not opening.\n- [Manager]: Fix scroll issues in Settings.\n- [Manager]: Support choose kmi manually for installation.\n- [Manager]: Fix dark mode not working in Splash Screen.\n- ["
@@ -66,9 +66,9 @@
       "name": "Legado \u9605\u8bfb",
       "sourceCode": "https://github.com/gedoor/legado",
       "summary": "Legado 3.0 Book Reader with powerful controls & full functions\u2764\ufe0f\u9605\u8bfb3.0...",
-      "added": 1729221372000,
+      "added": 1729307239000,
       "packageName": "io.legado.app.release",
-      "lastUpdated": 1729221420000,
+      "lastUpdated": 1729307284000,
       "localized": {
         "en-US": {
           "whatsNew": "**2023/07/30**\n\n* \u66f4\u65b0cronet: 115.0.5790.136\n* \u66f4\u65b0kotlin 1.9.0, \u8fc1\u79fb\u5230ksp\n* \u540e\u53f0\u5bfc\u51fa\u4e66\u7c4d\n* \u8ba2\u9605\u6dfb\u52a0\u8df3\u8f6curl\u62e6\u622a, js, \u8fd4\u56detrue\u62e6\u622a,js\u53d8\u91cfurl,\u53ef\u4ee5\u901a\u8fc7js\u6253\u5f00url,\u6bd4\u5982\u8c03\u7528\u9605\u8bfb\u641c\u7d22java.searchBook(\n  bookName),\u6dfb\u52a0\u4e66\u67b6\u7b49java.addBook(bookUrl),\u7b80\u5316\u89c4\u5219\u5199\u6cd5,\u4e0d\u7528webView js\u6ce8\u5165\n* \u5bfc\u51fa\u5355\u4e2a\u4e66\u7c4d\u7684\u4e66\u7b7e\n* \u5176\u5b83\u4f18\u5316\u4e0ebug\u4fee\u590d\n* \u5176\u4e2d\u4e00\u4e9b\u66f4\u65b0\u7531 Horis, Xwite, ag2s20150909 \u63d0\u4f9b"
@@ -88,9 +88,9 @@
       "name": "mikan_flutter",
       "sourceCode": "https://github.com/iota9star/mikan_flutter",
       "summary": "b'Flutter \\xe9\\xa9\\xb1\\xe5\\x8a\\xa8\\xe7\\x9a\\x84\\xe4\\xb8\\x89\\xe6\\x96\\xb9 \\xe8\\x9c\\x9c\\xe6\\x9f\\x91\\xe8\\xae\\xa1\\xe5\\x88\\x92\\xef\\xbc\\x88https://mikanani.me\\xef\\xbc\\x89 APP\\xef\\xbc\\x8c\\xf0\\x9f\\x9a\\xa7 \\xe5\\xbc\\x80\\xe5...'",
-      "added": 1729221373000,
+      "added": 1729307240000,
       "packageName": "io.nichijou.flutter.mikan",
-      "lastUpdated": 1729221422000,
+      "lastUpdated": 1729307286000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -114,10 +114,10 @@
       "name": "MiPushFramework \u5c0f\u7c73\u7cfb\u7edf\u7ea7\u63a8\u9001\u6846\u67b6",
       "sourceCode": "https://github.com/NihilityT/MiPushFramework",
       "summary": "Let supported push service run system-ly on every Android devices",
-      "added": 1729221389000,
+      "added": 1729307256000,
       "icon": "com.xiaomi.xmsf.1003003000.png",
       "packageName": "com.xiaomi.xmsf",
-      "lastUpdated": 1729221391000,
+      "lastUpdated": 1729307258000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -140,9 +140,9 @@
       "name": "MiPushFramework\u7684\u5206\u5e94\u7528\u6a21\u5757",
       "sourceCode": "https://github.com/NihilityT/MiPush",
       "summary": "\u8ba9 MiPushFramework \u652f\u6301\u5206\u5e94\u7528",
-      "added": 1729221354000,
+      "added": 1729307223000,
       "packageName": "com.nihility.mipush",
-      "lastUpdated": 1729221354000,
+      "lastUpdated": 1729307223000,
       "localized": {
         "en-US": {
           "whatsNew": "- \u4f18\u5316 \u4f2a\u88c5 region property\n- \u4f18\u5316 \u65e5\u5fd7\u8f93\u51fa\u524d\u7f00\u4ece [HMSPush] \u6539\u4e3a [MiPush]\n- \u4f18\u5316 \u652f\u4ed8\u5b9d\u9002\u914d\n- \u4fee\u590d \u5220\u9664\u901a\u77e5\u6e20\u9053\u5931\u8d25\u7684\u95ee\u9898"
@@ -162,9 +162,9 @@
       "name": "MusicFree",
       "sourceCode": "https://github.com/maotoumao/MusicFree",
       "summary": "\u63d2\u4ef6\u5316\u3001\u5b9a\u5236\u5316\u3001\u65e0\u5e7f\u544a\u7684\u514d\u8d39\u97f3\u4e50\u64ad\u653e\u5668",
-      "added": 1729221356000,
+      "added": 1729307224000,
       "packageName": "fun.upup.musicfree",
-      "lastUpdated": 1729221359000,
+      "lastUpdated": 1729307227000,
       "localized": {
         "en-US": {
           "whatsNew": "1. \u3010\u529f\u80fd\u3011\u5386\u53f2\u64ad\u653e\u8bb0\u5f55\u652f\u6301\u6279\u91cf\u7f16\u8f91\n2. \u3010\u529f\u80fd\u3011\u6b4c\u5355\u5185\u652f\u6301\u6309\u7167\u52a0\u5165\u65f6\u95f4\u6392\u5e8f\n3. \u3010\u529f\u80fd\u3011\u65b0\u589e\u8bbe\u7f6e\u201c\u672c\u5730\u6b4c\u5355\u6dfb\u52a0\u6b4c\u66f2\u987a\u5e8f\u201d\uff0c\u5728\u6b4c\u5355\u5185\u6dfb\u52a0\u6b4c\u66f2\u65f6\u53ef\u4ee5\u52a0\u5230\u6b4c\u5355\u5f00\u5934\n4. \u3010\u529f\u80fd\u3011\u9996\u9875\u65b0\u5efa\u6b4c\u5355\u65c1\u8fb9\u65b0\u589e\u201c\u5bfc\u5165\u6b4c\u5355\u201d\u6309\u94ae\uff0c\u70b9\u51fb\u65f6\u4f1a\u81ea\u52a8\u5bfb\u627e\u5177\u6709\u5bfc\u5165\u6b4c\u5355\u529f\u80fd\u7684\u63d2\u4ef6\uff0c\u5e76\u62c9\u8d77\u5bfc\u5165\u6d6e\u5c42\n5. \u3010\u529f\u80fd\u3011\u8bbe\u7f6e\u9879\u4e2d\u65b0\u589e\u201c\u81ea\u52a8\u6362\u6e90\u201d\u529f\u80fd\uff0c\u5f53\u63d2\u4ef6\u5931\u6548/\u65e0\u6cd5\u83b7\u53d6\u64ad\u653e\u94fe\u63a5\u65f6\uff0c\u4f1a\u81ea\u52a8\u5c1d\u8bd5\u66f4\u6362\u5176\u4ed6\u6e90\u7684\u540c\u540d\u6b4c\u66f2\n6. \u3010\u4f18\u5316\u3011\u5c1d\u8bd5\u4f18\u5316\u4e86\u8f6f\u4ef6\u542f\u52a8\u65f6\u95f4\uff0c\u5e94\u8be5\u6709\u70b9\u4f5c\u7528\n7. \u3010\u4f18\u5316\u3011\u66f4\u65b0\u4e86\u5b58\u50a8\u65b9\u5f0f\uff0c\u73b0\u5728\u5355\u4e2a\u6b4c\u5355\u53ef\u4ee5\u5b58\u50a8\u5927\u4e8e10000\u9996\u6b4c\u66f2\uff1b\n8. \u3010\u4f18\u5316\u3011\u8c03\u6574\u672a\u5f00\u542f\u201c\u5141\u8bb8\u4f7f\u7528\u79fb\u52a8\u7f51\u7edc\u64ad\u653e\u201d\u5f00\u5173\u65f6\u7684\u6837\u5f0f\u8868\u73b0\n9. \u3010\u4f18\u5316\u3011\u4f18\u5316\u4e86\u8bbe\u7f6e\u9875\u7684\u6837\u5f0f\n10. \u3010\u4f18\u5316\u3011\u5fae\u8c03\u6b4c\u8bcd\u8be6\u60c5\u9875\u7684\u5e03\u5c40\n11. \u3010\u4fee\u590d\u3011\u4fee\u590d\u6253\u5f00\u5f39\u7a97\u65f6\uff0c\u70b9\u51fb\u8fd4\u56de\u6309\u94ae\u4e0d\u5173\u95ed\u5f39\u7a97\u7684\u95ee\u9898\n12. \u3010\u4fee\u590d\u3011\u4fee\u590d\u542f\u52a8\u8f6f\u4ef6\u65f6\u64ad\u653e\u6a21\u5f0f\u9519\u8bef\u7684\u95ee\u9898\n13. \u3010\u4fee\u590d\u3011\u4fee\u590d\u641c\u7d22\u7ed3\u679c\u9875\u7279\u5b9a\u60c5\u51b5\u4e0b\u767d\u5c4f\u7684\u95ee\u9898"
@@ -184,9 +184,9 @@
       "name": "NekoBoxForAndroid",
       "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
       "summary": "NekoBox for Android / sing-box / universal proxy toolchain for Android",
-      "added": 1729221360000,
+      "added": 1729307228000,
       "packageName": "moe.nb4a",
-      "lastUpdated": 1729221404000,
+      "lastUpdated": 1729307270000,
       "localized": {
         "en-US": {
           "whatsNew": "- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/990df9f93e8848f136b82527b5e6c3d2d6a11314 \u66f4\u65b0 sing-box 1.6.rc3\n- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/6230dcf3bc0d92c5f48ad331c62e3738d279abd1 \u4f18\u5316\u4e2d\u6587\u7ffb\u8bd1\n- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/7c4a965e40cb27778f2897b5acb410e33e3ce793 \u4fee\u590d\u624b\u52a8\u6dfb\u52a0socks\u670d\u52a1\u5668\u4e0d\u53ef\u4ee5\u586b\u5199\u5bc6\u7801(#376)\n- https://github.com/MatsuriDayo/NekoBoxForAndroid/commit/51889ed28e56d0376fe966a441a169ca72d5c698 \u6dfb\u52a0 ECH \u652f\u6301(#373) \n- https://github.com/MatsuriDayo"
@@ -206,9 +206,9 @@
       "name": "Pixez Flutter",
       "sourceCode": "https://github.com/Notsfsssf/pixez-flutter",
       "summary": "\u4e00\u4e2a\u652f\u6301\u514d\u4ee3\u7406\u76f4\u8fde\u53ca\u67e5\u770b\u52a8\u56fe\u7684\u7b2c\u4e09\u65b9Pixiv flutter\u5ba2\u6237\u7aef",
-      "added": 1729221378000,
+      "added": 1729307245000,
       "packageName": "com.perol.pixez",
-      "lastUpdated": 1729221440000,
+      "lastUpdated": 1729307304000,
       "localized": {
         "en-US": {
           "whatsNew": "- \u4fee\u590d\u56e0dart fix \u5bfc\u81f4\u7684\u63a8\u8350\u63d2\u753b load more \u5931\u6548\u7684\u95ee\u9898"
@@ -228,9 +228,9 @@
       "name": "tachiyomiJ2K",
       "sourceCode": "https://github.com/Jays2Kings/tachiyomiJ2K",
       "summary": "Free and open source manga reader for Android",
-      "added": 1729221385000,
+      "added": 1729307251000,
       "packageName": "eu.kanade.tachiyomi.j2k",
-      "lastUpdated": 1729221450000,
+      "lastUpdated": 1729307313000,
       "localized": {
         "en-US": {
           "whatsNew": "## Additions\n* Add custom extension repo support (@nboza)\n* Add back saving pages and covers in subfolders\n* Handle Brotli-compressed responses\n* Library hopper icon now shows the dynmaic grouping type (@e-shl)\n\n## Changes\n* Make entries already in library less visible in browse (@Hived)\n* Filtered scanlators are now accounted for in the library's unread/read count\n* Translations have been updated (To help translate, you can [contribute more to Tachiyomi or TachiJ2K here](https://hosted.weblate."
@@ -250,10 +250,10 @@
       "name": "Thanox",
       "sourceCode": "https://github.com/Tornaco/Thanox",
       "summary": "I am thanos! \ud83d\ude08 \ud83d\udc4c",
-      "added": 1729221366000,
+      "added": 1729307234000,
       "icon": "github.tornaco.android.thanos.3079983.png",
       "packageName": "github.tornaco.android.thanos",
-      "lastUpdated": 1729221416000,
+      "lastUpdated": 1729307281000,
       "localized": {
         "en-US": {
           "whatsNew": "### What's changed\n\n1. \u4fee\u590d\u78c1\u8d34\u8fdb\u5165\u5e94\u7528\u7ba1\u7406\u5d29\u6e83\u95ee\u9898 \n2. \u4fee\u590d\u6a21\u677f\u91cc\u667a\u80fd\u51bb\u7ed3\u5f00\u5173\u81ea\u52a8\u5173\u95ed\u95ee\u9898 \n3. \u667a\u80fd\u51bb\u7ed3\u53ef\u4ee5\u5f00\u542f\u51bb\u7ed3\u63d0\u793a \n4. \u4efb\u52a1\u6a21\u7cca\u53ef\u4ee5\u8bbe\u7f6e\u5b8c\u5168\u6a21\u7cca"
@@ -272,9 +272,9 @@
       "name": "TSBattery",
       "sourceCode": "https://github.com/fankes/TSBattery",
       "summary": "A new way to save your battery avoid cancer apps hacker it.",
-      "added": 1729221362000,
+      "added": 1729307230000,
       "packageName": "com.fankes.tsbattery",
-      "lastUpdated": 1729221405000,
+      "lastUpdated": 1729307270000,
       "localized": {
         "en-US": {
           "whatsNew": "1. \u4f7f\u7528 DexKit \u6765\u52a8\u6001\u9002\u914d\u6bcf\u4e2a\u7248\u672c\u7684 QQ\n2. \u66f4\u65b0\u5e95\u5c42 Hook API\n3. \u66f4\u65b0 API 34\n4. \u5176\u5b83\u529f\u80fd\u4f18\u5316\uff0c\u63d0\u5347\u7a33\u5b9a\u6027"
@@ -294,9 +294,9 @@
       "name": "\u54d4\u54e9\u6f2b\u6e38 BiliRoaming",
       "sourceCode": "https://github.com/yujincheng08/BiliRoaming",
       "summary": "b'\\xe5\\x93\\x94\\xe5\\x93\\xa9\\xe6\\xbc\\xab\\xe6\\xb8\\xb8\\xef\\xbc\\x8c\\xe8\\xa7\\xa3\\xe9\\x99\\xa4B\\xe7\\xab\\x99\\xe5\\xae\\xa2\\xe6\\x88\\xb7\\xe7\\xab\\xaf\\xe7\\x95\\xaa\\xe5\\x89\\xa7\\xe5\\x8c\\xba\\xe5\\x9f\\x9f\\xe9\\x99\\x90\\xe5\\x88\\xb6\\xe7\\x9a\\x84Xposed\\xe6\\xa8\\xa1\\xe5\\x9d\\x97\\xef\\xbc\\x8c\\xe5\\xb9\\xb6\\xe4\\xb8\\x94\\xe6...'",
-      "added": 1729221345000,
+      "added": 1729307213000,
       "packageName": "me.iacn.biliroaming",
-      "lastUpdated": 1729221391000,
+      "lastUpdated": 1729307258000,
       "localized": {
         "en-US": {
           "whatsNew": "Xpatch/LSPatch \u7248\u4e0b\u8f7d\u5730\u5740\uff1ahttps://wwe.lanzoux.com/b015ll4sb 2333\n\u5907\u4efd\u4e0b\u8f7d\u5730\u5740\uff1ahttps://wwe.lanzoux.com/b0159j7uh 2333\n\n\u611f\u8c22 @cxw620 \u7684\u8d21\u732e\uff01\n\n### \u66f4\u65b0\u65e5\u5fd7\n- \u4fee\u590d\u5927\u91cf\u81ea 7.41 \u7248\u672c\u517c\u5bb9\u95ee\u9898\n- \u6539\u5584 PCDN \u66ff\u6362\n- \u6dfb\u52a0\u7981\u6b62\u64ad\u653e\u5668\u957f\u6309\u52a0\u901f\n- \u652f\u6301\u56fa\u5b9a\u63a8\u8350\u9875\u9762\u5c01\u9762\u6bd4\u4f8b\n"
@@ -316,10 +316,10 @@
       "name": "\u675c\u6bd4\u5927\u5587\u53ed\u03b2\u7248 DolbyBeta",
       "sourceCode": "https://github.com/nining377/dolby_beta",
       "summary": "b'\\xe6\\x9d\\x9c\\xe6\\xaf\\x94\\xe5\\xa4\\xa7\\xe5\\x96\\x87\\xe5\\x8f\\xad\\xe7\\x9a\\x84\\xce\\xb2\\xe7\\x89\\x88\\xe8\\xbf\\x8e\\xe6\\x9d\\xa5\\xe4\\xba\\x86\\xe9\\x87\\x8d\\xe5\\xa4\\xa7\\xe7\\x9a\\x84\\xe9\\x9d\\xa9\\xe6\\x96\\xb0\\xef\\xbc\\x8c\\xe5\\x90\\x88\\xe5\\xb9\\xb6\\xe4\\xba\\x86UnblockMusic Pro\\xe7\\x9a...'",
-      "added": 1729221346000,
+      "added": 1729307215000,
       "icon": "com.raincat.dolby_beta.354.png",
       "packageName": "com.raincat.dolby_beta",
-      "lastUpdated": 1729221349000,
+      "lastUpdated": 1729307217000,
       "localized": {
         "en-US": {
           "whatsNew": "\u4fee\u590dcookie\u7c7b\u52a8\u6001hook\u5931\u8d25\u5bfc\u81f4\u76848.7.86\u4ee5\u4e0a\u7248\u672c\u62a5\u9519"
@@ -339,9 +339,9 @@
       "name": "\u9690\u85cf\u5e94\u7528\u5217\u8868 Hide-My-Applist",
       "sourceCode": "https://github.com/Dr-TSNG/Hide-My-Applist",
       "summary": "An Xposed module to intercept applist detections",
-      "added": 1729221350000,
+      "added": 1729307219000,
       "packageName": "com.tsng.hidemyapplist",
-      "lastUpdated": 1729221352000,
+      "lastUpdated": 1729307220000,
       "localized": {
         "en-US": {
           "whatsNew": "Fix crash on Android 14\nPrevent a detection from system service\nUpdate translations\n#\n\u4fee\u590d Android 14 \u4e0a\u95ea\u9000\n\u907f\u514d\u4e00\u4e2a\u7cfb\u7edf\u670d\u52a1\u7684\u68c0\u6d4b\n\u66f4\u65b0\u7ffb\u8bd1"
@@ -352,7 +352,7 @@
   "packages": {
     "com.fankes.tsbattery": [
       {
-        "added": 1729221365000,
+        "added": 1729307233000,
         "apkName": "TSBattery_4.4.apk",
         "hash": "960ab69ff1a821de5e191fbd87bf432265bf55e5fce32948d0a74c527c536294",
         "hashType": "sha256",
@@ -384,7 +384,7 @@
     ],
     "com.nihility.mipush": [
       {
-        "added": 1729221354000,
+        "added": 1729307223000,
         "apkName": "MiPushXposed_v0.0.26.apk",
         "hash": "ecf644e556f8482b20289513300e6f6765c6818a500f4de8f9726c8fd251fd99",
         "hashType": "sha256",
@@ -406,7 +406,7 @@
     ],
     "com.perol.pixez": [
       {
-        "added": 1729221378000,
+        "added": 1729307245000,
         "apkName": "pixez_0.9.42.apk",
         "hash": "a933cd44bccf9beffb6ed9bc10aaa6132ebada39ba38090d15a86527862de598",
         "hashType": "sha256",
@@ -463,7 +463,7 @@
     ],
     "com.raincat.dolby_beta": [
       {
-        "added": 1729221349000,
+        "added": 1729307217000,
         "apkName": "DolbyBeta_v3.5.4.apk",
         "hash": "4651c9524ad600941e694c5494aee2fdcfaa14c7a0d78dac9a0efe289e4731db",
         "hashType": "sha256",
@@ -482,7 +482,7 @@
     ],
     "com.tsng.hidemyapplist": [
       {
-        "added": 1729221351000,
+        "added": 1729307220000,
         "apkName": "HideMyApplist_V3.2.apk",
         "hash": "ee12c1b6bc9a4f463ec40775d253a8fa02c327136349960a600467b0593923f9",
         "hashType": "sha256",
@@ -532,7 +532,7 @@
     ],
     "com.xiaomi.xmsf": [
       {
-        "added": 1729221389000,
+        "added": 1729307256000,
         "apkName": "xmsf_v0.3.10.apk",
         "hash": "fa995a04955093f5a20b43a17094aa1df70def196260f289e65fa5fb7eb395cf",
         "hashType": "sha256",
@@ -622,7 +622,7 @@
     ],
     "eu.kanade.tachiyomi.j2k": [
       {
-        "added": 1729221389000,
+        "added": 1729307255000,
         "apkName": "tachiyomiJ2K_v1.7.4.apk",
         "hash": "f8d3cfdfb47da292f55ec93c11556088387911b0e3bb8f32e883c5bdbc933b4d",
         "hashType": "sha256",
@@ -747,7 +747,7 @@
     ],
     "fun.upup.musicfree": [
       {
-        "added": 1729221356000,
+        "added": 1729307224000,
         "apkName": "MusicFree_v0.3.0.apk",
         "hash": "ca4f100cfb0d276e0284a31be3f2d3a99ee05473bc9a3f7fe9ba4e6a53d42817",
         "hashType": "sha256",
@@ -823,7 +823,7 @@
     ],
     "github.tornaco.android.thanos": [
       {
-        "added": 1729221367000,
+        "added": 1729307235000,
         "apkName": "Thanox_v5.0.7.apk",
         "hash": "cdf30aead743c569e4ac3c239694e9c4f184a0ca26281c9c985e65c4edc0443a",
         "hashType": "sha256",
@@ -919,7 +919,7 @@
     ],
     "io.legado.app.release": [
       {
-        "added": 1729221372000,
+        "added": 1729307239000,
         "apkName": "legado_3.23.073011.apk",
         "hash": "e8821bab6184fecf67cc6e214405cfb538195063f67dbc52808187c3e8416953",
         "hashType": "sha256",
@@ -1011,7 +1011,7 @@
     ],
     "io.nichijou.flutter.mikan": [
       {
-        "added": 1729221373000,
+        "added": 1729307240000,
         "apkName": "mikan_flutter_v1.2.4.apk",
         "hash": "861f5b3c89bf72e80bccdddbaf9460919e6e3baa216afd7a4ae94f744a4dd142",
         "hashType": "sha256",
@@ -1064,7 +1064,7 @@
     ],
     "me.iacn.biliroaming": [
       {
-        "added": 1729221346000,
+        "added": 1729307214000,
         "apkName": "BiliRoaming_v1.7.0.apk",
         "hash": "e0350e7821af3e3e7b45c8669b4c7cf50f2f19a9f3f933ae2a0c5a85bfee74ea",
         "hashType": "sha256",
@@ -1095,7 +1095,7 @@
     ],
     "me.weishu.kernelsu": [
       {
-        "added": 1729221352000,
+        "added": 1729307221000,
         "apkName": "KernelSu_v0.9.3.apk",
         "hash": "aba0cdcf8e0dd33a2ad07dbad50d1e118bea384fcc12b26f713b90d12cef5043",
         "hashType": "sha256",
@@ -1125,7 +1125,7 @@
     ],
     "moe.nb4a": [
       {
-        "added": 1729221361000,
+        "added": 1729307229000,
         "apkName": "NekoBoxForAndroid_1.2.9.apk",
         "hash": "a3724d18c3bc1d73e23e9b7da1a5709b802cec6008d2f420c715c3cb0ead3401",
         "hashType": "sha256",
@@ -1214,7 +1214,7 @@
     ],
     "org.hello.coolapk": [
       {
-        "added": 1729221349000,
+        "added": 1729307218000,
         "apkName": "FuckCoolapkR_1162-Release-1.16.2.apk",
         "hash": "396ebbf7cb833a91ad487214b4928c1c1fa4eb83f23c2754a6a33393d63966c9",
         "hashType": "sha256",
