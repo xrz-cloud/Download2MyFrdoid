@@ -14,16 +14,16 @@
       }
     },
     "address": "https://raw.githubusercontent.com/xrz-cloud/Download2MyFrdoid/main/fdroid/repo",
-    "timestamp": 1729912038000
+    "timestamp": 1729999305000
   },
   "packages": {
     "com.fankes.tsbattery": {
       "metadata": {
-        "added": 1729911923000,
+        "added": 1729999188000,
         "categories": [
           "Xposed"
         ],
-        "lastUpdated": 1729911964000,
+        "lastUpdated": 1729999229000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/fankes/TSBattery",
         "authorName": "fankes",
@@ -40,7 +40,7 @@
       },
       "versions": {
         "960ab69ff1a821de5e191fbd87bf432265bf55e5fce32948d0a74c527c536294": {
-          "added": 1729911926000,
+          "added": 1729999191000,
           "file": {
             "name": "/TSBattery_4.4.apk",
             "sha256": "960ab69ff1a821de5e191fbd87bf432265bf55e5fce32948d0a74c527c536294",
@@ -78,12 +78,12 @@
     },
     "com.nihility.mipush": {
       "metadata": {
-        "added": 1729911915000,
+        "added": 1729999180000,
         "categories": [
           "System",
           "Xposed"
         ],
-        "lastUpdated": 1729911916000,
+        "lastUpdated": 1729999181000,
         "sourceCode": "https://github.com/NihilityT/MiPush",
         "authorName": "NihilityT",
         "name": {
@@ -99,7 +99,7 @@
       },
       "versions": {
         "ecf644e556f8482b20289513300e6f6765c6818a500f4de8f9726c8fd251fd99": {
-          "added": 1729911916000,
+          "added": 1729999181000,
           "file": {
             "name": "/MiPushXposed_v0.0.26.apk",
             "sha256": "ecf644e556f8482b20289513300e6f6765c6818a500f4de8f9726c8fd251fd99",
@@ -128,12 +128,12 @@
     },
     "com.perol.pixez": {
       "metadata": {
-        "added": 1729911938000,
+        "added": 1729999203000,
         "categories": [
           "Reading",
           "Graphics"
         ],
-        "lastUpdated": 1729911998000,
+        "lastUpdated": 1729999264000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/Notsfsssf/pixez-flutter",
         "authorName": "Notsfsssf",
@@ -150,7 +150,7 @@
       },
       "versions": {
         "a933cd44bccf9beffb6ed9bc10aaa6132ebada39ba38090d15a86527862de598": {
-          "added": 1729911938000,
+          "added": 1729999203000,
           "file": {
             "name": "/pixez_0.9.42.apk",
             "sha256": "a933cd44bccf9beffb6ed9bc10aaa6132ebada39ba38090d15a86527862de598",
@@ -206,12 +206,12 @@
     },
     "com.raincat.dolby_beta": {
       "metadata": {
-        "added": 1729911908000,
+        "added": 1729999173000,
         "categories": [
           "Internet",
           "Xposed"
         ],
-        "lastUpdated": 1729911910000,
+        "lastUpdated": 1729999175000,
         "license": "MIT",
         "sourceCode": "https://github.com/nining377/dolby_beta",
         "authorName": "nining377",
@@ -235,7 +235,7 @@
       },
       "versions": {
         "4651c9524ad600941e694c5494aee2fdcfaa14c7a0d78dac9a0efe289e4731db": {
-          "added": 1729911910000,
+          "added": 1729999175000,
           "file": {
             "name": "/DolbyBeta_v3.5.4.apk",
             "sha256": "4651c9524ad600941e694c5494aee2fdcfaa14c7a0d78dac9a0efe289e4731db",
@@ -262,12 +262,12 @@
     },
     "com.tsng.hidemyapplist": {
       "metadata": {
-        "added": 1729911911000,
+        "added": 1729999176000,
         "categories": [
           "System",
           "Xposed"
         ],
-        "lastUpdated": 1729911913000,
+        "lastUpdated": 1729999178000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/Dr-TSNG/Hide-My-Applist",
         "authorName": "Dr-TSNG",
@@ -284,7 +284,7 @@
       },
       "versions": {
         "ee12c1b6bc9a4f463ec40775d253a8fa02c327136349960a600467b0593923f9": {
-          "added": 1729911912000,
+          "added": 1729999178000,
           "file": {
             "name": "/HideMyApplist_V3.2.apk",
             "sha256": "ee12c1b6bc9a4f463ec40775d253a8fa02c327136349960a600467b0593923f9",
@@ -334,12 +334,12 @@
     },
     "com.xiaomi.xmsf": {
       "metadata": {
-        "added": 1729911950000,
+        "added": 1729999214000,
         "categories": [
           "System",
           "Internet"
         ],
-        "lastUpdated": 1729911951000,
+        "lastUpdated": 1729999216000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/NihilityT/MiPushFramework",
         "screenshots": {
@@ -374,7 +374,7 @@
       },
       "versions": {
         "fa995a04955093f5a20b43a17094aa1df70def196260f289e65fa5fb7eb395cf": {
-          "added": 1729911950000,
+          "added": 1729999214000,
           "file": {
             "name": "/xmsf_v0.3.10.apk",
             "sha256": "fa995a04955093f5a20b43a17094aa1df70def196260f289e65fa5fb7eb395cf",
@@ -454,12 +454,12 @@
     },
     "eu.kanade.tachiyomi.j2k": {
       "metadata": {
-        "added": 1729911945000,
+        "added": 1729999210000,
         "categories": [
           "Reading",
           "Graphics"
         ],
-        "lastUpdated": 1729912008000,
+        "lastUpdated": 1729999273000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/Jays2Kings/tachiyomiJ2K",
         "authorName": "Jays2Kings",
@@ -476,7 +476,7 @@
       },
       "versions": {
         "f8d3cfdfb47da292f55ec93c11556088387911b0e3bb8f32e883c5bdbc933b4d": {
-          "added": 1729911949000,
+          "added": 1729999214000,
           "file": {
             "name": "/tachiyomiJ2K_v1.7.4.apk",
             "sha256": "f8d3cfdfb47da292f55ec93c11556088387911b0e3bb8f32e883c5bdbc933b4d",
@@ -583,12 +583,12 @@
     },
     "fun.upup.musicfree": {
       "metadata": {
-        "added": 1729911917000,
+        "added": 1729999182000,
         "categories": [
           "Internet",
           "Multimedia"
         ],
-        "lastUpdated": 1729911920000,
+        "lastUpdated": 1729999185000,
         "license": "AGPL-3.0",
         "sourceCode": "https://github.com/maotoumao/MusicFree",
         "authorName": "maotoumao",
@@ -605,7 +605,7 @@
       },
       "versions": {
         "ca4f100cfb0d276e0284a31be3f2d3a99ee05473bc9a3f7fe9ba4e6a53d42817": {
-          "added": 1729911917000,
+          "added": 1729999182000,
           "file": {
             "name": "/MusicFree_v0.3.0.apk",
             "sha256": "ca4f100cfb0d276e0284a31be3f2d3a99ee05473bc9a3f7fe9ba4e6a53d42817",
@@ -676,12 +676,12 @@
     },
     "github.tornaco.android.thanos": {
       "metadata": {
-        "added": 1729911927000,
+        "added": 1729999192000,
         "categories": [
           "System",
           "Xposed"
         ],
-        "lastUpdated": 1729911975000,
+        "lastUpdated": 1729999241000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/Tornaco/Thanox",
         "authorName": "Tornaco",
@@ -705,7 +705,7 @@
       },
       "versions": {
         "cdf30aead743c569e4ac3c239694e9c4f184a0ca26281c9c985e65c4edc0443a": {
-          "added": 1729911928000,
+          "added": 1729999192000,
           "file": {
             "name": "/Thanox_v5.0.7.apk",
             "sha256": "cdf30aead743c569e4ac3c239694e9c4f184a0ca26281c9c985e65c4edc0443a",
@@ -791,11 +791,11 @@
     },
     "io.legado.app.release": {
       "metadata": {
-        "added": 1729911933000,
+        "added": 1729999198000,
         "categories": [
           "Reading"
         ],
-        "lastUpdated": 1729911978000,
+        "lastUpdated": 1729999244000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/gedoor/legado",
         "authorName": "gedoor",
@@ -812,7 +812,7 @@
       },
       "versions": {
         "e8821bab6184fecf67cc6e214405cfb538195063f67dbc52808187c3e8416953": {
-          "added": 1729911933000,
+          "added": 1729999198000,
           "file": {
             "name": "/legado_3.23.073011.apk",
             "sha256": "e8821bab6184fecf67cc6e214405cfb538195063f67dbc52808187c3e8416953",
@@ -895,12 +895,12 @@
     },
     "io.nichijou.flutter.mikan": {
       "metadata": {
-        "added": 1729911933000,
+        "added": 1729999198000,
         "categories": [
           "Internet",
           "Multimedia"
         ],
-        "lastUpdated": 1729911980000,
+        "lastUpdated": 1729999246000,
         "license": "Apache-2.0",
         "sourceCode": "https://github.com/iota9star/mikan_flutter",
         "screenshots": {
@@ -938,7 +938,7 @@
       },
       "versions": {
         "861f5b3c89bf72e80bccdddbaf9460919e6e3baa216afd7a4ae94f744a4dd142": {
-          "added": 1729911933000,
+          "added": 1729999198000,
           "file": {
             "name": "/mikan_flutter_v1.2.4.apk",
             "sha256": "861f5b3c89bf72e80bccdddbaf9460919e6e3baa216afd7a4ae94f744a4dd142",
@@ -991,12 +991,12 @@
     },
     "me.iacn.biliroaming": {
       "metadata": {
-        "added": 1729911906000,
+        "added": 1729999171000,
         "categories": [
           "Internet",
           "Xposed"
         ],
-        "lastUpdated": 1729911951000,
+        "lastUpdated": 1729999216000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/yujincheng08/BiliRoaming",
         "authorName": "yujincheng08",
@@ -1013,7 +1013,7 @@
       },
       "versions": {
         "e0350e7821af3e3e7b45c8669b4c7cf50f2f19a9f3f933ae2a0c5a85bfee74ea": {
-          "added": 1729911907000,
+          "added": 1729999172000,
           "file": {
             "name": "/BiliRoaming_v1.7.0.apk",
             "sha256": "e0350e7821af3e3e7b45c8669b4c7cf50f2f19a9f3f933ae2a0c5a85bfee74ea",
@@ -1050,11 +1050,11 @@
     },
     "me.weishu.kernelsu": {
       "metadata": {
-        "added": 1729911913000,
+        "added": 1729999179000,
         "categories": [
           "System"
         ],
-        "lastUpdated": 1729911957000,
+        "lastUpdated": 1729999222000,
         "license": "GPL-3.0",
         "sourceCode": "https://github.com/tiann/KernelSU",
         "authorName": "tiann",
@@ -1071,7 +1071,7 @@
       },
       "versions": {
         "aba0cdcf8e0dd33a2ad07dbad50d1e118bea384fcc12b26f713b90d12cef5043": {
-          "added": 1729911913000,
+          "added": 1729999179000,
           "file": {
             "name": "/KernelSu_v0.9.3.apk",
             "sha256": "aba0cdcf8e0dd33a2ad07dbad50d1e118bea384fcc12b26f713b90d12cef5043",
@@ -1107,12 +1107,12 @@
     },
     "moe.nb4a": {
       "metadata": {
-        "added": 1729911920000,
+        "added": 1729999186000,
         "categories": [
           "Internet",
           "Connectivity"
         ],
-        "lastUpdated": 1729911963000,
+        "lastUpdated": 1729999228000,
         "license": "NOASSERTION",
         "sourceCode": "https://github.com/MatsuriDayo/NekoBoxForAndroid",
         "authorName": "MatsuriDayo",
@@ -1129,7 +1129,7 @@
       },
       "versions": {
         "a3724d18c3bc1d73e23e9b7da1a5709b802cec6008d2f420c715c3cb0ead3401": {
-          "added": 1729911921000,
+          "added": 1729999187000,
           "file": {
             "name": "/NekoBoxForAndroid_1.2.9.apk",
             "sha256": "a3724d18c3bc1d73e23e9b7da1a5709b802cec6008d2f420c715c3cb0ead3401",
@@ -1209,11 +1209,11 @@
     },
     "org.hello.coolapk": {
       "metadata": {
-        "added": 1729911910000,
+        "added": 1729999175000,
         "categories": [
           "Xposed"
         ],
-        "lastUpdated": 1729911911000,
+        "lastUpdated": 1729999176000,
         "sourceCode": "https://github.com/Xposed-Modules-Repo/org.hello.coolapk",
         "authorName": "Xposed-Modules-Repo",
         "name": {
@@ -1229,7 +1229,7 @@
       },
       "versions": {
         "396ebbf7cb833a91ad487214b4928c1c1fa4eb83f23c2754a6a33393d63966c9": {
-          "added": 1729911911000,
+          "added": 1729999176000,
           "file": {
             "name": "/FuckCoolapkR_1162-Release-1.16.2.apk",
             "sha256": "396ebbf7cb833a91ad487214b4928c1c1fa4eb83f23c2754a6a33393d63966c9",
