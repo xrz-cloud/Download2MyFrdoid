@@ -1,11 +1,11 @@
-tachiyomiJ2K:
-  git: https://github.com/Jays2Kings/tachiyomiJ2K
-  name: "tachiyomiJ2K"
+mikan_flutter:
+  git: https://github.com/iota9star/mikan_flutter
+  name: "mikan_flutter"
   description: |
-    TachiyomiJ2K is a free and open source manga reader for Android 6.0 and above. Based on the original Tachiyomi
+    Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，🚧 开发中...
 
   # As described on https://f-droid.org/en/docs/Build_Metadata_Reference/#Categories,
   # you can use any name here, but you should look at the existing categories first
   categories: 
-    - Reading
-    - Graphics
+    - Internet
+    - Multimedia
