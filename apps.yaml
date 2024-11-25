@@ -30,44 +30,6 @@ HideMyApplist:
     - System
     - Xposed
 
-FuckCoolapkR:
-  git: https://github.com/Xposed-Modules-Repo/org.hello.coolapk
-  name: "FuckCoolapkR"
-  description: |
-    Remove Ads and offer some functions in coolapk.
-    Best present for 316 and 423.
-  categories:
-    - Xposed
-
-TSBattery:
-  git: https://github.com/fankes/TSBattery
-  name: "TSBattery"
-  description: |
-    A new way to save your battery avoid cancer apps hacker it.
-    TSBattery 是一个旨在使 QQ、TIM、微信 变得更省电的开源 Xposed 模块。
-  categories:
-    - Xposed
-
-Thanox:
-  git: https://github.com/Tornaco/Thanox
-  name: "Thanox"
-  description: |
-    Thanox是一个Android系统管理工具，在系统隐私和系统优化方便提供了便利的功能。包含应用的权限管理，后台启动管理，后台运行管理，以及强大的情景模式和独特新奇的移花接木功能。
-  categories:
-    - System
-    - Xposed
-
-pixez:
-  git: https://github.com/Notsfsssf/pixez-flutter
-  name: "Pixez Flutter"
-  description: |
-    使用 Flutter 编写的 pixiv 第三方客户端。
-    同样支持中国大陆地区直连。
-    🎵 Mili - In Hell We Live, Lament 🎵
-  categories:
-    - Reading
-    - Graphics
-
 xmsf:
   git: https://github.com/NihilityT/MiPushFramework
   name: "MiPushFramework 小米系统级推送框架"
@@ -88,15 +50,6 @@ MiPushXposed:
   categories:
     - System
     - Xposed
-
-MusicFree:
-  git: https://github.com/maotoumao/MusicFree
-  name: "MusicFree"
-  description: |
-    插件化、定制化、无广告的免费音乐播放器
-  categories:
-    - Internet
-    - Multimedia
 
 mikan_flutter:
   git: https://github.com/iota9star/mikan_flutter
