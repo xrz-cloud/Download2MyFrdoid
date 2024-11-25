@@ -38,15 +38,3 @@ xmsf:
   categories:
     - System
     - Internet
-
-MiPushXposed:
-  git: https://github.com/NihilityT/MiPush
-  name: "MiPushFramework的分应用模块"
-  description: |
-    本模块需要配合MiPushFramework使用
-    MiPushFramework是一个能让不用MIUI的用户也能用上小米的系统推送服务的开源项目
-    默认情况下，其发送的通知是以“推送服务”的身份发送。
-    该模块借助 LSPosed 为 MiPushFramework 提供通知以目标应用发送的能力， 同时支持将应用运行环境伪装成小米设备，以此来实现无后台系统级别的推送通道。
-  categories:
-    - System
-    - Xposed
