@@ -50,12 +50,3 @@ MiPushXposed:
   categories:
     - System
     - Xposed
-
-mikan_flutter:
-  git: https://github.com/iota9star/mikan_flutter
-  name: "mikan_flutter"
-  description: |
-    Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，🚧 开发中...
-  categories:
-    - Internet
-    - Multimedia
